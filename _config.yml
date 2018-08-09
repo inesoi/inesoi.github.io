@@ -1,0 +1,115 @@
+# Hexo Configuration
+## Docs: http://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: Inesoi Bag Factory
+subtitle: 
+author: Inesoi Bag Factory
+author_title: 'Foreign Trade Sales Manager'
+avatar: /uploads/avatar.png
+location: 'Wenzhou, China'
+# follow: https://github.com/johnnyfee/
+language: en
+timezone:
+
+# Disqus
+#disqus_shortname: bloginchingorg
+# duoshuo_shortname: inching
+
+# Miscellaneous
+# baidu_analytics: 78d1a5db78bf9965d1ee747c6f5581b0
+google_analytics: UA-103612072-1
+
+# Share
+#baidushare: true
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: http://blog.inesoi.com/
+root: /
+permalink: :category/:year-:month-:day-:title.html
+permalink_defaults: en
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+default_layout: post
+titlecase: false # Transform title into titlecase
+external_link: true # Open external links in new tab
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  tab_replace:
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
+
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
+    
+# Category & Tag
+default_category: uncategorized
+# category_map:
+# tag_map:
+
+# Date / Time format
+## Hexo uses Moment.js to parse and display date
+## You can customize the date format as defined in
+## http://momentjs.com/docs/#/displaying/format/
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+
+# Pagination
+## Set per_page to 0 to disable pagination
+per_page: 15
+pagination_dir: page
+
+# Extensions
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: indigo
+
+## Docs: http://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repository: git@github.com:inesoi/inesoi.github.io.git
+  branch: master
