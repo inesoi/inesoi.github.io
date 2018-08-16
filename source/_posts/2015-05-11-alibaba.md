@@ -1,6 +1,6 @@
 layout: post
 title: "你们的阿里现状怎么样？"
-category： Trade
+category: Trade
 ---
 
 See [你们的阿里现状怎么样？ - 米课问答](http://ask.imiker.com/question/536)

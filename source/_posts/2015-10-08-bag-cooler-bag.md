@@ -1,6 +1,6 @@
 layout: post
 title: "箱包 - 冰包"
-category： Bags
+category: Bags
 ---
 
 ## Category

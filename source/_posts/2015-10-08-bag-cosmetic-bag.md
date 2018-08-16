@@ -1,6 +1,6 @@
 layout: post
 title: "箱包 - 化妆包"
-category： Bags
+category: Bags
 ---
 
 Toiletry Kit/Cosmetic Bag

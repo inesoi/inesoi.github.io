@@ -1,6 +1,6 @@
 layout: post
 title: "箱包 - 水袋包"
-category： Bags
+category: Bags
 ---
 
 ### Hydration reservoir compartment

@@ -1,6 +1,6 @@
 layout: post
 title: "计算箱包材料成本"
-category： Bags
+category: Bags
 ---
 
 算料说白了其实很简单的，就是计算材料的面积

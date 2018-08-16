@@ -1,6 +1,6 @@
 layout: post
 title: "Mr. Hua"
-category： Trade
+category: Trade
 ---
 
 - [Mr.Hua 创业日志](http://www.huastory.com/)

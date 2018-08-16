@@ -1,6 +1,6 @@
 layout: post
 title: "Facebook 营销"
-category： Trade
+category: Trade
 ---
 
 ## Facebook 特点

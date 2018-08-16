@@ -1,6 +1,6 @@
 layout: post
 title: "Plastic"
-category： Bags
+category: Bags
 ---
 
 ## 塑料

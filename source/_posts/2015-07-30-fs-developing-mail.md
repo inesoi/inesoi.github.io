@@ -1,6 +1,6 @@
 layout: post
 title: "开发信"
-category： Sale
+category: Sale
 ---
 
 高回复率 =Basic Search, Target Right (初步调查，有的放矢) + 避开SPAM过滤词 + 少图片少链接 + 好的标题 + 行文简洁清晰 + 有吸引客户的Key Point + 运气or时机（排最后但是占了不少权重！）

@@ -1,6 +1,6 @@
 layout: post
 title: "如何快速找到你的标杆同行并分析出他们的橱窗关键词"
-category： Bags
+category: Bags
 ---
 
 [数据管家—知己—我的产品升级啦！ -数据管家- 阿里巴巴外贸圈外贸论坛](http://waimaoquan.alibaba.com/bbs/read-htm-tid-2434037-1-fid-205.html)

@@ -1,6 +1,6 @@
 layout: post
 title: "70个让搜索更精准的国外搜索引擎"
-category： Trade
+category: Trade
 ---
 
 See <http://www.egouz.com/worldnews/topics/290.html>

@@ -1,6 +1,6 @@
 layout: post
 title: "背包"
-category： Bags
+category: Bags
 ---
 
 ## 分类

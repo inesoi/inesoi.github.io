@@ -1,6 +1,6 @@
 layout: post
 title: "Fabric"
-category： Bags
+category: Bags
 ---
 
 ## 牛津布 Oxford

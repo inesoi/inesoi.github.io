@@ -1,6 +1,6 @@
 layout: post
 title: "Alibaba - 关键词设置"
-category： Bags
+category: Bags
 ---
 
 作用：产品关键词是对产品名称的校正，便于机器快速识别准确抓取匹配。跟您的产品排在第几名是没有关系的。

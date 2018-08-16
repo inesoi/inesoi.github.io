@@ -1,6 +1,6 @@
 layout: post
 title: "外贸成交技巧"
-category： Trade
+category: Trade
 ---
 
 ## 网站

@@ -1,6 +1,6 @@
 layout: post
 title: "Ali Tutorial"
-category： Trade
+category: Trade
 ---
 
 ## Alibaba平台操作入门
