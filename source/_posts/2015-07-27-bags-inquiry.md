@@ -1,5 +1,5 @@
-layout： post
-title： "询盘技巧"
+layout: post
+title: "询盘技巧"
 category： Bags
 ---
 

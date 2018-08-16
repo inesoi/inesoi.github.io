@@ -1,5 +1,5 @@
-layout： post
-title： "Facebook 营销"
+layout: post
+title: "Facebook 营销"
 category： Trade
 ---
 

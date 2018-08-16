@@ -1,5 +1,5 @@
-layout： post
-title： "你们的阿里现状怎么样？"
+layout: post
+title: "你们的阿里现状怎么样？"
 category： Trade
 ---
 

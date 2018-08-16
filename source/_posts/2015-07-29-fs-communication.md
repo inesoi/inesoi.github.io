@@ -1,5 +1,5 @@
-layout： post
-title： "如何与客户沟通"
+layout: post
+title: "如何与客户沟通"
 category： Sale
 ---
 

@@ -1,5 +1,5 @@
-layout： post
-title： "外贸网站设计"
+layout: post
+title: "外贸网站设计"
 category： Trade
 ---
 

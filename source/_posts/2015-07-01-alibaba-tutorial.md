@@ -1,5 +1,5 @@
-layout： post
-title： "Ali Tutorial"
+layout: post
+title: "Ali Tutorial"
 category： Trade
 ---
 

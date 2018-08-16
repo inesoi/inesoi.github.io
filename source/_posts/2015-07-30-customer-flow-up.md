@@ -1,6 +1,6 @@
-layout： post
-title： "跟进客户"
-category： Foreign Trade
+layout: post
+title: "跟进客户"
+category: Trade
 ---
 
 我曾经询价一款纸巾，同时问江门的工厂和香港的贸易商同时询价，以下是我当初的邮件，这个Michael是工厂的业务经理。

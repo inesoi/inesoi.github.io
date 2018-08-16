@@ -1,5 +1,5 @@
-layout： post
-title： "Mr. Hua"
+layout: post
+title: "Mr. Hua"
 category： Trade
 ---
 

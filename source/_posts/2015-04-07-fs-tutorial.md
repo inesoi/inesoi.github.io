@@ -1,5 +1,5 @@
-layout： post
-title： "外贸成交技巧"
+layout: post
+title: "外贸成交技巧"
 category： Trade
 ---
 

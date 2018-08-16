@@ -1,5 +1,5 @@
-layout： post
-title： "开发信"
+layout: post
+title: "开发信"
 category： Sale
 ---
 

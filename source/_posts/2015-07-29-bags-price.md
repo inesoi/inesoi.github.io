@@ -1,5 +1,5 @@
-layout： post
-title： "计算箱包材料成本"
+layout: post
+title: "计算箱包材料成本"
 category： Bags
 ---
 

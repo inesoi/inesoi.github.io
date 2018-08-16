@@ -1,5 +1,5 @@
-layout： post
-title： "如何快速找到你的标杆同行并分析出他们的橱窗关键词"
+layout: post
+title: "如何快速找到你的标杆同行并分析出他们的橱窗关键词"
 category： Bags
 ---
 

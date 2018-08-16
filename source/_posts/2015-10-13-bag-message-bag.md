@@ -1,5 +1,5 @@
-layout： post
-title： "箱包 - Message Bag"
+layout: post
+title: "箱包 - Message Bag"
 category： Bags
 ---
 

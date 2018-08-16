@@ -1,6 +1,6 @@
-layout： post
-title： "阿里巴巴排名"
-category： Foreign Trade
+layout: post
+title: "阿里巴巴排名"
+category: Trade
 ---
 
 ## 阿里巴巴排名

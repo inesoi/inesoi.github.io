@@ -1,5 +1,5 @@
-layout： post
-title： "箱包 - 皮革"
+layout: post
+title: "箱包 - 皮革"
 category： Bags
 ---
 

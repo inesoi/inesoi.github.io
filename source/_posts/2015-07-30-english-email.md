@@ -1,6 +1,6 @@
-layout： post
-title： "邮件回复"
-category： Foreign Trade
+layout: post
+title: "邮件回复"
+category: Trade
 ---
 
 ## 表达邮件目的

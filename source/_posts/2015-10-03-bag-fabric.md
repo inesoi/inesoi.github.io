@@ -1,5 +1,5 @@
-layout： post
-title： "Fabric"
+layout: post
+title: "Fabric"
 category： Bags
 ---
 

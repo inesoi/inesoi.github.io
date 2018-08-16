@@ -1,5 +1,5 @@
-layout： post
-title： "箱包 - 专业英语"
+layout: post
+title: "箱包 - 专业英语"
 category： Bags
 ---
 

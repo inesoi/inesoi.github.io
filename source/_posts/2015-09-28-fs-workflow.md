@@ -1,6 +1,6 @@
-layout： post
-title： "外贸业务员工作流程"
-category： Foreign Trade
+layout: post
+title: "外贸业务员工作流程"
+category: Trade
 ---
 
 See [外贸业务员怎样提高工作效率？-料网 - 料神Sam外贸老鸟之路](http://www.liaosam.com/how-to-improve-efficiency.html)
