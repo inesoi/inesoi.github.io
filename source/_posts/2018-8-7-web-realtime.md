@@ -1,141 +1,400 @@
 layout: post
-title: Web端即时通讯技术盘点：短轮询、Comet、Websocket、SSE
-tags: [web, realtime]
-category: JavaScript
+title: A Comprehensive Guide for Buying the Best Leather
+tags: [leather, material]
+category: Material
 ---
 
-# **1. 前言**
+Whether it’s furniture or personal accessories, buying genuine leather items requires thoughtful consideration. As you are going to invest considerable funds into buying these products, you must know the answers to two key questions:
 
-Web端即时通讯技术因受限于浏览器的设计限制，一直以来实现起来并不容易，主流的Web端即时通讯方案大致有4种：传统Ajax短轮询、Comet技术、WebSocket技术、SSE（Server-sent Events）。本文将简要介绍这4种技术的原理，并指出各自的异同点、优缺点等。
+- "How do you identify the best leather?"
+- "Where do you buy it?"
 
-# **2. 学习交流**
+While making the final decision is ultimately up to you, the details provided in this leather guide will surely help to push you in the right direction.  But, before we dig deeper into various types, qualities, and features, let’s first take a glimpse at the history of the leather industry and how it has developed over time.  
 
-- 更多即时通讯技术资料：[http://www.52im.net/forum.php?mod=collection&op=all](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=collection&op=all)
+## Leather Industry
 
-- 即时通讯开发交流群：[215891622](https://link.jianshu.com/?t=http://shang.qq.com/wpa/qunwpa?idkey=4cc788473d261129ab3ded26fbb22168d0fa52c799d28f92a8f193dc36865bcb)[推荐]
+Leather tanning has been around for centuries. It’s one of the oldest industries in human civilization. Indians, Egyptians, Greeks, Chinese, and Mesopotamians had developed several different tanning processes centuries before industrialization. Leather was used to make intricate clothing articles such as footwear, gloves, and armor. It was also used to make buckets, bottles, and even weapons. The Industrial Revolution brought all kinds of new technological advances that made the leather-making process highly efficient, environment-friendly, and hygienic.
 
-# **3. 概述**
+The leather industry in the United States dates back to the colonial times. It grew with the population throughout the 18th century. By 1750, there were more than 1000 tanneries in the country. The number swelled to more than 8000 by 1840!  At the time, the primary leather activity was shoemaking. In 1850, over 11,000 shoemaking establishments were operating in the U.S.
 
-1996年IETF  HTTP工作组发布了HTTP协议的1.0版本 ，到现在普遍使用的版本1.1，HTTP协议经历了17 年的发展。这种分布式、无状态、基于TCP的请求/响应式、在互联网盛行的今天得到广泛应用的协议，相对于互联网的迅猛发展，它似乎进步地很慢。互联网从兴起到现在，经历了门户网站盛行的web1.0时代，而后随着ajax技术的出现，发展为web应用盛行的web2.0时代，如今又朝着web3.0的方向迈进。反观http协议，从版本1.0发展到1.1，除了默认长连接之外就是缓存处理、带宽优化和安全性等方面的不痛不痒的改进。它一直保留着无状态、请求/响应模式，似乎从来没意识到这应该有所改变。
+### U.S. Leather Industry
 
-好在HTML5的时代已经到来，为Web端即时通讯的实现带来了WebSocket和SSE（Server-sent Events）两种技术方案。
+U.S. hides and skins companies, which include producers, processors, brokers, and dealers, export more than [90%](http://www.ushsla.org/) of the total leather inventory. The U.S is one of the top raw material suppliers to the global leather manufacturing industry. The value of industry exports is worth nearly $3 billion dollars annually.
 
-# **4. Ajax短轮询：脚本发送的http请求**
+In 2016, the hide, skin, and leather industry exported more than[ $2 billion in cattle hides](http://www.rendermagazine.com/articles/2017-issues/april-2017/us-hide-skin-and-leather/), pigskins, and semi-processed leather products.
 
-传统的web应用要想与服务器交互，必须提交一个表单（form），服务器接收并处理传来的表单，然后返回全新的页面，因为前后两个页面的数据大部分都是相同的，这个过程传输了很多冗余的数据、浪费了带宽。于是Ajax技术便应运而生。
+### Global Leather Goods Market
 
-Ajax是Asynchronous JavaScript and XML的简称，由Jesse James Garrett 首先提出。这种技术开创性地允许浏览器脚本（JS）发送http请求。Outlook Web Access小组于98年使用，并很快成为IE4.0的一部分，但是这个技术一直很小众，直到2005年初，google在他的goole groups、gmail等交互式应用中广泛使用此种技术，才使得Ajax迅速被大家所接受。
+* According to the[ Global Leather Goods Market 2017-2021 Report](http://www.businesswire.com/news/home/20171003006031/en/Global-Leather-Goods-Market---Drivers-Forecasts), conducted by Technavio analysts, the global leather market is expected to grow at a compound annual growth rate (CAGR) of almost 5% from 2017-2021.
+* In 2017, the total market value was $217.49 billion. It is expected to reach $271.21 billion by 2021.
+* This segment is expected to represent an incremental growth of more than $53.72 billion during the forecast period.
+* The sub-segment of global footwear market was worth $126.99 billion in 2016.
+* In 2016, the Americas registered the highest leather revenue of $83.67 million.
 
-Ajax的出现使客户端与服务器端传输数据少了很多，也快了很多，也满足了以丰富用户体验为特点的web2.0时代 初期发展的需要，但是慢慢地也暴露了他的弊端。比如无法满足即时通信等富交互式应用的实时更新数据的要求。这种浏览器端的小技术毕竟还是基于http协议，http协议要求的请求/响应的模式也是无法改变的，除非http协议本身有所改变。
+![](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-Global-4.jpg)
 
-# **5. Comet：一种hack技术**
+## Types of Leather
 
-以即时通信为代表的web应用程序对数据的Low Latency要求，传统的基于轮询的方式已经无法满足，而且也会带来不好的用户体验。于是一种基于http长连接的“服务器推”技术便被hack出来。这种技术被命名为[Comet](https://link.jianshu.com/?t=http://en.wikipedia.org/wiki/Comet_(programming))，这个术语由Dojo Toolkit 的项目主管Alex Russell在博文[Comet: Low Latency Data for the Browser](https://link.jianshu.com/?t=http://alex.dojotoolkit.org/?p=545)首次提出，并沿用下来。
+The quality of leather varies greatly. You have most likely seen different labels on leather items, such as top grain or genuine. These are simply different types of leathers based on their quality. If you want to get the best bang for your buck, you not only need to know where to buy leather, you also need to know how to distinguish between different types. You will need to understand why some materials last longer than others and why a particular leather bag costs thousands, while others cost a fraction of that price.
 
-其实，服务器推很早就存在了，在经典的client/server模型中有广泛使用，只是浏览器太懒了，并没有对这种技术提供很好的支持。但是Ajax的出现使这种技术在浏览器上实现成为可能， google的gmail和gtalk的整合首先使用了这种技术。随着一些关键问题的解决（比如 IE 的加载显示问题），很快这种技术得到了认可，目前已经有很多成熟的开源Comet框架。
+So, what is the best leather?  The best quality leather will depend on these important factors, most notably:
 
-以下是典型的Ajax和Comet数据传输方式的对比，区别简单明了。典型的Ajax通信方式也是http协议的经典使用方式，要想取得数据，必须首先发送请求。在Low Latency要求比较高的web应用中，只能增加服务器请求的频率。Comet则不同，客户端与服务器端保持一个长连接，只有客户端需要的数据更新时，服务器才主动将数据推送给客户端。
+* Type of animal and breed
+* Physical location and climate where the animal lived
+* Portion of the hide the leather was cut from (see diagram below)
+* Layer of the hide that is used (top grain, full grain, split)
+* Quality and skill of the processing and tanning
 
-![](https://upload-images.jianshu.io/upload_images/1500839-5229dbcdd6f3bcca.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/511)
+![leather quality from different portions of the hide](https://www.octaneseating.com/wp-content/uploads/2017/12/Hide-Cutting.jpg)
 
-Comet的实现主要有两种方式，基于Ajax的长轮询（long-polling）方式和基于 Iframe 及 htmlfile 的流（http streaming）方式。
+Different breeds of cows will produce different quality hides due to their genetics and environment.  Hot climates tend to have insects that bite the animal and leave scars whereas cold climates don’t suffer from pests as much.  Certain breeds might have more protective hair or thicker skins due to the weather.
 
-有关Comet技术的详细介绍文章请参见：《[Comet技术详解：基于HTTP长连接的Web端实时通信技术](https://link.jianshu.com/?t=http://www.52im.net/thread-334-1-1.html)》、《[WEB端即时通讯：HTTP长连接、长轮询（long polling）详解](https://link.jianshu.com/?t=http://www.52im.net/thread-224-1-1.html)》、《[WEB端即时通讯：不用WebSocket也一样能搞定消息的即时性](https://link.jianshu.com/?t=http://www.52im.net/thread-296-1-1.html)》、《[开源Comet服务器iComet：支持百万并发的Web端即时通讯方案](https://link.jianshu.com/?t=http://www.52im.net/thread-330-1-1.html)》。
+Different portions of the hide also yield different quality leather. For instance, the lower portion, as shown in the diagram above, tends to have looser fibers that make up the hide.  The looser fibers sponge and swell when wet.  Lower portions of the hide also tend to get marked much easier from insects and scrapes like barbed wire fencing.  There are also more wrinkles in the hide around the legs, neck and head.  These scars and wrinkles become permanent and are almost impossible to remove in the processing of the leather.
 
-#### **5.1 基于Ajax的长轮询（long-polling）方式**
+Different layers within the hide also have an enormous impact on quality.  Full grain leather and top-grain are the best.  See our in depth focus on the grain vs split just a few paragraphs further down to know which portion you are buying.
 
-浏览器发出XMLHttpRequest 请求，服务器端接收到请求后，会阻塞请求直到有数据或者超时才返回，浏览器JS在处理请求返回信息（超时或有效数据）后再次发出请求，重新建立连接。在此期间服务器端可能已经有新的数据到达，服务器会选择把数据保存，直到重新建立连接，浏览器会把所有数据一次性取回。
+Finally, knowing exactly how to take a raw hide and process it through tanning and finishing is a sought after skill and will influence the quality of the final product significantly.  Italian leather is admired for this very reason – as Italian leather artisans are considered amongst the most skilled in the world.
 
-![](https://upload-images.jianshu.io/upload_images/1500839-32e566970193adbf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/358)
+In general, there are four types of leather.  These include Full Grain Leather, Top Grain Leather, Corrected Grain Leather, and Bonded Leather. Take a look at the picture below. See how the fibers run both horizontally and vertically in different parts of the hide.
 
-#### **5.2 基于 Iframe 及 htmlfile 的流（http streaming）方式**
+Buying leather with more horizontal fibers wears out quickly because they can readily pull apart. Vertically running fibers, however, are the strongest. In other words, the higher the number of vertical fibers, the better.
 
-Iframe是html标记，这个标记的src属性会保持对指定服务器的长连接请求，服务器端则可以不停地返回数据，相对于第一种方式，这种方式跟传统的服务器推则更接近。  
+### A. Full Grain Leather
 
-在第一种方式中，浏览器在收到数据后会直接调用JS回调函数，但是这种方式该如何响应数据呢？可以通过在返回数据中嵌入JS脚本的方式，如“”，服务器端将返回的数据作为回调函数的参数，浏览器在收到数据后就会执行这段JS脚本。
+Full grain leather comes from the top layer of the hide. It includes all the grain with it – hence the name full grain leather. This type of leather retains the inherent toughness, as well as the imperfections because there are no surface alterations or splitting.
 
-![](https://upload-images.jianshu.io/upload_images/1500839-d84d4439f354ef5a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/328)
+It is the highest quality leather and the only one suitable for saddleback. Thus, it is also the most expensive. Working with this leather material is challenging. It absorbs body oils and develops a patina over time – a characteristic that attributes to its popularity.
 
-但是这种方式有一个明显的不足之处：IE、Morzilla Firefox 下端的进度栏都会显示加载没有完成，而且 IE 上方的图标会不停的转动，表示加载正在进行。Google 的天才们使用一个称为“[htmlfile](https://link.jianshu.com/?t=http://infrequently.org/2006/02/what-else-is-burried-down-in-the-depths-of-googles-amazing-javascript/)”的 ActiveX 解决了在 IE 中的加载显示问题，并将这种方法应用到了 gmail+gtalk 产品中。
+### B. Top Grain Leather
 
-# **6. Websocket：未来的解决方案1**
+Top grain is the second highest grade of leather. Usually, to obtain top grain leather, the top layer of skin from blemished hides is split. The surface is sanded to get rid of inherent imperfections. Pigmentation or staining gives the leather an attractive look.
 
-如果说Ajax的出现是互联网发展的必然，那么Comet技术的出现则更多透露出一种无奈，仅仅作为一种hack技术，因为没有更好的解决方案。Comet解决的问题应该由谁来解决才是合理的呢？浏览器，html标准，还是http标准？主角应该是谁呢？本质上讲，这涉及到数据传输方式，http协议应首当其冲，是时候改变一下这个懒惰的协议的请求/响应模式了。
+This also makes top grain leather smoother and more flexible than the full grain. Although this type of leather is strong and durable, it tends to stretch permanently over time. It is used to produce suede and nubuck. Most high-end products, such as handbags and jackets, are comprised of top grain leather.
 
-W3C给出了答案，在新一代html标准html5中提供了一种浏览器和服务器间进行全双工通讯的网络技术Websocket。从Websocket草案得知，Websocket是一个全新的、独立的协议，基于TCP协议，与http协议兼容、却不会融入http协议，仅仅作为html5的一部分。于是乎脚本又被赋予了另一种能力：发起websocket请求。这种方式我们应该很熟悉，因为Ajax就是这么做的，所不同的是，Ajax发起的是http请求而已。
+![the leather grain separation between corium, flesh and the grain of the hide](https://www.octaneseating.com/wp-content/uploads/2017/12/Leather-Grain-3.jpg)
 
-与http协议不同的请求/响应模式不同，Websocket在建立连接之前有一个Handshake（Opening Handshake）过程，在关闭连接前也有一个Handshake（Closing Handshake）过程，建立连接之后，双方即可双向通信。
+### C. Corrected Grain (Bottom Cut/Split) Leather
 
-有关WebSocket的详细介，请参见即时通讯网有关WebSocket的系列文章：《[WebSocket详解（一）：初步认识WebSocket技术](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=viewthread&tid=331&ctid=15)》、《[WebSocket详解（二）：技术原理、代码演示和应用案例](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=viewthread&tid=326&ctid=15)》、《[WebSocket详解（三）：深入WebSocket通信协议细节](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=viewthread&tid=332&ctid=15)》。
+Corrected grain leather, also known as genuine leather, is produced using the skin layers that remain after the top is split off. Just like the top grain leather, it is also sanded to remove natural imperfections. Usually, the surface is spray painted and embossed with a leather-like pattern to resemble natural appearance. However, the processing alters the inherent breathability of the leather.
 
-从浏览器支持角度来看，WebSocket已经近在眼前，但仍有一段较长的路要走，特别是在中国这个IE6、7、8依然盛行的国家，旧版本浏览器的消亡需要很长一段时间，在完全实现浏览器全兼容前，Comet技术可能仍然是最好的解决方案。不过，当前也已存在一些比较成熟的封装方案来解决这种兼容性限制，比如：开源的Socket.io，详见《[Socket.IO介绍：支持WebSocket、用于WEB端的即时通讯的框架](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=viewthread&tid=190&ctid=15)》。
+### D. Bonded Leather
 
-# **7. SSE：未来的解决方案2**
+Bonded leather is made up of leftovers of the hide. This includes the dust and shavings. These are bonded together using polyurethane or latex on top of a fiber sheet. It is often spray-painted to look like full or top grain leather. You can’t determine the percentage of natural leather unless the manufacturer chooses to disclose it – which is very unlikely. Bonded leather is the lowest (and the cheapest) grade of leather.
 
-SSE（Server-Sent Event，服务端推送事件）是一种允许服务端向客户端推送新数据的HTML5技术。与由客户端每隔几秒从服务端轮询拉取新数据相比，这是一种更优的解决方案。
+![bonded leather graphic showing leather content vs polyurethane](https://www.octaneseating.com/wp-content/uploads/2017/12/bonded-leather-diagram-1.jpg)
 
-与WebSocket相比，它也能从服务端向客户端推送数据。那如何决定你是用SSE还是WebSocket呢？概括来说，WebSocket能做的，SSE也能做，反之亦然，但在完成某些任务方面，它们各有千秋。
+Though there are four basic types of leather, you can find a wide range of options based on the percentage of organic material, durability, and the finishing process.
 
-WebSocket是一种更为复杂的服务端实现技术，但它是真正的双向传输技术，既能从服务端向客户端推送数据，也能从客户端向服务端推送数据。
+**Aniline Leather:**  This is the most natural leather with a minimal resistance to soiling. It requires regular upkeep.
 
-WebSocket和SSE的浏览器支持率差不多，大多数主流桌面浏览器两者都支持。在Android 4.3以及更早的版本中，系统默认浏览器两者都不支持，Firefox和Chrome则完全支持；Android 4.4中，系统默认浏览器两者都支持；Safari从5.0开始支持SSE（iOS系统从4.0开始），但直到6.0才正确地支持WebSocket（6.0之前的Safari所实现的WebSocket协议存在安全问题，所以一些主流浏览器已经禁用了基于这个协议的实现）。
+**Semi-Aniline Leather:**  Semi-aniline leather consists of a light surface coating with a small amount of pigment. Thus, it is stronger than aniline leather but maintains its natural look. It also exhibits stain resistance to some extent.
 
-与WebSocket相比，SSE有一些显著的优势。个人认为它最大的优势就是便利：不需要添加任何新组件，用任何你习惯的后端语言和框架就能继续使用。你不用为新建虚拟机、弄一个新的IP或新的端口号而劳神，就像在现有网站中新增一个页面那样简单。我喜欢把这称为既存基础设施优势。
+**Antique Grain Leather:**  This one is comprised of a unique surface processing that resembles the ragged appearance of conventional leather. It is also called distressed leather.
 
-SSE的第二个优势是服务端的简洁。相对而言，WebSocket则很复杂，不借助辅助类库基本搞不定（我试过，令人痛苦）。
+**Chrome-Free Leather:**  This type of leather uses aldehyde tanning, which, just like vegetable tanning, does not use chromium. Hence it is called chrome-free. Usually, it is used to make infant shoes and automobile accessories.
 
-因为SSE能在现有的HTTP/HTTPS协议上运作，所以它能直接运行于现有的代理服务器和认证技术。而对WebSocket而言，代理服务器需要做一些开发（或其他工作）才能支持，在写这本书时，很多服务器还没有（虽然这种状况会改善）。SSE还有一个优势：它是一种文本协议，脚本调试非常容易。事实上，在本书中，我们会在开发和测试时用curl，甚至直接在命令行中运行后端脚本。
+**Chrome Tanned Leather:**  Most leather manufacturers use chromium salts (chromium sulfates) for the tanning process instead of vegetable tanning. Though chrome tanned leather is thinner and softer than vegetable tanned leather, the process is not considered environmentally friendly.  
 
-不过，这就引出了WebSocket相较SSE的一个潜在优势：WebSocket是二进制协议，而SSE是文本协议（通常使用UTF-8编码）。当然，我们可以通过SSE连接传输二进制数据：在SSE中，只有两个具有特殊意义的字符，它们是CR和LF，而对它们进行转码并不难。但用SSE传输二进制数据时数据会变大，如果需要从服务端到客户端传输大量的二进制数据，最好还是用WebSocket。
+**Corrected Grain Pigmented Leather:**  Usually, imperfections are removed by abrading the grain surface before applying the coating. A decorative grain pattern is embossed to render a natural look.
 
-WebSocket相较SSE最大的优势在于它是双向交流的，这意味向服务端发送数据就像从服务端接收数据一样简单。用SSE时，一般通过一个独立的Ajax请求从客户端向服务端传送数据。相对于WebSocket，这样使用Ajax会增加开销，但也就多一点点而已。如此一来，问题就变成了“什么时候需要关心这个差异？”如果需要以1次/秒或者更快的频率向服务端传输数据，那应该用WebSocket。0.2次/秒到1次/秒的频率是一个灰色地带，用WebSocket和用SSE差别不大；但如果你期望重负载，那就有必要确定基准点。频率低于0.2次/秒左右时，两者差别不大。
+**Pigmented Leather:**  A polymer surface coating, containing certain pigments, is applied to produce the desired look and properties. Due to its durability, pigmented leather is often used to make furniture and car upholstery.
 
-从服务端向客户端传输数据的性能如何？如果是文本数据而非二进制数据（如前文所提到的），SSE和WebSocket没什么区别。它们都用TCP/IP套接字，都是轻量级协议。延迟、带宽、服务器负载等都没有区别，除非……呃？除非什么？
+![world wide leather supply usage](https://www.octaneseating.com/wp-content/uploads/2017/12/pyramid.jpg)
 
-当你在享用SSE的既存基础设施优势，并在客户端和服务端脚本之间设了一个网络服务器，区别就显现出来了。一个SSE连接不仅使用一个套接字，还会占用一个Apache线程或进程，如果用PHP，它会为这个连接专门创建一个PHP新实例。Apache和PHP会使用大量的内存，这会限制服务器所能支持的并行连接数。所以，要做到用SSE在数据传输性能上和WebSocket完全一样，需要写一个自己的后端服务器，当然，那些在任何情况下都会用自己的服务器并使用Node.js的人，会觉得这有什么稀奇的。
+**Embossed Leather:**  Embossed leather is imprinted with artificial leatherwork for a certain grain design or pattern.
 
-说一下WebSocket在旧版本浏览器上的兼容。当前，大约超过2/3的浏览器支持这些新技术，移动端浏览器的支持率会低一些。依惯例，每当需要双向套接字时，就会用到Flash，并且WebSocket的向后兼容通常是用Flash来做，这已经相当复杂了，如果浏览器上没有Flash，情况更糟。概括来说，WebSocket难兼容，SSE易兼容。有关SSE的专项介绍文章请参见：《[SSE技术详解：一种全新的HTML5服务器推送事件技术](https://link.jianshu.com/?t=http://www.52im.net/thread-335-1-1.html)》。
+**Finished Split Leather:**  Usually, the middle or lower section of a hide is used to produce this leather. It is coated with a polymer and embossed to resemble a more natural look.
 
-（本文同步发布于：[http://www.52im.net/thread-336-1-1.html](https://link.jianshu.com/?t=http://www.52im.net/thread-336-1-1.html)）
+**Good Hand Leather:**  This is a softer leather. As it feels pleasant to the touch, it is known as good hand leather.
 
-# **8. 系列资料**
+**Kidskin Leather:**  This one is made from the hide of young goats.
 
-**Web端即时通讯新手入门贴：**
+**Latigo:**  Latigo is cowhide leather specifically designed for outdoor use. It is usually found in cinches, ties, saddlebacks, and army accouterments.
 
-《[新手入门贴：详解Web端即时通讯技术的原理](https://link.jianshu.com/?t=http://www.52im.net/thread-338-1-1.html)》
+**Nubuck Leather:**  Nubuck leather is sanded on the grain side to create a velvety appearance. Usually, aniline dyed leather is used to produce nubuck leather.
 
-**关于Ajax短轮询：**
+**Oil Tanned Leather:**  Oil-tanned leather is produced using oils to create a remarkably smooth and flexible finish.
 
-找这方面的资料没什么意义，除非忽悠客户，否则请考虑其它3种方案即可。
+**Pebble Grain Leather:**  The top side of such leather mimics a pattern of small pebbles.
 
-**有关Comet技术的详细介绍请参见：**
+**Printed Leather:**  The printed leather is often stamped with a design or texture to create a unique look.
 
-《[Comet技术详解：基于HTTP长连接的Web端实时通信技术](https://link.jianshu.com/?t=http://www.52im.net/thread-334-1-1.html)》
+**Pull-Up Leather:**  Pull-up leather, or oily pull-up leather, stretch over time and provides a unique worn-in effect. It is considered a sign of high quality.
 
-《[WEB端即时通讯：HTTP长连接、长轮询（long polling）详解](https://link.jianshu.com/?t=http://www.52im.net/thread-224-1-1.html)》
+**Skirting Leather:**  This is the leather often used to manufacture saddles and bridles. Skirting leather is made from the sides of cattle hide.
 
-《[WEB端即时通讯：不用WebSocket也一样能搞定消息的即时性](https://link.jianshu.com/?t=http://www.52im.net/thread-296-1-1.html)》
+**Suede:**Suede is the most popular leather with a napped finish. It is used to make jackets, shoes, shirts, purses, and furniture.
 
-《[开源Comet服务器iComet：支持百万并发的Web端即时通讯方案](https://link.jianshu.com/?t=http://www.52im.net/thread-330-1-1.html)》
+**Tooling Calf Leather:**  Tooling calf is a thin, lightweight, vegetable-tanned leather. It is suitable for printing and engraving.
 
-**有关WebSocket的详细介绍请参见：**
+![embossed leather imprints](https://www.octaneseating.com/wp-content/uploads/2017/12/Calf-Leather.jpg)
 
-《[WebSocket详解（一）：初步认识WebSocket技术](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=viewthread&tid=331&ctid=15)》
+**Waxy Hand Leather:**  Waxy hand leather comes with a grease or wax finish. It is often used to make upholstery, shoes, and handbags.
 
-《[WebSocket详解（二）：技术原理、代码演示和应用案例](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=viewthread&tid=326&ctid=15)》
+![the usage of leather based on the thickness](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-chart-no-text.jpg)
 
-《[WebSocket详解（三）：深入WebSocket通信协议细节](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=viewthread&tid=332&ctid=15)》
+![](https://www.octaneseating.com/wp-content/uploads/2017/12/LeatherWeight-chart-1.jpg)
 
-《[Socket.IO介绍：支持WebSocket、用于WEB端的即时通讯的框架](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=viewthread&tid=190&ctid=15)》
+## Leather Processing
 
-《[socket.io和websocket 之间是什么关系？有什么区别？](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=viewthread&tid=189&ctid=15)》
+Leather tanning is a complex and lengthy process. Though mechanization has made it less labor intensive, it still consists of a complex series of treatments that require considerable time and energy. The purpose of the tanning process is to alter the protein structure of the skin to increase its durability, texture, and appearance.
 
-**有关SSE的详细介绍文章请参见：**
+<iframe src="https://www.youtube.com/embed/PYCvBADKSu4?feature=oembed&wmode=transparent" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen="" data-aspectratio="0.562962962962963" style="width: 1000px; height: 562.963px; opacity: 1; visibility: visible;"></iframe>
 
-《[SSE技术详解：一种全新的HTML5服务器推送事件技术](https://link.jianshu.com/?t=http://www.52im.net/thread-335-1-1.html)》
+As mentioned earlier, there are many varieties of leather. However, all types of leathers have to go through **four fundamental stages.** This includes preparatory steps, tanning, re-tanning, and finishing. Sometimes, a further sub-process of surface coating may be added to the process. Before sending to the tannery, the animal skin needs to be cured. Although curing is not considered a part of the tanning process, it is the first crucial step in obtaining leather.
 
-**更多WEB端即时通讯文章请见：**
+![leather manufacturing process diagram](https://www.octaneseating.com/wp-content/uploads/2017/12/Leather-Process.jpg)
 
-[http://www.52im.net/forum.php?mod=collection&action=view&ctid=15](https://link.jianshu.com/?t=http://www.52im.net/forum.php?mod=collection&action=view&ctid=15)
+Usually, the animal is killed and skinned before the body heat leaves the tissues. The freshly removed skin or hide is immediately cured with salt to remove water. The skin is allowed to remain in the shade until it is completely dry. The cured skin or animal hide is then transported to the tanneries for further processing.
 
-From: [Web端即时通讯技术盘点：短轮询、Comet、Websocket、SSE - 简书](https://www.jianshu.com/p/4aa085b9984b)
+### A. Preparatory Steps
+
+The cured skin or animal hide needs to be prepared for the tanning process. Although there are various preparatory processes, the purpose of each process is to remove unwanted raw skin components. The tannery may not perform all of them, depending on the quality and type of the desired product.
+
+**1) Soaking**
+
+At this stage, the cured hide is soaked in water for several hours to several days. This process not only restores the moisture lost during salting, but helps to remove dirt, debris, blood, and excess animal fats.
+
+**2) Fleshing**
+
+This process removes subcutaneous material from the flesh side. The pelt is passed through a machine to remove the fat, muscle, and flesh mechanically. Usually, this process takes place after slaughter, soaking, or liming. At this stage, or after tanning, hides may be split into different layers.
+
+**3) Un-hairing**
+
+Hair is removed at this stage using mechanical instruments such as rollers and blades.
+
+**4) Pickling**
+
+This process involves cleaning and soaking the rawhide in acids or salts to prevent decomposition. It helps the penetration of tanning agents such as chromium and aldehydes. Stronger pickling agents are used to preserve hides for several months.
+
+**5) De-Pickling**
+
+The hide is soaked in sulfuric acid to lower the pH after pickling.
+
+**6) Liming**
+
+This process loosens the fibers and allows the skin to absorb various tanning chemicals. Usually, sodium sulfide and hydrated lime are used to treat the hide, as they remove keratinous material such as hair and wool. Fats get hydrolyzed as the pH increases. Water is absorbed into the skin fibers, resulting in a swollen skin structure.
+
+**7) De-Liming**
+
+In this process, the hide is washed with a mixture of water and ammonium chloride or ammonium sulfate. This removes water (along with any impurities) to reduce swelling.
+
+**8) Bating**
+
+Bating marks the end of the liming process. The flaccid skin is treated with proteolytic bating enzymes to remove non-fibrous proteins. It cleans the grain and makes the pelt smooth and silky.
+
+**9) De-Greasing**
+
+Sometimes, water-based solutions and solvents are used to remove excess grease or natural fatty acids from the skin.
+
+**10) Bleaching**
+
+Chemical agents are used to making the hide colorless to add the desired color at a later stage. 
+
+### B. Tanning
+
+The primary purpose of this process is to produce a non-decomposable and sturdy material from the raw animal hide, called leather. Essentially, tanning converts the protein of the rawhide into a durable material. The most common tanning processes include mineral tanning, vegetable tanning, and glutaraldehyde tanning.
+
+**1) Vegetable Tanning**
+
+![](https://www.octaneseating.com/wp-content/uploads/2017/11/tanning-labor.jpg)
+
+Vegetable tanning has been around for thousands of years. Unlike mineral tanning, it uses a naturally occurring polyphenol astringent chemical called[ tannin](http://www.sciencedirect.com/topics/agricultural-and-biological-sciences/tannin). This is usually found in bark, leaves, and branches of trees such as oak, chestnut, or mimosa. As it produces shades of deep brown, beige, yellow, and red, tannin lends a unique color and texture to the leather.
+
+However, the process is time-consuming, laborious, and expensive. There are two types of vegetable tanning processes. The slow process takes about 30 days, while the rapid tanning process only lasts about 36 to 48 hours. Sometimes, however, the slow process can take several months, as it may require multiple treatments.
+
+This process produces highly durable leather. So, the vegetable tanned leather is often used to make products such as saddles or holsters. The unmatched durability and distinct appearance makes this leather suitable for imprinting and intricate leatherwork such as tooling.
+
+**2) Mineral or Chrome Tanning**
+
+Mineral or chrome tanning is the most popular tanning process because it’s much quicker, affordable, and less labor intensive than the others. In 1858, it was introduced as an alternative to the expensive and time-consuming vegetable tanning process. The process can be automated and lasts a day at most. Usually, the time for chromium tanning is around 2 or 3 hours for small and thin skins. However, it can go up to 24 hours for thicker ones obtained from cattle.
+
+The size of chrome molecules is small compared to vegetable tannin ions. As a result, chrome ions can penetrate the collagen and remove water molecules effectively. That’s why chrome tanned leather is thinner and softer than vegetable tanned leather. Chromium (III) sulfate is the most efficient and effective tanning agent. Chrome tanned leather is also called wet blue leather due to its bluish color.
+
+![](https://www.octaneseating.com/wp-content/uploads/2017/12/tanning-hides-drums-stage2800X600.jpg)
+
+![](https://www.octaneseating.com/wp-content/uploads/2017/12/chrome-tanning-wet-blue-hides800X600.jpg)
+
+![](https://www.octaneseating.com/wp-content/uploads/2017/12/tanning-hides-drums800X600.jpg)
+
+![blue hides ready for leather tanning](https://www.octaneseating.com/wp-content/uploads/2017/12/blue-hides-ready-for-tanning.jpg)
+
+However, the chrome tanning process creates a[ negative environmental impact](https://www.premierevision.com/content/uploads/2017/03/PVLeather_Newsletter6_eng.pdf) as it comprises heavy usage of acids and other chemicals. The toxic waste can seep into groundwater and contaminate drinking water supplies. The resulting environmental implications are a major concern, especially in developing countries.
+
+**3) Aldehyde Tanning**
+
+This tanning process uses glutaraldehyde or oxazolidine compounds. It is also called wet white leather due to its pale cream color. Aldehyde tanned leather is water absorbent, soft, and can be machine washed. It is, therefore, perfect for use in chamois.
+
+**4) Oil Tanning**
+
+Sometimes, emulsified oils are blended with aldehyde chemicals to produce exceptionally soft and flexible leather. This process is called oil tanning.
+
+### C. Re-Tanning
+
+Re-tanning converts the tanned leather into a marketable product. The choice of chemicals used in this process depends on the desired color and texture in the final product.
+
+**1) Drying**
+
+At this stage, the tanned leather is pressed between two rolling cylinders to remove the water absorbed during the tanning process.  
+
+**2) Shaving**
+
+This process removes flesh residues and creates uniformly thick leather. The leather passes through two rolling cylinders where the upper one is provided with helical blades.  
+
+**3) Splitting**
+
+A splitting machine slices the thick leather into one or more horizontal layers. Sometimes, this process is also carried out after liming. The top grain layer is the most expensive leather. It is used to make high-end leather merchandise. The layer without grain is used to make suede leather. Sometimes, an artificial grain surface can also be applied to it.
+
+![leather cutting showing separation between the top grain and the split hide](https://www.octaneseating.com/wp-content/uploads/2017/12/Leather-cutting-modified-1.jpg)
+
+**4) Dyeing**
+
+With the exception of vegetable tanned leather, all types of leather are dyed. More often than not, water-soluble dyes are used, allowing the dye molecules to penetrate inside the fibers. Thus, it differs significantly from surface coating where dye is applied only on the top layer.
+
+![](https://www.octaneseating.com/wp-content/uploads/2017/11/color-belts.jpg)
+
+**5) Fat Liquoring**
+
+Fat liquoring, or stuffing, consists of adding fats, oils, or waxes between fibers to keep the leather soft and flexible. Without this process, the leather will dry and become stiff.
+
+### D. Finishing
+
+This is the final stage where finishing touches are added to the tanned leather – as per the desired end product. This includes color, texture, thickness, and surface patterns.
+
+**1) Polishing**
+
+A velvet wheel rubs the leather to create a shiny surface.
+
+**2) Embossing**
+
+The process of embossing obtains a three-dimensional print using heated hydraulic or roller presses.
+
+**3) Surface Coating**
+
+The surface coating process adds color and different designs to leather. As per the customer requirement, resins, pigments, and dyes are added in layers to the surface using a variety of techniques such as spraying, roller-coating, curtain-coating, or hand coating.[<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600px" height="800px" x="0px" y="0px" viewBox="0 0 600 800" enable-background="new 0 0 600 800" xml:space="preserve"><path fill="none" d="M0-1.79v800L600,395L0-1.79z"></path> </svg>](https://vimeo.com/248805887)
+
+**4) Final Grading**
+
+Finally, the leather is graded before it is dispatched to the customers. Grading is often based on a variety of factors such as the feel of the leather, color, pattern, thickness, softness, and flexibility.
+
+![](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-grading-finished-product.jpg)
+
+![finished leather hides after production](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-grading-finished-product2.jpg)
+
+![leather imperfections on hide showing branding marking](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-grading-original-markings-on-hide-2.jpg)
+
+![](https://www.octaneseating.com/wp-content/uploads/2017/12/red-hide.jpg)
+
+## Leather For Furniture 
+
+One of the most popular leather item categories is furniture. High-quality leather furniture can last for years. However, each type comes with unique characteristics. In other words, you need to choose the right type of leather to get the most out of your furniture. Hopefully, this quick leather furniture buying guide will help you.
+
+![octane flex hr power headrest black recliner theater seating](https://www.octaneseating.com/wp-content/uploads/2017/12/octane-flex-black-leather-theater-chair.jpg)
+
+### Full Grain Leather 
+
+As mentioned before, this is the most expensive and high-end leather out there. It is also the best for furniture because it retains a natural look and texture. The leather is treated with transparent aniline dyes to keep the original look. The texture is a little rough in the beginning but softens over time. However, this type of leather furniture requires a lot of maintenance, as it is susceptible to sunlight and absorbs liquids readily.
+
+### Top Grain Leather
+
+Top grain leather is also suitable for furniture. This type of leather is softer than the full grain leather and comes with the same durability. Top-grain leather furniture comes in two different categories: aniline and semi-aniline. While aniline leather recliners may look natural, they remain susceptible to stains. Semi-aniline leather furniture, on the other hand, is relatively less susceptible because it can be treated with a protective topcoat. This type of leather furniture is also expensive. At Octane Seating, we primarily use top grain leather on all portions of the seating that you will touch. This means the seat back, seat cushion, armrests, and footrest - all utilize top grain. We then use a perfect synthetic PU match (see below) on the exterior sides and the exterior seat back. The synthetic match on those portions of the seat is an excellent choice given that those are the portions that will get scratches, dirt, and nicks. The synthetic cover is easy to clean and maintain in areas like that on the furniture.
+
+### Split Grain Leather
+
+Though split grain consists of 100% leather, it lacks the smooth texture and stylish appearances with natural variations in color and pebbling. Some people may not think of it as the best leather for furniture, as it is relatively difficult to maintain. 
+
+### Bonded Leather 
+
+Bonded leather is the most sought-after leather for furniture because it offers the look and texture of leather for the cheapest price. Usually, it only consists of about 17% leather obtained from various scraps rolled up together using an adhesive material. Unlike the full grain leather furniture, it will never become smooth with age.
+
+### Nubuck Leather
+
+People tend to confuse nubuck leather with suede because they both have a velvet-like surface. However, unlike suede (obtained from split leather), nubuck is produced from the full grain leather. This type of leather is lightly brushed or abraded to create a velvet-like plush nap. It is considered the best leather for furniture due to its soft, velvet-like touch and natural look. Though it is more durable compared to suede, nubuck leather furniture requires high maintenance, especially the velvety fur. You should avoid buying nubuck leather furniture if you have pets.
+
+### Bi-Cast Leather 
+
+Bi-cast leather is manufactured by blending split-hide leather or composite leather substrate and a coating of colored polyurethane. Thus, it looks like top grain leather, only it is a lot cheaper. Just like bonded leather furniture, it also lacks the wear or comfort attributes of top-grain leather. It doesn’t have the durability people often associate with top grain leather furniture, either. So, before buying bi-cast leather furniture, make sure you understand the pros and cons related to it.
+
+### Faux Leather
+
+Faux leather is a great choice for furniture upholstery, especially if you are an animal lover. Though it is no match for high-end full grain leather furniture, faux leather furniture is durable and can last longer. It is also affordable, less prone to cracks and peels, can withstand scratches, is not susceptible to sunlight, and is stain resistant. Thus, it can be an economical and low maintenance alternative to natural leather.
+
+## Polyurethane (PU) vs Polyvinylchloride (PVC) Furniture
+
+When it comes to buying leather furniture, people often use the terms polyurethane (PU) and polyvinyl chloride (PVC) leather interchangeably. However, they are distinctly different. You must understand this difference if you want to get the best bang for your buck while purchasing leather furniture.
+
+**1) Polyurethane (PU) Leather** 
+
+* Polyurethane leather is composed of polyurethane, bicast, or ground leather. Thus, it closely resembles natural leather.
+* It provides a soft and flexible seating surface.
+* It offers better breathability (vapor transmission), compared to PVC leather.
+* The high-performance PU leather can quickly adjust to body temperature. It can remain cool even after sitting for long periods of time.
+* However, it is susceptible to direct sunlight and humidity. Prolonged exposure can make it brittle.
+* It comes with high abrasion resistance, durability, and inherent stain resistance.
+* It is not naturally flame resistant. But, resistants are often added during the manufacturing process.
+* Though it is more economical than natural leather, polyurethane upholstery tends to be expensive compared to PVC leather furniture.
+
+**2) Polyvinylchloride (PVC) Leather**
+
+* Though polyvinylchloride (PVC) resembles the softness, color, and texture of natural leather, it doesn’t contain natural leather at all.
+* It is very durable and inherently flame resistant.
+* It has a relatively better resistance to cleaners and disinfectants, compared to PU leather.
+* Affordability and an excellent variety of color, texture, and grain are the primary reasons why this leather is the most popular one out there.
+
+[![what are the differences between PVC and PU upholstery](https://www.octaneseating.com/wp-content/uploads/2017/12/PVC-chart-1.jpg)](https://www.octaneseating.com/wp-content/uploads/2017/12/PVC-chart-1.jpg)
+
+## How to Identify Genuine Leather
+
+Buying leather can be a challenging task. There are not only different types of leather but also different types of synthetic leather. Manufactures and leather shop owners are finding new ways to sell synthetic leather disguised as genuine. Fortunately, there are a few simple tips on how to buy genuine leather.
+
+**1) Check the Label First**
+
+The first thing you should do before trying any of the following tricks is to check the label. Most high-end leather product manufacturers will proudly give you information about the type of leather they have used to make the merchandise.
+
+Most leather products have labels indicating different types, such as ‘genuine leather’ or ‘full grain leather.’ If you see dubious labels such as ‘manmade material’ or ‘made with animal products’, chances are, it’s not genuine leather. Avoid buying leather furniture or accessories without any tags. It’s a sure shot sign the manufacturer is trying to conceal the authenticity of leather.
+
+**2) Feel the Texture**
+
+Just run your fingers over the leather to feel its texture. As genuine leather comes from animal hide, it will have a varying or uneven texture. If the surface grain feels extra smooth, chances are, it is faux leather.
+
+**3) Look for Imperfections**
+
+**Genuine leather exhibits an inconsistent surface pattern having minor imperfections. In other words, scratches, creases, and wrinkles are an indication of genuine leather**  
+
+![leather messenger bag](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-messenger-bag.jpg)
+
+**4) Warmth**
+
+Remember, genuine leather comes from hiding, which at some point, belonged to a living animal. That’s why genuine leather begets a cozy and warm feeling to your touch. Faux leather, however, feels cold and lifeless.
+
+**5) Elasticity** 
+
+Just like any animal skin, genuine leather changes color when stretched and has better elasticity. If you press your finger firmly against natural leather, it will wrinkle under pressure. But, it will regain the original quickly. Faux leather, however, will retain the shape of your finger for a while.
+
+**6) Smell**
+
+Real leather has a distinct leathery smell. It retains the smell even after going through the tanning process. The synthetic leather material, on the other hand, smells like plastic.
+
+**7) Rough Edges**
+
+Whether you are out shopping for leather recliners or handbags, they will always have rough or coarse edges. As genuine leather is made of several layers, the edges often fray over time. Faux leather products, however, have smooth edges.
+
+**8) Moisture**
+
+Unlike its synthetic counterparts, natural leather readily absorbs moisture. Splash a drop of water on your leather merchandise. If it soaks up the water in seconds, chances are it’s a genuine leather item.
+
+**9) Fire Test**
+
+You have to execute this test carefully, as it will damage a part of your leather accessory. You can do this test on a hard-to-see area, such as the underside of your leather recliners. Burn the designated area using a matchstick. Genuine leather will slightly char and produce a distinct smell of burnt hair, while faux leather smells of burning plastic.
+
+**10) Check the Cost**
+
+Irrespective of how hard you bargain, genuine leather will always be expensive. When it comes to leather shopping, there are no cheap deals.
+
+**11) Understand Different Types of Leather**
+
+The more you know about leather, the better. So, try to understand as much you can about the different types. When in doubt, refer to this guide.
+
+## Wrapping It Up
+
+Even the smallest things made of genuine leather are quite expensive. So, you have to put a lot of thought into buying leather products, big or small. The cost, quality, and aesthetics of leather depending on various aspects including the type of animal hide, tanning process, and finishing touches. Hopefully, this guide will address all your concerns from understanding leather grades and manufacturing processes to identifying and buying genuine leather. How about you? Have you purchased leather furniture or accessories recently? Share your experience in the comments section below.
