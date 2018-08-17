@@ -1,6 +1,7 @@
 layout: post
-title: "箱包材料"
-category: Bags
+title: "箱包辅料"
+category: Bag
+tags: [material, bag]
 ---
 
 ## EVA

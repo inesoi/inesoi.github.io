@@ -1,7 +1,7 @@
 layout: post
 title: "Google SEO Page Optimization"
 description: ""
-category:
+category: Marketing
 tags: [google, seo]
 ---
 

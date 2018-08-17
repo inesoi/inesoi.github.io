@@ -1,6 +1,6 @@
 layout: post
 title: "箱包 - 皮革"
-category: Bags
+category: Bag
 ---
 
 ## 皮革

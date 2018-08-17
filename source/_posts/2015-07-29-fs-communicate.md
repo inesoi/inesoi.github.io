@@ -1,6 +1,6 @@
 layout: post
 title: "如何与客户沟通"
-category: Sale
+category: Marketing
 ---
 
 销售的重要准则是：自己少说，多提问。鼓励客户多说，引导客户多说。 

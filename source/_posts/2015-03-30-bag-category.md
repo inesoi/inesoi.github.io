@@ -1,6 +1,7 @@
 layout: post
-title: "箱包"
-category: Bags
+title: "箱包 - 分类"
+category: Bag
+tags: [bag, category]
 ---
 
 See [箱包](http://baike.baidu.com/view/491512.htm)

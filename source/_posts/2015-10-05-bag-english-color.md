@@ -1,6 +1,6 @@
 layout: post
-title: "箱包 - 配件"
-category: Bags
+title: "箱包 - 颜色"
+category: Bag
 ---
 
 ## Color

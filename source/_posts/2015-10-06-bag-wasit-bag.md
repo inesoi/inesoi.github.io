@@ -1,6 +1,6 @@
 layout: post
 title: "箱包 - 腰包"
-category: Bags
+category: Bag
 ---
 
 Waist Bag/ Waist Pack

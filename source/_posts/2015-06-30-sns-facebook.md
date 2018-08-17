@@ -1,6 +1,7 @@
 layout: post
 title: "Facebook 营销"
-category: Trade
+category: Marketing
+tags: [marketing, facebook, sns]
 ---
 
 ## Facebook 特点

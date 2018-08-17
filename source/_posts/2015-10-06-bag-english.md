@@ -1,6 +1,6 @@
 layout: post
 title: "箱包 - 专业英语"
-category: Bags
+category: Bag
 ---
 
 whistle buckle 哨子扣

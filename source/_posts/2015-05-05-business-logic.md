@@ -1,5 +1,5 @@
 layout: post
-title: "Mr. Hua"
+title: "商业逻辑模型"
 category: Trade
 ---
 

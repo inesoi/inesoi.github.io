@@ -1,6 +1,6 @@
 layout: post
 title: "Google 技巧"
-category: Trade
+category: Marketing
 ---
 
 ## FAQ

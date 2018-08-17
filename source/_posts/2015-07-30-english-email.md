@@ -1,6 +1,6 @@
 layout: post
 title: "邮件回复"
-category: Trade
+category: Marketing
 ---
 
 ## 表达邮件目的

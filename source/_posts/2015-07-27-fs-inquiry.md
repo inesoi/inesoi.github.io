@@ -1,6 +1,7 @@
 layout: post
 title: "询盘技巧"
-category: Bags
+category: Marketing
+tags: [marketing, inquiry]
 ---
 
 ## 分析客户询盘

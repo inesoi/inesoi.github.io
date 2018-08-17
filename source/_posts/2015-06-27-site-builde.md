@@ -1,6 +1,6 @@
 layout: post
 title: "外贸网站设计"
-category: Trade
+category: [Platform]
 ---
 
 ## 网站目标

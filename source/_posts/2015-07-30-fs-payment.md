@@ -1,6 +1,7 @@
 layout: post
 title: "外贸业务员如何跟客户谈付款方式"
 category: Trade
+tags: [trade, payment]
 ---
 
 See <http://www.liaosam.com/how-to-negotiate-payment-terms-in-international-trade.html>

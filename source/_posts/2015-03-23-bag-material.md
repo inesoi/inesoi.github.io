@@ -1,6 +1,7 @@
 layout: post
 title: "箱包材料"
-category: Bags
+category: Bag
+tags: [bag, material]
 ---
 
 See [箱包材料](http://baike.baidu.com/view/2608219.htm)
