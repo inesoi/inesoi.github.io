@@ -15,7 +15,7 @@ ABS树脂是乳白色固体，有一定的韧性，密度约为 1.04~1.06 g／cm
 
 ABS树脂可以在-25℃~60℃的环境下表现正常，而且有很好的成型性，加工出的产品表面光洁，易于染色和电镀。因此它可以被用于家电外壳、玩具等日常用品。常见的乐高积木就是ABS制品。
 
-<img src="../../resources/images/ABC-Lego-Color-Bricks.jpg" height="300">
+<img src="../resources/images/ABC-Lego-Color-Bricks.jpg" height="300">
 
 ## 聚氯乙烯 PVC
 
@@ -71,8 +71,8 @@ PP (Polypropylene)聚丙烯：
 
 市场上绝大多数微波炉专用塑料容器都是PP塑料，这是因为它的耐热且化学稳定性比较高。在食品方面的应用超过其他任何塑料，除了容器，还有软包装中的BOPP膜，香烟盒的最外层薄膜便是这种塑料。此外，目前的新建小区通常使用的家用水管推荐或强制使用PPR管，同样也是聚丙烯材料，除了安全性考虑以外，还因为它具有热熔的特点，易于加工。聚丙烯工业同样也是衡量一个国家产业水平的标准。
 
-<img src="../../resources/images/pp-australia-20.jpg" height="300" title="澳大利亚二十元纸币。因为是用塑料制，所以透光度很高，而且有部分地方完全透明。">
-<img src="../../resources/images/pp_lid.jpg" height="300" title="一个用聚丙烯为原料的即弃食物容器盖子">
+<img src="../resources/images/pp-australia-20.jpg" height="300" title="澳大利亚二十元纸币。因为是用塑料制，所以透光度很高，而且有部分地方完全透明。">
+<img src="../resources/images/pp_lid.jpg" height="300" title="一个用聚丙烯为原料的即弃食物容器盖子">
 
 ## PE 聚乙烯 Polyethylene
 
@@ -104,10 +104,10 @@ See [聚乙烯 - 维基百科，自由的百科全书](https://zh.wikipedia.org/
 
 - 线性低密度聚乙烯（LLDPE, Linear Low Density Polyethylene）等多种产品。
 
-<img src="../../resources/images/pe-rings.jpg" height="300" title="PE 胶制品">
-<img src="../../resources/images/PE-Intermediate-Bulk-Container.jpg" height="300" title="聚乙烯水箱">
-<img src="../../resources/images/pe-traffic-control.jpg" height="300" title="PE制品水马 (路障)">
-<img src="../../resources/images/pe-steel-and-ultra-high-molecular-weight-polythene-hip-replacement.jpg" height="300" title="不锈钢和超高分子量聚乙烯髋关节置换">
+<img src="../resources/images/pe-rings.jpg" height="300" title="PE 胶制品">
+<img src="../resources/images/PE-Intermediate-Bulk-Container.jpg" height="300" title="聚乙烯水箱">
+<img src="../resources/images/pe-traffic-control.jpg" height="300" title="PE制品水马 (路障)">
+<img src="../resources/images/pe-steel-and-ultra-high-molecular-weight-polythene-hip-replacement.jpg" height="300" title="不锈钢和超高分子量聚乙烯髋关节置换">
 
 ## Resin 树脂
 
@@ -115,5 +115,5 @@ See [树脂 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wik
 
 树脂是一种来自多种植物，特别是松柏类植物的烃（碳氢化合物）类的分泌物。因为它特殊的化学结构，以及可以作为乳胶漆和胶合剂等材料作使用，因此树脂具有较高的商业价值。它是多种高分子化合物的混合物，所以有不同的熔点。树脂可分为天然树脂和合成树脂两种。大自然中原只有天然树脂这一种，但随着化工的发展，有很多由人工合成的聚合物产生，当中有些聚合物的化学性质及物理性质会和天然树脂很相似，因此，聚合物会被称为合成树脂。
 
-<img src="../../resources/images/Resine.jpg" title="松树的树脂" height="300">
-<img src="../../resources/images/Frankincense.jpg" title="干燥的乳香树脂块" height="300">
+<img src="../resources/images/Resine.jpg" title="松树的树脂" height="300">
+<img src="../resources/images/Frankincense.jpg" title="干燥的乳香树脂块" height="300">

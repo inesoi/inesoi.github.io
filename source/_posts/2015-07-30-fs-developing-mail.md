@@ -79,7 +79,7 @@ Cliff
 
 发送之后，收到退信：
 
-![](../../resources/images/remail-return.jpg)
+![](../resources/images/remail-return.jpg)
 
 于是我们应该来对这个开发信进行修改： 
 
@@ -141,7 +141,7 @@ Cliff
 
 现在国外已经有软件能够让发邮件者穿透对方邮件服务器的反垃圾邮件机制，截个图发给大家看看：
 
-![](../../resources/images/email-through-wall.jpg)
+![](../resources/images/email-through-wall.jpg)
 
 ## 好的标题
 

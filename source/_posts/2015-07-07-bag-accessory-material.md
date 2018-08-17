@@ -6,7 +6,7 @@ tags: [material, bag]
 
 ## EVA
 
-![](../../resources/images/eva.jpg)
+![](../resources/images/eva.jpg)
 
 - 中文名称: 乙烯-醋酸乙烯共聚物 
 - 化学品英文名称: ethylene-vinyl acetate copo 乙烯-醋酸乙烯共聚物 。
@@ -45,7 +45,7 @@ tags: [material, bag]
 
 ## PE 板
 
-![](../../resources/images/material-pe.jpg)
+![](../resources/images/material-pe.jpg)
 
 ### 性能
 
@@ -83,7 +83,7 @@ HDPE板（高密度聚乙烯板）熔点约为130℃，相对密度为0.941~0.96
 
 ## 骨条解析
 
-![](../../resources/images/bone-article.jpg)
+![](../resources/images/bone-article.jpg)
 
 ### 作用
 
@@ -102,7 +102,7 @@ HDPE板（高密度聚乙烯板）熔点约为130℃，相对密度为0.941~0.96
 
 拉链由链牙、拉头、上下止（前码和后码）或锁紧件等组成。其中链牙是关键部分，它直接决定拉链的侧拉强度。一般拉链有两片链带，每片链带上各自有一列链牙，两列链牙相互交错排列。拉头夹持两侧链牙，借助拉襻滑行，即可使两侧的链牙相互啮合或脱开。
 
-![](../../resources/images/material-zipper.jpg)
+![](../resources/images/material-zipper.jpg)
 
 ### 分类
 
@@ -154,7 +154,7 @@ HDPE板（高密度聚乙烯板）熔点约为130℃，相对密度为0.941~0.96
 
 一般用于箱包手提内部，加固手提，提的承受重量和受力度，不易折断。
 
-![](../../resources/images/material-cutton-core.jpg)
+![](../resources/images/material-cutton-core.jpg)
 
 ### 价格
 
@@ -164,7 +164,7 @@ HDPE板（高密度聚乙烯板）熔点约为130℃，相对密度为0.941~0.96
 
 ## 魔术贴
 
-![](../../resources/images/velcro.jpg)
+![](../resources/images/velcro.jpg)
 
 ### 分类
 
@@ -188,7 +188,7 @@ HDPE板（高密度聚乙烯板）熔点约为130℃，相对密度为0.941~0.96
 
 ## 无纺布
 
-![](../../resources/images/non-woven-fabrics.jpg)
+![](../resources/images/non-woven-fabrics.jpg)
 
 ### 用 途
 
@@ -231,7 +231,7 @@ HDPE板（高密度聚乙烯板）熔点约为130℃，相对密度为0.941~0.96
 
 ## 五金
 
-![](../../resources/images/hardware.jpg)
+![](../resources/images/hardware.jpg)
 
 ### 分类
 
@@ -254,7 +254,7 @@ HDPE板（高密度聚乙烯板）熔点约为130℃，相对密度为0.941~0.96
 
 按照材料分为尼龙织带、 PP 织带，PP 是化纤布料的一种。PP 是很常用的织带。高档男包常用尼龙织带。
 
-![](../../resources/images/braid.jpg)
+![](../resources/images/braid.jpg)
 
 织带和松紧带都是按纹路和宽度来分。2.5、3.5、3.8，单位为公分。包边一般是 2.0，2.2。
 
@@ -309,7 +309,7 @@ HDPE板（高密度聚乙烯板）熔点约为130℃，相对密度为0.941~0.96
 
 ## 海绵
 
-![](../../resources/images/spongia.jpg)
+![](../resources/images/spongia.jpg)
 
 - 原色米白色
 - 日后会因为跟氧气产生氧化反应而变成黄色，有些是因需要漂成白色或染成其他

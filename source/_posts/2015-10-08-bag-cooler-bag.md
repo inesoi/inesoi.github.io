@@ -33,15 +33,15 @@ Gray PEVA lining is easy to clean and PVC free
 
 - Aluminum Foil
 
-    <img src="../../resources/images/lunch-bag-lining-foil.jpeg" height="500">
+    <img src="../resources/images/lunch-bag-lining-foil.jpeg" height="500">
 
 - EVA
     
-    <img src="../../resources/images/lunch-bag-lining-eva.jpeg" height="500">
+    <img src="../resources/images/lunch-bag-lining-eva.jpeg" height="500">
 
 - PEVA
 
-<img src="../../resources/images/lunch-bag-lining-peva.jpeg" height="500">
+<img src="../resources/images/lunch-bag-lining-peva.jpeg" height="500">
 
 - BOPET
     

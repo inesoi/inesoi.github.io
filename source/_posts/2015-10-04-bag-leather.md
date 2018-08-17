@@ -51,7 +51,7 @@ __按制造方式：__
 
 PVC 革 在制造过程中要先将塑料颗粒热熔搅拌成糊状，按规定的厚度均匀涂覆在T/C针织布底基上，然后进入发泡炉中进行发泡，使其具有能够适应生产各种不同产品、不同要求的柔软度，在出炉的同时进行表面处理（染色、压纹、磨光、消光、磨面起毛等，主要是依照具体的产品要求来进行的）。
 
-![](../../resources/images/pvc.jpg)
+![](../resources/images/pvc.jpg)
 
 PVC 表面也有很多纹路。
 
@@ -104,27 +104,27 @@ PU 革从结构上分为纹路、表面和底。
 
 荔枝纹：
 
-![](../../resources/images/litchi-line.jpg)
+![](../resources/images/litchi-line.jpg)
 
 石头纹：
 
-![](../../resources/images/stone-line.jpg)
+![](../resources/images/stone-line.jpg)
 
 纳帕纹：
 
-![](../../resources/images/nappa-line.jpg)
+![](../resources/images/nappa-line.jpg)
 
 蛇纹：
 
-![](../../resources/images/snake-line.jpg)
+![](../resources/images/snake-line.jpg)
 
 鸵鸟纹：
 
-![](../../resources/images/ostrich-line.jpg)
+![](../resources/images/ostrich-line.jpg)
 
 镜面革：
 
-![](../../resources/images/mirror-line.jpg)
+![](../resources/images/mirror-line.jpg)
 
 
 ## 半 PU

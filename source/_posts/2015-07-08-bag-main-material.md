@@ -22,7 +22,7 @@ PVC的单位为丝，表示PVC厚度的单位，100丝等于1毫米。常见的�
 
 ### PVC
 
-![](../../resources/images/pvc.jpg)
+![](../resources/images/pvc.jpg)
 
 主要成份为聚氯乙烯，经过发泡而来，PU 是化学合成。所以 PVC 隔层之间会有小气孔，而 PU 比较实。
 
@@ -63,7 +63,7 @@ PU 革从结构上分为纹路、表面和底。
 - 常见的纹路包括荔枝纹（根据纹路大小可分为小荔枝纹和大荔枝纹）、石头纹、蛇纹、鸵鸟纹、纳帕纹、十字纹（大十字、小十字）、镜面革。有些工程并非使用这些形象的名字来命名纹路，而是使用比较文艺的名字，如水平如镜等。
 - PU 一般是绒布底，PVC 一般是针织底和水刺底（或者无纺布底）。
 
-![](../../resources/images/pu-leather-lines.jpg)
+![](../resources/images/pu-leather-lines.jpg)
 
 ### PVC 与 PU 的区别
 
@@ -87,7 +87,7 @@ PU、半 PU 和 PVC 一般用于女包、化妆包、公文包、背包、运动
 
 ### 真皮
 
-![](../../resources/images/leather.jpg)
+![](../resources/images/leather.jpg)
 
 真皮分为头层皮和二层皮两类。真皮是从动物身上的皮，以块为单位。头层皮的价格在 800-1000元。有的供应商按 32*32/英寸,有的按 28*28/英寸来算，在采购的时候要问清楚。
 
@@ -166,7 +166,7 @@ PU、半 PU 和 PVC 一般用于女包、化妆包、公文包、背包、运动
 
 没有涂层，化学成份为棉，而牛津的化学成份化纤。现在有些帆布表面会涂一层 PVC（过胶、雅膜）。
 
-![](../../resources/images/canvas-material.jpg)
+![](../resources/images/canvas-material.jpg)
 
 通常分粗帆布和细帆布两大类：
 
@@ -183,7 +183,7 @@ PU、半 PU 和 PVC 一般用于女包、化妆包、公文包、背包、运动
 
 ### 适用箱包
 
-![](../../resources/images/canvas-material-bag.jpg)
+![](../resources/images/canvas-material-bag.jpg)
 
 ### 纱支
 
@@ -246,7 +246,7 @@ PU、半 PU 和 PVC 一般用于女包、化妆包、公文包、背包、运动
 
 ## 牛津布
 
-![](../../resources/images/oxiford-material.jpg)
+![](../resources/images/oxiford-material.jpg)
 
 牛津布（oxford），又称牛津纺。牛津布有面料和涂层构成，表面为纺织布料，背面为图层。图层的材料分为 PVC 涂层和 PU 涂层。PU 图层几乎用肉眼看不到。
 
@@ -263,7 +263,7 @@ PU、半 PU 和 PVC 一般用于女包、化妆包、公文包、背包、运动
 
 ### 适用的包
 
-![](../../resources/images/oxford-bag.jpg)
+![](../resources/images/oxford-bag.jpg)
 
 可以用于背包、电脑包、腰包、书包、午餐包、背包、购物袋。女包一般不用涤纶牛津布，要用也使用尼龙牛津布，表面更亮一些。
 
@@ -343,7 +343,7 @@ D 越大，表示纱线越粗，同样面积的布料就越重。常见于背包
 
 里布的价格一般比面料的价格更低。
 
-![](../../resources/images/lining.jpg)
+![](../resources/images/lining.jpg)
 
 里布尽量不要用白色，会增加次品率。
 
@@ -365,31 +365,31 @@ D 越大，表示纱线越粗，同样面积的布料就越重。常见于背包
 
 背包一般使用 210D 或者 230D 作为里布。__铝箔复合珍珠棉：__
 
-![](../../resources/images/alum-pearl-wool.jpg)
+![](../resources/images/alum-pearl-wool.jpg)
 
 
 __铝膜__
 
-![](../../resources/images/aluminum.jpg)
+![](../resources/images/aluminum.jpg)
 
 __珍珠棉：__
 
-![](../../resources/images/pearl-wool.jpg)
+![](../resources/images/pearl-wool.jpg)
 
 聚乙烯发泡棉是非交联闭孔结构，又称 EPE 珍珠棉 , 是一种新型环保的包装材料。它由低密度聚乙烯脂经物理发泡产生无数的独立气泡构成。克服了普通发泡胶易碎、变形、恢复性差的缺点。具有隔水防潮、防震、隔音、保温、可塑性能佳、韧性强、循环再造、环保、抗撞力强等诸多优点，亦具有很好的抗化学性能。是传统包装材料的理想替代品。 
 
 __铝箔复合珍珠棉：__
 
-![](../../resources/images/alum-pearl-wool.jpg)
+![](../resources/images/alum-pearl-wool.jpg)
 
 
 __铝膜__
 
-![](../../resources/images/aluminum.jpg)
+![](../resources/images/aluminum.jpg)
 
 __珍珠棉：__
 
-![](../../resources/images/pearl-wool.jpg)
+![](../resources/images/pearl-wool.jpg)
 
 聚乙烯发泡棉是非交联闭孔结构，又称 EPE 珍珠棉 , 是一种新型环保的包装材料。它由低密度聚乙烯脂经物理发泡产生无数的独立气泡构成。克服了普通发泡胶易碎、变形、恢复性差的缺点。具有隔水防潮、防震、隔音、保温、可塑性能佳、韧性强、循环再造、环保、抗撞力强等诸多优点，亦具有很好的抗化学性能。是传统包装材料的理想替代品。 
 
@@ -397,7 +397,7 @@ __珍珠棉：__
 
 网布在箱包行业中一般用于包的两侧，前幅或后幅做于网袋用于放置物品，或者用于夹层来隔离物品！
 
-![](../../resources/images/screen-cloth.jpg)
+![](../resources/images/screen-cloth.jpg)
 
 ### 分类
 

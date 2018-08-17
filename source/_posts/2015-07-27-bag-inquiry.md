@@ -463,7 +463,7 @@ Best Regards,
 
 客户发一个或数个客人自己的产品图片的链接、型号、设计稿等 需要报价询盘。
 
-![](../../resources/images/customer-quoation.png)
+![](../resources/images/customer-quoation.png)
 
 <pre>
 Attached our pet bags catalog for your reference. Hope you could find some interests. 
@@ -476,7 +476,7 @@ Best Regards,
 
 ### 给出目标价的询价
 
-![](../../resources/images/goal-price-quotation.png)
+![](../resources/images/goal-price-quotation.png)
 
 <pre>
 ...
@@ -488,7 +488,7 @@ Attached our catalog for your reference. Should you have any question, pls. cont
 
 ### 带有明确采购数量的询盘
 
-![](../../resources/images/quotation-with-count.png)
+![](../resources/images/quotation-with-count.png)
 
 <pre>
 Our MOQ:500 pcs.
@@ -503,7 +503,7 @@ Should you have any question, pls. let me know.
 
 没有明确产品要求，只要求我方给出报价单的询价。
 
-![](../../resources/images/faint-quotation.png)
+![](../resources/images/faint-quotation.png)
 
 TODO 找更好的模版。
 
@@ -511,7 +511,7 @@ TODO 找更好的模版。
 
 针对性较强，专业度较高的询盘（有详细的细节要求，如产品颜色、数量、尺寸、logo、证书要求、目的港及付款条件的询价）。
 
-![](../../resources/images/profesional-quotation.png)
+![](../resources/images/profesional-quotation.png)
 
 <pre>
 May I ask you a question?
@@ -523,7 +523,7 @@ I can quote you asap.
 
 在第6点基础上再增加样品费、快递费、MOQ、海运费等更详细的内容。
 
-![](../../resources/images/clear-price-quotation.png)
+![](../resources/images/clear-price-quotation.png)
 
 <pre>
 About your inquiry:
@@ -535,7 +535,7 @@ About your inquiry:
 
 ### 关于MOQ的首封询盘
 
-![](../../resources/images/moq-quotation.png)
+![](../resources/images/moq-quotation.png)
 
 <pre>
 Dear Sir / Madam

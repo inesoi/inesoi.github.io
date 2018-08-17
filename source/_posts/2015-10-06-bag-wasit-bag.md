@@ -20,9 +20,9 @@ Small Adonis Genuine Leather Waist Purse Fanny Pack
 
 ## Structure
 
-<img src="../../resources/images/waist-bag-structure.jpeg" height="500">
+<img src="../resources/images/waist-bag-structure.jpeg" height="500">
 
-<img src="../../resources/images/waist-bag-constructure-2.jpeg" height="500">
+<img src="../resources/images/waist-bag-constructure-2.jpeg" height="500">
 
 ## Material
 
@@ -36,7 +36,7 @@ Small Adonis Genuine Leather Waist Purse Fanny Pack
 
 Front compartment has organizer with RFID blocking card and passport slots, zip wall pocket and pen loop
 
-<img src="../../resources/images/waist-bag-main-compartment.jpeg" height="500">
+<img src="../resources/images/waist-bag-main-compartment.jpeg" height="500">
 
 ### main compartment
 
@@ -48,7 +48,7 @@ Main compartment contains dividers for organization
 
 Spacious main compartment with single zip-opening and an interior zip-pocket.
 
-<img src="../../resources/images/waist-bag-main-compartment.jpeg" height="500">
+<img src="../resources/images/waist-bag-main-compartment.jpeg" height="500">
 
 ### tear- and weather-resistant
 
@@ -76,13 +76,13 @@ Two carry options: removable cross-body shoulder strap and Zip-away adjustable w
 
 Padded waist belt with small sleeve pockets ideal for keeping your power-gel snacks
 
-<img src="../../resources/images/waist-bag-belt-pocket.jpeg" height="500">
+<img src="../resources/images/waist-bag-belt-pocket.jpeg" height="500">
 
 ### Side Compression Strap
 
 Adjustable side compression straps secure and stabilize gear.
 
-<img src="../../resources/images/waist-bag-side-compression-straps.jpeg" height="500">
+<img src="../resources/images/waist-bag-side-compression-straps.jpeg" height="500">
 
 ### Rear Pocket
 
@@ -102,7 +102,7 @@ Includes tethered key clip with LED light
 
 Drainage grommets in front, main, and rear compartments
 
-<img src="../../resources/images/waist-bag-drainage-grommets.jpeg" height="500">
+<img src="../resources/images/waist-bag-drainage-grommets.jpeg" height="500">
 
 Max waist size 48"
 
@@ -110,7 +110,7 @@ Max waist size 48"
 
 Torch-Lair can hold a medium to large size flashlight
 
-<img src="../../resources/images/waist-bag-torch-lair.jpeg" height="500">
+<img src="../resources/images/waist-bag-torch-lair.jpeg" height="500">
 
 ### Back Panel
 
@@ -122,7 +122,7 @@ High breathability mesh backing for ventilation
 
 Internal organizer panel with key hook
 
-<img src="../../resources/images/waist-bag-key-hook.jpeg" height="500">
+<img src="../resources/images/waist-bag-key-hook.jpeg" height="500">
 
 ## Pocket
 
@@ -130,7 +130,7 @@ Internal organizer panel with key hook
 
 Pull out water bottle pocket, zips away when not in use
 
-<img src="../../resources/images/waist-bag-water-pocket.jpeg" height="500">
+<img src="../resources/images/waist-bag-water-pocket.jpeg" height="500">
 
 Dual side water bottle pockets equipped with two BPA free 500 ml soft-touch sports bottles
 
@@ -138,7 +138,7 @@ Dual side water bottle pockets equipped with two BPA free 500 ml soft-touch spor
 
 Webbing daisy chain loop to attach a carabiner or bike LED blinker
 
-<img src="../../resources/images/waist-bag-webbing-daisy-chain.jpeg" height="500">
+<img src="../resources/images/waist-bag-webbing-daisy-chain.jpeg" height="500">
 
 ###  velcro-closed pocket
 
@@ -146,7 +146,7 @@ Webbing daisy chain loop to attach a carabiner or bike LED blinker
 
 Flap over two straps button closure
 
-<img src="../../resources/images/waist-bag-two straps button closure.jpeg" height="500">
+<img src="../resources/images/waist-bag-two straps button closure.jpeg" height="500">
 
 
 

@@ -87,11 +87,11 @@ flap top design 盖头设计
 
 Single main compartment and front pocket with organizer for smaller items:
 
-<img src="../../resources/images/backpack-single-main-compartment.jpg" height="500">
+<img src="../resources/images/backpack-single-main-compartment.jpg" height="500">
 
 shell shape handbag purse:
 
-<img src="../../resources/images/shell shape handbag purse.jpg" height="500">
+<img src="../resources/images/shell shape handbag purse.jpg" height="500">
 
 Versatile. Personalized stylish looking, ideal for service as bookbag, rucksack schoolbag, casual daypack for daily use at school, work, weekend getaway, occasional travel, gyms, hiking etc.
 
@@ -125,15 +125,15 @@ Convenient for hiking,traveling,camping,running,cycling,mountaineering.
 - 1 small pocket on the top front
 - 1 pocket on the bottom front that contains a bunch of small organizer pockets found in every backpack that nobody ever uses
 
-<img src="../../resources/images/backpack-constructure.jpg" height="400">
+<img src="../resources/images/backpack-constructure.jpg" height="400">
 
 ### Multi-compartment design
 
 Large main compartments and multiple pockets allow you to keep all of your gear secure and organized.
 
-<img src="../../resources/images/backpack-multiple-compartment.jpg" height="400">
+<img src="../resources/images/backpack-multiple-compartment.jpg" height="400">
 
-<img src="../../resources/images/backpack-inner-constructure.jpg" height="400">
+<img src="../resources/images/backpack-inner-constructure.jpg" height="400">
 
 ### Shoulder Straps
 
@@ -165,11 +165,11 @@ Rucksacks with Adjustable strap to make sure everything stays securely in place 
 
 Padded Shoulder Straps 软垫肩带
 
-<img src="../../resources/images/backpack-shoulder-strap.jpg" height="400">
+<img src="../resources/images/backpack-shoulder-strap.jpg" height="400">
 
 Breathable mesh shoulder straps:
 
-<img src="../../resources/images/backpack-shoulder-strap.jpg" height="400">
+<img src="../resources/images/backpack-shoulder-strap.jpg" height="400">
 
 
 ### Front Pocket
@@ -180,20 +180,20 @@ Front zip pocket keeps favorite things in easy reach
 
 Secondary compartment has internal organization with a secure zippered pocket, 
 
-<img src="../../resources/images/backpack-front-pocket.jpg" height="400">
+<img src="../resources/images/backpack-front-pocket.jpg" height="400">
 
 ### Side Mesh Pockets
 
 - side mesh pockets for keys.
 - Mesh beverage pocket
 
-<img src="../../resources/images/backpack-side-mesh-pocket.jpg" height="400">
+<img src="../resources/images/backpack-side-mesh-pocket.jpg" height="400">
 
 ### Large Side Zip Pockets
 
 Large side zip pockets for water bottles or laptop chargers etc.
 
-<img src="../../resources/images/large-side-zip-pockets.jpg" height="400">
+<img src="../resources/images/large-side-zip-pockets.jpg" height="400">
 
 ### Water bottle pocket
 
@@ -203,7 +203,7 @@ Multi-compartment design with side mesh water bottle pockets.
 
 Stretch-woven pockets accommodate a wide range of water bottle shapes and sizes
 
-<img src="../../resources/images/backpack-water-bottle-pocket.jpg" height="400">
+<img src="../resources/images/backpack-water-bottle-pocket.jpg" height="400">
 
 ### Audio Interface
 
@@ -213,7 +213,7 @@ Mobile phone pocket to keep you organized
 
 Easy-access deluxe media pocket holds various sizes of cell phones, PDA's, and MP3 players.
 
-<img src="../../resources/images/backpack-audio-interface.jpg" height="400">
+<img src="../resources/images/backpack-audio-interface.jpg" height="400">
 
 ### Tablet Pocket
 
@@ -225,7 +225,7 @@ Versatile padded sleeve designed for a 3L hydration system or a 15" laptop
 
 Padded, fleece-lined tablet sleeve located in the front compartment for quick access
 
-<img src="../../resources/images/backpack-tablet-pocket.jpg" height="400">
+<img src="../resources/images/backpack-tablet-pocket.jpg" height="400">
 
 ### Laptop Compartment/Storage
 
@@ -254,11 +254,11 @@ Open Viewing Comparent: Unique quick recognition window design accommodates most
 - Laptop compartment is too lightly padded. 笔记本区域的填充物不够。
 - The back of the laptop backpack is padded, but the cardboard behind it bends and is right next to the laptop compartment inside. ??
 
-<img src="../../resources/images/backpack-divider-design.jpg" width="400">
+<img src="../resources/images/backpack-divider-design.jpg" width="400">
 
 Laptop and tablet storage：A fully padded CushionZone laptop compartment accommodates most 17-inch models. A dedicated TechSpot sleeve provides an ideal space for your tablet.
 
-<img src="../../resources/images/backpack-laptop-tablet-compartment.jpg" width="400">
+<img src="../resources/images/backpack-laptop-tablet-compartment.jpg" width="400">
 
 ### Main Pocket
 
@@ -272,11 +272,11 @@ Spacious large main compartment holds your daily essentials easily.
 
 Large packing capacity to fit binders and anything else you need.
 
-<img src="../../resources/images/backpack-main-component.jpg" width="400">
+<img src="../resources/images/backpack-main-component.jpg" width="400">
 
 Built-in padded laptop sleeve perfect for most 15.6" laptops, extra integrated storage pocket for 10" iPad tablet
 
-<img src="../../resources/images/backpack-laptop.jpg" width="400">
+<img src="../resources/images/backpack-laptop.jpg" width="400">
 
 there are seven organizational pockets within the main compartment designed for all of your urban gadgets: wallet, pens, camera, portable chargers, mouse, iPod, samll toys, handy beauty tools etc. 
 
@@ -300,7 +300,7 @@ Front compartment has internal organization with a fleece-lined media pocket, se
 
 常用的做法：
 
-<img src="../../resources/images/backpack-organizer.jpg" height="400"><img src="../../resources/images/backpack-organizer-2.jpg" height="400"><img src="../../resources/images/backpack-organizer-3.jpg" height="400"><img src="../../resources/images/backpack-organizer-4.jpg" height="400">
+<img src="../resources/images/backpack-organizer.jpg" height="400"><img src="../resources/images/backpack-organizer-2.jpg" height="400"><img src="../resources/images/backpack-organizer-3.jpg" height="400"><img src="../resources/images/backpack-organizer-4.jpg" height="400">
 
 ### Lay-flat Design
 
@@ -312,7 +312,7 @@ The laptop computer compartment is airport friendly allowing you to keep your co
 
 The unique quick-recognition window design makes going through security less of a hassle.
 
-<img src="../../resources/images/backpack-flat-design.jpg" height="400">
+<img src="../resources/images/backpack-flat-design.jpg" height="400">
 
 ### Airflow Back System
 
@@ -320,7 +320,7 @@ Airflow Back System: Multi-panel airflow design provides extra padding for comfo
 
 AIRFLOW back panel
 
-<img src="../../resources/images/backpack-airflow-backing-system.jpg" height="400">
+<img src="../resources/images/backpack-airflow-backing-system.jpg" height="400">
 
 ### Sunglass Holder
 
@@ -328,7 +328,7 @@ There is an elastic tab on the shoulder strap that keeps sunglasses secure and c
 
 The Suspension System provides relief when carrying heavier loads. It does so by dampening the shock of weight transfer while transporting your gear.
 
-<img src="../../resources/images/backpack-eyeglass-holder.jpg" height="400">
+<img src="../resources/images/backpack-eyeglass-holder.jpg" height="400">
 
 外袋的垂直拉链口常用于放置太阳镜。
 
@@ -342,7 +342,7 @@ Organizer with key fob
 
 a removable key fob to help you keep track of your keychain.
 
-<img src="../../resources/images/backpack-removable-key-fob.jpg" height="400">
+<img src="../resources/images/backpack-removable-key-fob.jpg" height="400">
 
 ### Padded back panel
 
@@ -362,17 +362,17 @@ the thickening sponge protection a good protection; it can effectively reduce th
 
 Reduce the burden system design
 
-<img src="../../resources/images/backpack-backrest.jpg" height="400">
+<img src="../resources/images/backpack-backrest.jpg" height="400">
 
 Cool Durability: Breathable mesh panels on the backside of the pack provide a comfortable carrying experience for the long-haul, alleviating the discomfort of strenuous and perspiring jaunts! Plus, a secret zipper compartment on the backside of the backpack is the perfect hiding spot for a wallet, keys or an ID.
 
-<img src="../../resources/images/backpack-mesh-penel.jpg" height="400">
+<img src="../resources/images/backpack-mesh-penel.jpg" height="400">
 
 The FlexVent™ suspension system boasts custom injection-molded shoulder straps, a padded mesh back panel with a spine channel and a wicking lumbar panel for maximum support and ventilation
 
 TODO
 
-<img src="../../resources/images/backpack-mesh-penel.jpg" height="400">
+<img src="../resources/images/backpack-mesh-penel.jpg" height="400">
 
 ### Padded bottom panel
 
@@ -388,11 +388,11 @@ Integrated media pocket: A clever mesh pocket located on the shoulder strap is i
 
 Deluxe media pocket, with headphone port
 
-<img src="../../resources/images/backpack-integrated-media-pocket.jpg" height="400">
+<img src="../resources/images/backpack-integrated-media-pocket.jpg" height="400">
 
 Also features a port for headphone wires on the top of right
 
-<img src="../../resources/images/backpack-headphone-wires.jpg" height="400">
+<img src="../resources/images/backpack-headphone-wires.jpg" height="400">
 
 ### Adjustable sternum strap
 
@@ -402,7 +402,7 @@ Sternum strap with whistle buckle
 
 ### Daisy chain loops for attaching extra gear
 
-<img src="../../resources/images/backpack-chain-loops.jpg" height="400">
+<img src="../resources/images/backpack-chain-loops.jpg" height="400">
 
 ### Wheels
 
@@ -412,7 +412,7 @@ Inline skate style wheels are corner mounted for stability and provide a smooth 
 
 The telescoping handle stores neatly under the zippered cover.
 
-<img src="../../resources/images/backpack-corner-mounted-wheels.jpg" height="400">
+<img src="../resources/images/backpack-corner-mounted-wheels.jpg" height="400">
 
 Soft and noiseless wheels for stable and controlled motion
 
@@ -426,15 +426,15 @@ Top grab handle/Top-mounted, reinforced haul handle
 
 The top grab handle offers quick grab-and-go mobility
 
-<img src="../../resources/images/backpack-top-handle.jpg" height="400">
+<img src="../resources/images/backpack-top-handle.jpg" height="400">
 
 Hideaway telescoping handle/Telescoping
 
-<img src="../../resources/images/backpack-hideaway-telescoping-handle.jpg" height="400">
+<img src="../resources/images/backpack-hideaway-telescoping-handle.jpg" height="400">
 
 Sturdy molded plastic handle supported by metal grommets and cabling
 
-<img src="../../resources/images/backpack-molded-plastic-handle.jpg" height="400">
+<img src="../resources/images/backpack-molded-plastic-handle.jpg" height="400">
 
 Telescoping single handle 伸缩手柄
 
@@ -442,7 +442,7 @@ Telescoping single handle 伸缩手柄
 
 Rugged, anti-slip faux leather bottom stabilizes bag on the ground and protects the bag from dirt and wet. 
 
-<img src="../../resources/images/backpack-bottom.jpg" height="400">
+<img src="../resources/images/backpack-bottom.jpg" height="400">
 
 ### Back Pocket
 
@@ -452,7 +452,7 @@ Bonus external zipper pocket on the back provide an easy access to the most-used
 
 Side access exposed mixed metal zippered sleeve pocket
 
-<img src="../../resources/images/Side-sleeve-Pocket.jpg" height="400">
+<img src="../resources/images/Side-sleeve-Pocket.jpg" height="400">
 
 ### Adjustable waist strap
 
@@ -460,23 +460,23 @@ Adjustable shoulder strap and waist strap to fit your need.
 
 Removable waist belt
 
-<img src="../../resources/images/backpack-waist-strap.jpg" height="400">
+<img src="../resources/images/backpack-waist-strap.jpg" height="400">
 
 ### D-door
 
 Front zippered D-door easily opens into a large compartment for gym clothes or shoes
 
-<img src="../../resources/images/backpack-D-door.jpeg" height="400">
+<img src="../resources/images/backpack-D-door.jpeg" height="400">
 
 ### Large top-loading main compartment
 
-<img src="../../resources/images/large-top-loading.jpeg" height="400">
+<img src="../resources/images/large-top-loading.jpeg" height="400">
 
 ### Crush-proof AC-Adapter garage
 
 Crush-proof AC-Adapter garage that isolates heavy (or fragile) accessories from the rest of the pack. Positioned at the bottom for better load balancing. Removable for those times when you need extra storage capacity
 
-<img src="../../resources/images/ac-adapter-garage.jpeg" height="400">
+<img src="../resources/images/ac-adapter-garage.jpeg" height="400">
 
 ## Closure
 
@@ -494,23 +494,23 @@ Buckle closure
 
 Main compartment cinch top closure
 
-<img src="../../resources/images/backpack-magnetic-flap-closure.jpg" height="400">
+<img src="../resources/images/backpack-magnetic-flap-closure.jpg" height="400">
 
 ### Adjustable drawstring closure
 
 Thick gauge cording witheasy drawstring closure
 
-<img src="../../resources/images/backpack-adjustable-drawstring-closure.jpg" height="400">
+<img src="../resources/images/backpack-adjustable-drawstring-closure.jpg" height="400">
 
 ### snap fastener
 
 Branded magnetic mixed metal snap fastener.
 
-<img src="../../resources/images/snap fastener.jpg" height="400">
+<img src="../resources/images/snap fastener.jpg" height="400">
 
 ### diagonal zipper
 
-<img src="../../resources/images/snap fastener.jpg" height="400">
+<img src="../resources/images/snap fastener.jpg" height="400">
 
 High strength zinc alloy resin zipper
 
@@ -522,7 +522,7 @@ High strength zinc alloy resin zipper
 
 Full expansion zipper adds over 10 percent of volume for all those treasures you pick up along on your journey
 
-<img src="../../resources/images/full-expansion-zipper.jpeg" height="400">
+<img src="../resources/images/full-expansion-zipper.jpeg" height="400">
 
 ### hip belt zip/U-zipper
 
@@ -530,7 +530,7 @@ hip belt zip away for checking luggage
 
 Full-access U-zipper allows the Redwing to work as both a top-loader and a panel loader, adding convenience to any adventure.
 
-<img src="../../resources/images/u-zipper.jpeg" height="400">
+<img src="../resources/images/u-zipper.jpeg" height="400">
 
 ### Hip belt
 

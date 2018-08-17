@@ -301,22 +301,22 @@ __根据网眼形状可分为：__
 
 1. 三明治网布。布料分为三层。
     
-    ![](../../resources/images/sandwitch-screen-cloth.jpg)
+    ![](../resources/images/sandwitch-screen-cloth.jpg)
 
 2. 六角网布
 
-    ![](../../resources/images/hexangular-screen-cloth.jpg)
+    ![](../resources/images/hexangular-screen-cloth.jpg)
 
 3. 菱形网眼布
 4. 方格网眼布
 5. 提花网眼布
 6. 鸟眼网布
     
-    ![](../../resources/images/bird-eye-screen-cloth.jpg)
+    ![](../resources/images/bird-eye-screen-cloth.jpg)
 
 7. 珠地网眼布。珠地网眼，广义的意思是以针织线圈之凹凸风格类面料的泛称，狭义的意思为针织单面圆机所织的4路一个循环的凹凸组织面料。由于面料有排列均匀整齐的凹凸效果，和皮肤接触的面在透气和散热，排汗的感觉舒适度上优于普通的单面汗布组织，一般常用做T恤、运动服等。
 
-    ![](../../resources/images/zhudi-screen-cloth.jpg)
+    ![](../resources/images/zhudi-screen-cloth.jpg)
 
 __根据网布使用的原材料可以分为：__
 
@@ -338,7 +338,7 @@ Taslon, 亚麻
 
 里布的价格一般比面料的价格更低。
 
-![](../../resources/images/lining.jpg)
+![](../resources/images/lining.jpg)
 
 里布尽量不要用白色，会增加次品率。
 
@@ -403,30 +403,30 @@ taffeta是塔夫的意思，这个本来是真丝的一种分类（真丝分4大
 
 __铝箔复合珍珠棉：__
 
-![](../../resources/images/alum-pearl-wool.jpg)
+![](../resources/images/alum-pearl-wool.jpg)
 
 
 __铝膜__
 
-![](../../resources/images/aluminum.jpg)
+![](../resources/images/aluminum.jpg)
 
 __珍珠棉：__
 
-![](../../resources/images/pearl-wool.jpg)
+![](../resources/images/pearl-wool.jpg)
 
 聚乙烯发泡棉是非交联闭孔结构，又称 EPE 珍珠棉 , 是一种新型环保的包装材料。它由低密度聚乙烯脂经物理发泡产生无数的独立气泡构成。克服了普通发泡胶易碎、变形、恢复性差的缺点。具有隔水防潮、防震、隔音、保温、可塑性能佳、韧性强、循环再造、环保、抗撞力强等诸多优点，亦具有很好的抗化学性能。是传统包装材料的理想替代品。 
 
 __铝箔复合珍珠棉：__
 
-![](../../resources/images/alum-pearl-wool.jpg)
+![](../resources/images/alum-pearl-wool.jpg)
 
 __铝膜__
 
-![](../../resources/images/aluminum.jpg)
+![](../resources/images/aluminum.jpg)
 
 __珍珠棉：__
 
-![](../../resources/images/pearl-wool.jpg)
+![](../resources/images/pearl-wool.jpg)
 
 聚乙烯发泡棉是非交联闭孔结构，又称 EPE 珍珠棉 , 是一种新型环保的包装材料。它由低密度聚乙烯脂经物理发泡产生无数的独立气泡构成。克服了普通发泡胶易碎、变形、恢复性差的缺点。具有隔水防潮、防震、隔音、保温、可塑性能佳、韧性强、循环再造、环保、抗撞力强等诸多优点，亦具有很好的抗化学性能。是传统包装材料的理想替代品。 
 

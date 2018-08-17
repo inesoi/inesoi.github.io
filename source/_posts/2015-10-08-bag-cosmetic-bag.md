@@ -37,7 +37,7 @@ Stow-away swivel non-slip hook for versatile hanging options
 
 Top hook allows case to hang from a shower bar or towel rack
 
-<img src="../../resources/images/cosmetic-bag-hanging-hook.jpeg" height="500">
+<img src="../resources/images/cosmetic-bag-hanging-hook.jpeg" height="500">
 
 Hang strap fits over most hooks and towel bars
 
@@ -53,13 +53,13 @@ Left section is 3.75" wide and lined with PVC film to store damp contents
 
 Right section measures 2.5" wide and the expansion zipper increases the width to 3-1/2" wide
 
-<img src="../../resources/images/cosmetic-compartments.jpeg" height="500">
+<img src="../resources/images/cosmetic-compartments.jpeg" height="500">
 
 Roomy compartment holds full size bottles or clothing
 
 Adjustable fastener keeps it closed for convenient packing, Multiple pockets and compartments for maximum organization
 
-<img src="../../resources/images/cosmetic-fastener.jpeg" height="500">
+<img src="../resources/images/cosmetic-fastener.jpeg" height="500">
 
 ### Organizer
 
@@ -79,11 +79,11 @@ Large main compartment features mesh divider, zippered pocket and pocket with ea
 
 Double zip openings reveals main compartment
 
-<img src="../../resources/images/cosmetic-double-opening-zip.jpeg" height="500">
+<img src="../resources/images/cosmetic-double-opening-zip.jpeg" height="500">
 
 Easy-access doctor bag-style opening
 
-<img src="../../resources/images/cosmetic-doctor-stype.jpeg" height="500">
+<img src="../resources/images/cosmetic-doctor-stype.jpeg" height="500">
 
 ### silnylon ripstop
 

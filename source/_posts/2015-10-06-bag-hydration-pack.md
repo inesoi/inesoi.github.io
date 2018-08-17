@@ -7,7 +7,7 @@ category: Bag
 
 Separate, side-access hydration reservoir compartment makes it easy to access your water supply
 
-<img src="../../resources/images/hydration system.jpeg" height="400">
+<img src="../resources/images/hydration system.jpeg" height="400">
 
 Zippered shoulder strap hose jacket helps protect it from the elements
 
@@ -29,7 +29,7 @@ Hinged front pocket holds a helmet
 
 Front zippered pocket holds bicycle tools, accessories or media player
 
-<img src="../../resources/images/hydration-helmet-front-pocket.jpeg" height="400">
+<img src="../resources/images/hydration-helmet-front-pocket.jpeg" height="400">
 
 ### Main Pocket
 
