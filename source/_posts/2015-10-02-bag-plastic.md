@@ -58,8 +58,6 @@ See
 
 PP是安全的食品容器用塑料，但若老化就不安全，例如台湾就有热水器内PP塑料老化的先例。
 
-[![U+2677 DejaVu Sans.svg](//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/U%2B2677_DejaVu_Sans.svg/80px-U%2B2677_DejaVu_Sans.svg.png)](/wiki/File:U%2B2677_DejaVu_Sans.svg)资源回收再利用：塑料分类标志中，PP代码是5。 塑料本体底部或包装上须列明，以便消费者及回收商能分类妥当。
-
 PP (Polypropylene)聚丙烯：
 
 - PP 熔点高达167℃，耐热，制品可用蒸气消毒是其特点。
@@ -91,8 +89,6 @@ See [聚乙烯 - 维基百科，自由的百科全书](https://zh.wikipedia.org/
     须知塑料原料可大分为两大类：“热塑性塑料”（Thermoplastic）及“热固性塑料”（Thermosetting），“热固性塑料”是加热到一定温度后变成固化状态，即使继续加热也无法改变其状态，因此，有环保问题的产品是“热固性塑料”的产品（如轮胎），并非是“热塑性塑料”的产品（如：塑料夹板），所以并非所有“塑料”皆不环保。
 
     高密度聚乙烯的高度结晶，因此外观上也就呈现出不透明的状态（高分子材料不同于钻石，结晶度高往往会降低透明度），并且硬度也更高，甚至有点脆生生的感觉。正是因为高强度不怕摔而且不透光，奶制品常常偏好此种塑料。这种塑料耐水耐油性都非常出色，因此适应性很广。一般摄氏100度以上才会容易变形。这种塑料还特别耐酸耐碱耐腐蚀，所以工业中也是应用极为普遍。
-
-    [![U+2674 DejaVu Sans.svg](//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/U%2B2674_DejaVu_Sans.svg/80px-U%2B2674_DejaVu_Sans.svg.png)](/wiki/File:U%2B2674_DejaVu_Sans.svg)塑料分类标志中，高密度聚乙烯（HDPE）代码是2。
 
 - 中密度聚乙烯（MDPE, Medium Density Polyethylene）
 - 低密度聚乙烯（LDPE, Low Density Polyethylene) 用高压法（147.17—196.2MPa）生产，支链较多，强度低，多用来生产薄膜制品。

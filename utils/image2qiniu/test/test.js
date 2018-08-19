@@ -4,8 +4,8 @@ var assert = require('assert');
 var localImage = require('../');
 
 describe('local image unit', function () {
-    it('local', function (done) {
-        localImage.local(done);
+    it('locale', function (done) {
+        localImage.locale(done);
     });
 
     it('process file', function (done) {

@@ -25,7 +25,7 @@ let options = {
  * @param options.dest
  *
  */
-exports.local = function (cb) {
+exports.locale = function (cb) {
     async.waterfall([function (callback) {
         // 递归所有 markdown 文件
         glob(path.join(options.sourceFolder, '*.md'), callback);

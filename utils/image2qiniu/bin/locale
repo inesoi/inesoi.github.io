@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+
+'use strict';
+
+const localImage = require('../index');
+const fs = require('fs');
+
+localImage.locale(function () {
+    console.log('done.');
+
+    // let content = fs.readFileSync(filePath, {encoding: 'utf-8'});
+});

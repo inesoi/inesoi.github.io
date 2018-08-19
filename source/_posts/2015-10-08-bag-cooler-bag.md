@@ -83,13 +83,13 @@ See [PVC vs PEVA: What’s the difference?](http://www.gorillamarketing.net/news
 
 Most consumers will know PVC by the commonly used name "vinyl".  PVC is short for polyvinyl chloride, and is most notably used to line shower curtains and other items made of plastic. So what is PEVA, you ask? PEVA is an alternative to PVC. Polyethylene vinyl acetate (PEVA) is a non-chlorinated vinyl and has become the common substitute in several products on the market. 
 
-![](http://www.gorillamarketing.net/plastic%20vinyl.jpg "plastic vinyl")
+![](../resources/images/plastic%20vinyl.jpg  "plastic vinyl")
 
 WAIT! This does not mean you need to throw out products made with PVC! Vinyl exists in many of the products we know and use today. It is one of the most widely produced plastic in the world! While there are other, safer options, the health risks for vinyl are minimal and only exist with acute exposure. So, unless you are living and working in a vinyl-lined room with all vinyl products, your exposure level is low. We only hope to give you more information about the products you most commonly buy and use, not to worry you.
 
 Big words for small items, right? Consumers are becoming more conscientious of the products they purchase and we work with suppliers that offer products made with PEVA. A smart consumer is one who is aware of [safer and healthier products](http://www.gorillamarketing.net/poly-pure-bottle.html) that exist on the market. Just because PEVA is chlorine free, it doesn't make it perfect, but it makes it better. What types of products are being made with PEVA? The most common items are table coverings, car covers, cosmetic bags, baby bibs, lunch coolers, and suit/clothes covers, but as the trend picks up steam, there are sure to be more products made with PEVA.
 
-![](http://www.gorillamarketing.net/car%20cover.jpg "car cover")
+![](../resources/images/car%20cover.jpg  "car cover")
 
 If you are looking to create a healthier lifestyle for you, your family, or your customers consider asking the question: "Is this product made with PVC or PEVA?" Not only will you be taking a step in 'healthier' direction, you'll sound pretty cool doing it!
 
