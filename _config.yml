@@ -111,5 +111,5 @@ theme: indigo
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/inesoi/inesoi.github.io.git
+  repository: git@github.com:inesoi/inesoi.github.io.git
   branch: master
