@@ -65,8 +65,8 @@ function replaceImgUrl(filePath, callback) {
     // 是否需要下载。
     var downloading = false;
 
-    var newContent = content.replace(/!\[(.*?)]\((.*?)(\s+".*?")?\)/, function (matched, imgAlt, imgSrc, title, offset, examined) {
-        if (_.contains(imgSrc, 'qiniudn.com')) {
+    var newContent = content.replace(/!\[(.*?)\]\((.*?)(\s+".*?")?\)/, function (matched, imgAlt, imgSrc, title, offset, examined) {
+        if (imgSrc.startsWith(imgSrc, '../')) {
             return matched;
         }
 
@@ -98,7 +98,7 @@ function replaceImgUrl(filePath, callback) {
         }
 
         title = title ? title : '';
-        return util.format('![%s](http://johnnyimages.qiniudn.com/%s%s)', imgAlt, imageName, title);
+        return util.format('![%s](../resources/images/%s %s)', imgAlt, imageName, title);
     });
 
 
@@ -109,9 +109,9 @@ function replaceImgUrl(filePath, callback) {
 }
 
 var options = {
-    "source": "D:\\project\\johnnyfee.github.io\\source\\_posts\\*.md",
-    "unresolved": "D:\\project\\johnnyfee.github.io\\unresolved.md",
-    "dest": "D:\\project\\johnnyfee.github.io\\resources\\images"
+    'source': path.join(__dirname,  '../../source/_posts/*.md'),
+    'unresolved': path.join(__dirname,  './unresolved.md'),
+    'dest': path.join(__dirname,  '../../source/resources/images')
 };
 
 module.exports(options);
