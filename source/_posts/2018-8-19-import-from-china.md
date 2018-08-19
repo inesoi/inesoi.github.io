@@ -1,5 +1,5 @@
 layout: post
-title: Importing from China: A Step by Step Guide
+title: Importing from China - A Step by Step Guide
 tags: [trade]
 category: Trade
 ---
