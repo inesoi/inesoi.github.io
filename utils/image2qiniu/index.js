@@ -25,7 +25,7 @@ let options = {
  * @param options.dest
  *
  */
-exports.own = function (cb) {
+exports.local = function (cb) {
     async.waterfall([function (callback) {
         // 递归所有 markdown 文件
         glob(path.join(options.sourceFolder, '*.md'), callback);
@@ -36,7 +36,7 @@ exports.own = function (cb) {
 };
 
 exports.processArticle = function (filePath, callback) {
-    let downloadingImages = updateContentAndExtractImages(path.join(options.sourceFolder, filePath));
+    let downloadingImages = updateContentAndExtractImages(filePath);
     async.each(downloadingImages, exports.downloadImage, callback);
 };
 
@@ -68,6 +68,10 @@ exports.downloadImage = function (img, callback) {
 
 // 下载和替换文件中的图片
 function updateContentAndExtractImages(filePath) {
+    if (!path.isAbsolute(filePath)) {
+        filePath = path.join(options.sourceFolder, filePath);
+    }
+
     let content = fs.readFileSync(filePath, {encoding: 'utf-8'});
 
     // 一篇文档中待下载的图片路径列表

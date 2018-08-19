@@ -16,31 +16,31 @@ See [2015年阿里巴巴新规则解读之总结篇(八) -外贸名人堂- 阿�
 7. 第七个篇章：跟大家分享了在发布产品中，应该如何填写最佳的文本信息，以及文本信息在整个排名中的重要性； 
 8. 第八个篇章：通过直观的思维导图，将前面7个篇章的内容以一定的逻辑关系展示出来，如下图所示，依次通过案例给大家做讲解；
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1507/thread/309_1057775_792910bfd43df52.jpg)
+![](../resources/images/309_1057775_792910bfd43df52.jpg )
 
 产品排名取决于三个重要的因素，即由买家偏好+商业因素+产品信息质量三者共同决定，且这三者在整个排名中，我在第三个篇章里面推断的是: 买家偏好占50%的权重，商业因素占比30%，产品信息质量占比20%。
 
 为了证明这个假设的合理性，我就随机从后台列举一个三好产品，即买家偏好(产品的数据好)+商业因素好(橱窗和P4P资源)+文本信息好(买家搜索使用的关键词与产品文本信息的匹配度)，如下剪切图（1）所示(剪切路径为: 打开数据管家→我的产品→有效果产品→按月统计→选择橱窗→反馈从高到低排序): 
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1507/thread/309_1057775_e3dacab3cda1646.jpg)
+![](../resources/images/309_1057775_e3dacab3cda1646.jpg )
 
 - 买家偏好所对应的：产品的曝光、点击、点击率、访客、反馈和反馈率都很好。 
 - 商业因素: 这个产品所使用的流量为：即是橱窗，也是P4P推广产品。 
 - 文本相关性：依次如下图:
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1507/thread/309_1057775_ef559163543d290.jpg)
+    ![](../resources/images/309_1057775_ef559163543d290.jpg )
 
 - 产品的名称为: 42 Inch Touchscreen All In One TV PC computer, 搜索引擎抓取的时候会优先匹配标题，很多关键词都隐藏在标题当中。 
 
     在文本信息出现与标题匹配的信息为红色框所示:
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1507/thread/309_1057775_51fc48eb97fdb93.jpg)
+    ![](../resources/images/309_1057775_51fc48eb97fdb93.jpg )
 
     在详细描述中与标题匹配：
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1507/thread/309_1057775_ef8dd657e5d1fa1.jpg)
+    ![](../resources/images/309_1057775_ef8dd657e5d1fa1.jpg )
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1507/thread/309_1057775_86b93ed259bc411.jpg)
+    ![](../resources/images/309_1057775_86b93ed259bc411.jpg )
 
 产品设置的三个关键词依次为(Keywords=k): 
 
@@ -115,7 +115,7 @@ See [2015阿里巴巴排名规则深度解读（一） -外贸名人堂- 阿里�
 
     图中所示红色方框中的产品非P4P产品，也没有橱窗的标志，在alibaba.com中搜索 digital photo frame 这个关键词，有6个固定排名，5个P4P，自然排名排在第19位，亲爱的同学们，这只是一个普通产品哦，产品示例如下: 
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1503/thread/309_1057775_b48ce3d3d7dd17b.jpg)
+    ![](../resources/images/309_1057775_b48ce3d3d7dd17b.jpg )
 
 4. 记住这个产品，再次打开后台，并看下橱窗中是否有设置这个产品，很奇怪的时候，这个产品并没有被设置成橱窗，但排名却非常好。
 
@@ -124,7 +124,7 @@ See [2015阿里巴巴排名规则深度解读（一） -外贸名人堂- 阿里�
 
 在整个阿里后台里面，我们能找到搜索路径的板块并不多，后台中，“知买家”中的“访客详情”就可以找到访客的访问路径，如图所示：
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1503/thread/309_1057775_93f5688a9136bcf.jpg)
+![](../resources/images/309_1057775_93f5688a9136bcf.jpg )
 
 在都有反馈的前提下，浏览量越少，即表达买家越喜欢这个产品，在搜索引擎中的表达就是: 搜索路径最短，如果是普通产品，排名会越好，如果是P4P产品，所需要的竞价底价越低。 
 
@@ -151,11 +151,11 @@ See [2015年阿里巴巴排名规则深度解读(二) -外贸名人堂- 阿里�
 
 1. 第一个主账号已经有七年的年限，每年的投资方案分别是: 金品诚企 (69800元/年) +P4P (投放金额为2万/月)；如图所示-6年推广的关键词的数量为3474个。(注：金品诚企的价格有年限差异，年限≥5年为69800元/年；<5年为80000元/年)
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_dbf224a8b5de8b0.jpg)
+    ![](../resources/images/309_1057775_dbf224a8b5de8b0.jpg )
 
 2. 第二个账号是3年的年限，每年的投资方案是: 基础方案(29800元/年)+P4P (投放金额为: +2万/月); 如图所示-关键词的个数为5918个，最近30天的P4P的投放金额为:21211.6元。
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_8bc4a094f3174c5.jpg)
+    ![](../resources/images/309_1057775_8bc4a094f3174c5.jpg )
 
 3. 第三个账号是2年的年限，每年的投资方案是: 基础方案(29800元/年)+P4P (投放金额为: +9000元/月)，如图所示，关键词的数量为208个，最近30天的投放金额是:
 
@@ -168,7 +168,7 @@ frame 这个热门的关键词分别拿到我所介绍的三个不同的P4P账�
 
 1. 2 年号的P4P的竞价底价:
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_3ab99ea8dbd8c05.jpg)
+    ![](../resources/images/309_1057775_3ab99ea8dbd8c05.jpg )
 
     2年号: Digital Photo Frame最近30天的数据为: 
 
@@ -182,7 +182,7 @@ frame 这个热门的关键词分别拿到我所介绍的三个不同的P4P账�
 
 2. 3年号的P4P的竞价底价:
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_96ef275eec53777.jpg)
+    ![](../resources/images/309_1057775_96ef275eec53777.jpg )
 
     3年号：Digital Photo Frame最近30天的数据为: 
 
@@ -196,7 +196,7 @@ frame 这个热门的关键词分别拿到我所介绍的三个不同的P4P账�
 
 3. 7年号的P4P的竞价底价:
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_e79509542562328.jpg)
+    ![](../resources/images/309_1057775_e79509542562328.jpg )
 
     7年号：Digital 
     Photo Frame最近30天的数据为: 曝光-9520；点击量-160，点击率-1.68%，平均单价为：3.18元，对应的竞价分别为:
@@ -211,9 +211,9 @@ frame 这个热门的关键词分别拿到我所介绍的三个不同的P4P账�
 
 把对应的数据放在一起，请大家看以下三张数据剪切图:
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_eb055cfbad6ed9b.jpg "点击查看原图")  
-![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_1f66202612c59bb.jpg "点击查看原图")  
-![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_3a5f98e2d6deaac.jpg "点击查看原图")
+![](../resources/images/309_1057775_eb055cfbad6ed9b.jpg  "点击查看原图")  
+![](../resources/images/309_1057775_1f66202612c59bb.jpg  "点击查看原图")  
+![](../resources/images/309_1057775_3a5f98e2d6deaac.jpg  "点击查看原图")
 
 通过如上三个图的数据对比可知：__P4P平均点击单价的高低取决于点击率高低，点击率越高，所需要花费的单价越低，反之越高。__
 
@@ -221,15 +221,15 @@ frame 这个热门的关键词分别拿到我所介绍的三个不同的P4P账�
 
 1. 如7年号的剪切图所示:
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_d53a57a34a8cb46.jpg "点击查看原图")
+    ![](../resources/images/309_1057775_d53a57a34a8cb46.jpg  "点击查看原图")
 
 2. 3年号剪切图所示:
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_f9db4fbbd27fb47.jpg "点击查看原图")
+    ![](../resources/images/309_1057775_f9db4fbbd27fb47.jpg  "点击查看原图")
 
 3. 2年号剪切图所示:
 
-    ![](http://waimaoquan.alibaba.com/bbs/attachment/1504/thread/309_1057775_05d0e6422cba80a.jpg "点击查看原图")  
+    ![](../resources/images/309_1057775_05d0e6422cba80a.jpg  "点击查看原图")  
 
 通过以上数据再次对比发现：
 
@@ -366,13 +366,13 @@ See [2015阿里巴巴排名规则深度解读（六） -外贸名人堂- 阿里�
 
 输入发布产品所需要的核心关键词，弹出对应的类目，依次点开对应的类目，并查看其属性。 
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_b3c04093415c95d.png)
+![](../resources/images/309_1057775_b3c04093415c95d.png )
 
 根据对产品属性的了解，依次查看对应的类目，选择与产品属性最匹配的类目发布产品。 
 
 ### 推广关键词与推广产品标题的匹配度
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_0794ff7e1e6c785.png)
+![](../resources/images/309_1057775_0794ff7e1e6c785.png )
 
  所推广的关键词和产品的星级，最直接的因素就是目标推广关键词与推广产品标题的匹配度，如果不匹配，就是3星以下，如果是匹配，至少是三星级，如果这个产品之前有数据，那可能就会立刻变成5星级。 
 
@@ -382,15 +382,15 @@ See [2015阿里巴巴排名规则深度解读（六） -外贸名人堂- 阿里�
 
 在后台点击数据管家---点击我的产品---点击有效果产品----点击按月统计---点击反馈，从高到低排序，如下图中红色框框所示所示，该产品的数据是所有产品里面最好的。
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_80468d50c7838eb.png)
+![](../resources/images/309_1057775_80468d50c7838eb.png )
 
 如下图，选择词来源，并点击 More，会弹出红色框框中的关键词以及对应的曝光和点击，红色框框中的两个关键词为: 7 inch digital photo Frame 和 digital photo Frame，这两个词语所对应的数据都非常好！
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_b37412ae02fcb8f.png)
+![](../resources/images/309_1057775_b37412ae02fcb8f.png )
 
 为了验证数据对该关键词竞价底价的影响，分别将两个词语 7 inch digital photo frame 和 digital photo frame, 拿到七年号和三年号的P4P后台里面搜索，如图3所示: 在下午18.09分的时刻，该关键词的竞价底价为3.7元，而且没有同级别的供应商与之竞价: 
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_78076664738e187.jpg)
+![](../resources/images/309_1057775_78076664738e187.jpg )
 
 总结: 数据高的产品，分别对应的关键词在P4P的出价过程中，竞价是很低的！
 
@@ -398,39 +398,39 @@ See [2015阿里巴巴排名规则深度解读（六） -外贸名人堂- 阿里�
 
 接着，在把同样的词语拿到3年号的P4P后台里面去搜索，如图4所示: 发现在18.02分的时候，同样的关键词，竞价底价却截然不同，而且同级别的同行有很多都在竞价: 
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_b20277a79b33b96.png)
+![](../resources/images/309_1057775_b20277a79b33b96.png )
 
 总结: 如果没有数据做支撑，同行与同行之间的竞价差异非常大，即投入产出截然不一样；
 
 在把digital photo frame拿到7年号里面搜索，在下午18.12分的时候，该关键词在竞价中为底价，而且没有同级别的同行与之竞价，如图5所示 
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_83705ed6539a49b.jpg)
+![](../resources/images/309_1057775_83705ed6539a49b.jpg )
 
 总结: 数据高的产品，分别对应的关键词在P4P的出价过程中，竞价是很低的！ 
 
 把同样的关键词拿到3年号中查看，在下午18.07分的时刻，该关键词的竞底价，如图5所示，有很多同级别的同行与之竞争，而且价格相当高: 
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_18918022ce892cf.png)
+![](../resources/images/309_1057775_18918022ce892cf.png )
 
 总结: 由以上5张剪切图的数据告诉我们，如果一个产品的数据很好(数据代表买家偏好)，这个产品在参与P4P竞价时，这个产品标题中所包含的关键词(推广关键词)的竞价底价都很低，即: 阿里平台通过商业的手段，将优质的产品和供应商，通过最低的成本，让他们展示在首页，去引流并服务好潜在的买家！ 
 
 为了更加清晰的阐述数据、星级和出价的关系，请看如下四张图: 
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_1be19944c20ac69.jpg)
+![](../resources/images/309_1057775_1be19944c20ac69.jpg )
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_3164f1b8984ae75.png)
+![](../resources/images/309_1057775_3164f1b8984ae75.png )
 
 该数据为七年号的P4P推广关键词的竞价及对应的推广产品，该推广关键词所指向的产品，均为5星级，优先推广的5星级产品所对应的关键词竞价为底价: 
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_26a93cc1e87a9b8.png)
+![](../resources/images/309_1057775_26a93cc1e87a9b8.png )
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_ecb40e23dcde2ff.jpg)
+![](../resources/images/309_1057775_ecb40e23dcde2ff.jpg )
 
 该数据为三年号的P4P推广关键词的竞价及对应的推广产品，该推广关键词所指向的产品，均为5星级，优先推广的5星级产品所对应的关键词竞价第一名要37.9元，第5名要9.2元，竞价是7年号的2倍多； 
 
 总结: 在同一个账号或者不同的主账号中，即使关键词指向的产品均为5星级产品，它们各自的竞价底价仍然不一样，数据越好的5星级产品，竞价底价越低，反之亦然；也就说: 产品的数据才是决定产品竞价底价高低的关键词因素，因为数据代表着买家偏好； 
 
-![](http://waimaoquan.alibaba.com/bbs/attachment/1506/thread/309_1057775_e2ae418a0254509.png)
+![](../resources/images/309_1057775_e2ae418a0254509.png )
 
 ## 文本信息
 

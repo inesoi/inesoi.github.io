@@ -33,7 +33,6 @@ __物理和化学性质：__
 
 PVC是七大塑料中唯一必须使用增塑剂的材料，这使得它的状态可以从软而弹到硬而脆之间变化。而增塑剂就是媒体报道中的“塑化剂”。PVC既然可以呈现软而有弹性的一面，也就可以模拟橡胶或皮革的一些用途，比如小汽车内饰大量使用的人造革、一次性检查手套、地板、桌布、塑胶鞋，因为PVC价格比天然胶和聚氨酯人造革低得多。不过PVC工业通常要用到乙炔。
 
-资源回收再利用：塑胶分类标志中，PVC代码是3（3字在三个循环再用箭号中心[![U+2675 DejaVu Sans.svg](//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/U%2B2675_DejaVu_Sans.svg/50px-U%2B2675_DejaVu_Sans.svg.png)](/wiki/File:U%2B2675_DejaVu_Sans.svg)
 
 __安全与危害：__
 
