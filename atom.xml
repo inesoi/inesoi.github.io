@@ -98,6 +98,222 @@
   </entry>
   
   <entry>
+    <title>Amazon 上传产品</title>
+    <link href="http://blog.inesoi.com/Amazon/2017-12-25-amazon-uploading-products.html"/>
+    <id>http://blog.inesoi.com/Amazon/2017-12-25-amazon-uploading-products.html</id>
+    <published>2017-12-24T16:00:00.000Z</published>
+    <updated>2018-07-27T14:52:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="产品字段"><a href="#产品字段" class="headerlink" title="产品字段"></a>产品字段</h2><ul><li><p>item_type：填空题，填入的内容，告诉亚马逊，我的产品，我要放入的类目，比如你做iphone case ，在你下载的表格里，Valid Values这个页面，已经给出这个值了，就是 basic-cell-phone-carrying-cases ，看到了没有，中间有一杠一杠的，是固定的格式，将这条记录定位到这个类目进去；</p></li><li><p>item_sku：填入的内容，是为了告诉亚马逊，本条记录，本人，要给它一个身份id，便于识别，作者可以看心情编写，比如可以填写成，xiaolandecase，子sku 保持跟父sku一定相关性，比如xiaolandecase-black，代表黑色的子sku，没理解父体和子体？</p></li><li><p>external_product_id：传说中的upc码，官方有卖，不过我都去淘宝买，不安全？我呸，我都用了几千个了，便宜又实用；UPC码干啥用的？亚马逊赋予你这条记录的身份证；</p></li><li><p>external_product_id_type：看到了没有，跟上面那货，就差了一个type，意思就是问你，你刚刚写进去的id的类型，是身份证呢，学生证，驾驶证还是upc码？因为除了upc，还有GCID ，EAN码，不用管那么多，普遍先用UPC码，这样理解了吧；</p></li><li><p>item_name：标题标题标题，这个很容易看懂吧，就是产品名称；</p></li><li><p>manufacturer：制造商，翻译一下就知道了，写你工厂的名字就行了，瞎编一个；</p></li><li><p>brand_name：品牌名，如果还未申请国外商标，也拟定一个可将来用来备案。更能用于吓唬那些跟卖的，要说起品牌备案，我的建议是账号不稳定的时候，先别备案，万一账户挂了，岂不是浪费钱；</p></li><li><p>standard_price：商品吊牌价，一般来讲设置高一些，将来要打折的嘛，父体不用设置，最多保留两个小数点；跟后面的 </p></li><li><p>sale_price 相对应，真正的销售价格是 sale_price； </p></li><li><p>quantity：库存数量，如果有做fba，请写的准确一点；</p></li><li><p>other_image_url1：产品副图，详情图 main_image_url：主图，图片1001*1001，有一边的像素要大于1001，记得要白底，虽然现在也有很多非白底的，但是被查，是迟早的事，最好按照亚马逊的规则走。</p></li><li><p>parent_child ： 父子关系，如果所在记录是父体，就写parent，字体 </p></li><li><p>childparent_sku:父体的sku一般不写，写字体的sku</p></li><li><p>relationship_type：关系类型， 默认填写 Variation 父子变体</p></li><li>variation_theme：变体类型 是颜色  尺码  还是 颜色/尺码</li><li>part_number：填写制造零件号，可以自己编辑一个；</li><li>product_description：产品描述，在前台显示；</li><li>update_delete：不填写默认为创建新品；填写 partial update代表更新本条记录；填写delete，表示删除；</li><li>bullet_point1：卖点，最重要的卖点，切记不能浮夸，不能带有煽动性词语，写出最真实的产品特性；</li><li>generic_keywords：search term 的关键字。</li></ul><h2 id="关键词"><a href="#关键词" class="headerlink" title="关键词"></a>关键词</h2><p>根据跨境电商平台亚马逊的A9算法，关键词是具有一定搜索权重的，而对于卖家而言，关键词则是吸引买家眼球的一个关键部分，优质的关键词能给listing带来较高的曝光、点击和转化，因此用好关键词能给卖家带来非常多的益处。</p><p>亚马逊关键词也被称为Search Term和五行描述，正确的填写产品的5行关键词可以提高客户的购买概率，因此绝不能漫不经心的填写和简单的复制，必须要经过认真的总结和梳理。</p><p>关键词上体现出来的信息，可以有产品的款式、颜色、材质、功能、包装、用途以及其他方面的优势，越具体越好，越是买家关心的越好，越能与竞争对手产生差异化越好。与此同时还要注意文字的排版，不要参差不齐，影响美感。</p><p>A9算法在客户开始搜索某个关键词后，展示出来的结果与客户搜索的关键词有三种对应的情况。</p><ol><li>完全匹配：这种情况权重最高，表明卖家的关键词与买家输入的关键词完全一致，比如买家输入的是men shoes，卖家的关键词也是men shoes；</li><li>词组匹配：这种情况权重中等，表明卖家的关键词与买家输入的关键词部分一致，比如买家输入的是woman red sandals，卖家的关键词是woman red shoes；</li><li>模糊匹配：这种情况权重最低，表明卖家的关键词与买家输入的关键词只有少部分匹配，比如买家输入的是woman red sandals，卖家的关键词是woman white shoes。</li></ol><h3 id="关键词的两种写法"><a href="#关键词的两种写法" class="headerlink" title="关键词的两种写法"></a>关键词的两种写法</h3><p>目前为止，关于跨境电商平台亚马逊关键词的写法主要有两种模式，哪种更好没有定论，只能根据产品的竞争程度、卖家现阶段的经营策略以及卖家对市场和行业的把握做为参考依据。</p><ol><li>第一种写法是在5个search term上都只填写一个关键词或词组，为的就是完全匹配，当买家搜索该关键词时得到好的权重，最有效的抓住每一个精准流量。这需要卖家在众多关键词中将不精准、搜索量低、转化率少的词汇剔除掉，只留下5个搜索多、转化率好、成交高的优质关键词，考验的是智慧。</li><li>第二种写法是在5个search term上填写大量的关键词或词组，能写多少就写多少，每个关键词或词组间用英文的逗号隔开，为的是模糊匹配和词组匹配，玩的是词海战术，增加被搜索到的概率，抓取的是泛流量，东方不亮西方亮。</li></ol><p>至于具体到每个卖家，就要根据实际情况选择一种写法，或者将两者进行综合，比如在5个search term中，2-3个用第一种写法，剩下的用第二种写法。其实，竞争非常激烈的产品，第一种写法占得优势较多，竞争不太激烈的产品，第二种写法更吃香。以下这家采用的是二者融合的模式。</p><h3 id="关键词的书写规则"><a href="#关键词的书写规则" class="headerlink" title="关键词的书写规则"></a>关键词的书写规则</h3><ol><li>两个关键词之间不要用中文的逗号或者其他的标点符号隔开，这样会影响A9的读取，被判定为乱码，彼此间用空格隔开即可，比如woman red sandal和shoes，写成woman red sandal shoes即可；</li><li>另外，同一个关键词不要重复出现，不但有可能被认为是关键词作弊，还会影响买家的阅读体验感，比如这一栏已经用了红色，就不要再重复出现了，例如red sandal和red shoes直接合并成red sandal shoes就好了。</li></ol><h3 id="关键词的书写技巧"><a href="#关键词的书写技巧" class="headerlink" title="关键词的书写技巧"></a>关键词的书写技巧</h3><ol><li>卖家要尽可能的在买家的立场上去筛选和整理关键词，把买家最想知道的、最希望知道的、最迫切知道的关键词排到前面去，剩下的再按照与产品的相关性写到Search Term中。如果可以，5个search term尽量填满，当然也要分产品，有的产品关键词本身就很少，也没有必要吹毛求疵；</li><li>多想一想产品有没有其他的叫法，因为可能每个国家、每个地区、每一类的人对同一个产品的称呼都不一样，这也导致了同一个产品有可能有多个产品名称关键词，比如有人把移动电源也称为充电宝、旅行充电器，还比如灯有lamp和light两种叫法；</li><li>少用介词、形容词和修饰词，浪费字符空间，对买家的成交也没有太多的影响。多写一些尺寸、性能、使用时间、颜色、原材料等方面的内容，充分挖掘和运用有价值的关键词；</li><li>多参考和学习，不断优化自己的关键词，而不是放上去以后就不管了。首先就要参考亚马逊下拉框中推荐的搜索关键词，另外还要看一些大卖家或者品牌店热销品的用词习惯，做的比较好的同行更是监测和对比的重点对象；</li><li>如果所卖产品适合节日使用或送人，要提前修改关键词，一般是在节日前的半个月甚至一个月，就在关键词中加入与节假日有关的词组，比如圣诞节、万圣节、网购星期五等。五、关键词工具解析工具是死的，人才是活的，这些关键词工具只能做为一种思维拓展的辅助，而不能完全依赖它，最终卖家想要获得一个好的结果，还是需要依靠自己对产品和市场的熟悉度。</li></ol><h3 id="关键词工具解析"><a href="#关键词工具解析" class="headerlink" title="关键词工具解析"></a>关键词工具解析</h3><p>工具是死的，人才是活的，这些关键词工具只能做为一种思维拓展的辅助，而不能完全依赖它，最终卖家想要获得一个好的结果，还是需要依靠自己对产品和市场的熟悉度。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;产品字段&quot;&gt;&lt;a href=&quot;#产品字段&quot; class=&quot;headerlink&quot; title=&quot;产品字段&quot;&gt;&lt;/a&gt;产品字段&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;item_type：填空题，填入的内容，告诉亚马逊，我的产品，我要放入的类目，比如你做iphone cas
+      
+    
+    </summary>
+    
+      <category term="Amazon" scheme="http://blog.inesoi.com/categories/Amazon/"/>
+    
+    
+      <category term="amazon" scheme="http://blog.inesoi.com/tags/amazon/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Amazon 账号防关联</title>
+    <link href="http://blog.inesoi.com/Amazon/2017-12-25-amazon-account-avoid-relate.html"/>
+    <id>http://blog.inesoi.com/Amazon/2017-12-25-amazon-account-avoid-relate.html</id>
+    <published>2017-12-24T16:00:00.000Z</published>
+    <updated>2018-07-27T14:52:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="什么是账号关联"><a href="#什么是账号关联" class="headerlink" title="什么是账号关联"></a>什么是账号关联</h2><p>亚马逊规定一个卖家只能拥有一个店铺。账号关联就是亚马逊通过自己的技术手段获取卖家信息，通过匹配关联因素来判定多个账号是否属于同一个卖家所有。如果亚马逊判定多个账号为同一卖家操作，就产生了账号关联。</p><h2 id="产生关联的后果"><a href="#产生关联的后果" class="headerlink" title="产生关联的后果"></a>产生关联的后果</h2><p>亚马逊账号关联本身并不会产生什么问题，问题的关键是，你其中的一个账号出现问题，那你其他关联的账号就会受到影响。</p><p>同站点的账号关联，亚马逊检测到你在各账号之间有交叉销售的话，它会发邮件警告你自行删除一个账号上的Listing，如果你无动于衷，那么亚马逊就会强制关闭所有关联的账号。</p><h2 id="账号关联的三种后果"><a href="#账号关联的三种后果" class="headerlink" title="账号关联的三种后果"></a>账号关联的三种后果</h2><ul><li>同站点账号关联，且账号间所售卖产品存在交叉，亚马逊会强制要求你下架新账号的全部Listing。</li><li>同站点所售卖产品不存在交叉，账号可能继续存活。</li><li>任意站点，关联账号中的一个被关闭，那么其他几个也难逃厄运，仅仅只是时间问题。</li></ul><h2 id="关联因素及预防措施"><a href="#关联因素及预防措施" class="headerlink" title="关联因素及预防措施"></a>关联因素及预防措施</h2><ol><li>网络关联：每个店铺配备独立的宽带网络或者电脑配备独立无线网卡，死过店铺的网络不要在使用，电脑更换配置。</li><li>浏览器指纹：亚马逊可以通过 JS 收集有关你浏览器的无害数据，如插件、系统字体、操作系统版本、打字方式、打字速度等等。这些数据合在一起，就是一个数字指纹，可以判断是不是同一个人操作，就如同我们可以通过一个指纹找到一个人。</li><li>密码相同关联：亚马逊每个店铺的账号及密码不能相同。</li><li><p>图片关联：不同的店铺，产品图片名称，产品拍摄角度都不能相同。<br>5.描述关联：标题描述，细节描述不能照抄一个店铺，每个店铺必须重写。</p></li><li><p>注册信息关联：每个店铺的注册信息必须具有唯一性，从公司的名称，个人名字，地址，电话，邮箱都要有一套对应的资料。</p></li><li><p>cookies关联：cookie是当你浏览某网站时，web服务器置于硬盘上的一个简单的文本文件，它可以记录你的用户ID、密码、浏览过的网页、停留的时间等信息。</p></li><li><p>FBA 发货信息关联：发货地址及联系电话，每个店铺都最好不要相同。</p></li><li><p>跟卖关联：很多卖家都用小号跟卖大号，或者相互跟卖，跟卖不会关联，但由于跟卖的缘由，当你出现问题时，跟卖的账号也会被审核。</p></li><li><p>品牌备案关联：每个备案网站的联系信息要完全跟商标注册以及亚马逊后台店铺信息对于，利于通过备案又能避免关联。(品牌授权除外)</p></li><li><p>联系方式关联：亚马逊后台开case或者让亚马逊电话联系你的时候，一定要留亚马逊后台对应的电话及邮箱，而不是留自己习惯的邮箱及电话。</p></li><li><p>邮件图片或者flash关联：邮件中加载图片或flash的时候是可以读取你的ip地址的，针对这个情况，使用gmail的禁用邮件加载功能，详细信息去亚马逊后台看。</p></li><li><p>欧洲kyc审核查出关联：对股东信息及地址账单信息进行详查。</p></li><li><p>产品相同关联：多店铺的售卖产品基本一样，建议交叉售卖，新老产品的比例小于3：7。</p></li><li><p>因关联被关闭过店铺的商标及公司个人信用卡地址信息不要再次使用。</p></li><li><p>云主机登录管理多账号被查出：亚马逊的业务之一就是AWS，最好不要使用云主机管理，亚马逊很容易查出关联。使用独立电脑最安全。</p></li><li><p>产品型号关联：所有店铺上架公司的同一系列产品，且是同一款产品，外观一样，亚马逊可能会因为这个因素查你的店铺。</p></li><li><p>翻墙软件/翻墙路由器关联：当你翻墙上twitter、YouTube的时候记得推出亚马逊后台，以免误伤。</p></li><li><p>说明书关联：很多卖家因为产品销量少而不单独硬刷品牌包装，多店铺使用同一包装，在这个时候，不一样的说明是证明非关联的重要因素。</p></li></ol><h2 id="放关联核心应对方"><a href="#放关联核心应对方" class="headerlink" title="放关联核心应对方"></a>放关联核心应对方</h2><ol><li>让亚马逊认为多个账号是不同的人在不同的地方操作。</li><li>关联根据多个因素判定，单一因素相同，不会关联，但长期不知不觉的积累起来的关联因素多起来之后，就会因为某次关联因素而被判定为关联，卖家们应尽量减少关联因素。</li><li>做到十新，新邮箱，新电脑，新系统，新浏览器，新路由，新收款账号和新产品，新宽带，新手机号，新信用卡。</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;什么是账号关联&quot;&gt;&lt;a href=&quot;#什么是账号关联&quot; class=&quot;headerlink&quot; title=&quot;什么是账号关联&quot;&gt;&lt;/a&gt;什么是账号关联&lt;/h2&gt;&lt;p&gt;亚马逊规定一个卖家只能拥有一个店铺。账号关联就是亚马逊通过自己的技术手段获取卖家信息，通过匹配关联因
+      
+    
+    </summary>
+    
+      <category term="Amazon" scheme="http://blog.inesoi.com/categories/Amazon/"/>
+    
+    
+      <category term="amazon" scheme="http://blog.inesoi.com/tags/amazon/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android Activity 启动模式</title>
+    <link href="http://blog.inesoi.com/Android/2017-12-07-android-launch-mode.html"/>
+    <id>http://blog.inesoi.com/Android/2017-12-07-android-launch-mode.html</id>
+    <published>2017-12-06T16:00:00.000Z</published>
+    <updated>2017-12-21T14:54:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>英文原文：<a href="http://inthecheesefactory.com/blog/understand-android-activity-launchmode/en" target="_blank" rel="external">Understand Android Activity’s launchMode: standard, singleTop, singleTask and singleInstance</a>  另外关于启动模式还有篇很好的文章：<a href="http://blog.csdn.net/zhangjg_blog/article/details/10923643" target="_blank" rel="external">Android中Activity四种启动模式和taskAffinity属性详解 </a></p><p>Activity是安卓上最聪明的设计之一，优秀的内存管理让多任务完美运行在最流行的操作系统之上。并不是让Activity在屏幕上启动就完事了，其启动方式也是需要关注的。这个话题的内容很多，其中很重要的就是启动模式（launchMode）。这也是我们这篇博客要讨论的内容。</p><p>因为不同的Activity有不同的目的。有些被设计成每发送一个intent都单独一个Activity工作，比如邮件客户端中撰写邮件的Activity，而有些则被设计成单例的，比如邮件收件箱的Activity。</p><p>这就是为什么指明一个Activity是否需要新建还是使用现有Activity是很有必要的，否则可能导致糟糕的用户体验。多亏了安卓的核心工程师，让launchMode可以帮助你专门应对这种情况。  </p><h2 id="设置一个launchMode"><a href="#设置一个launchMode" class="headerlink" title="设置一个launchMode"></a>设置一个launchMode</h2><p>一般地，我们可以直接在AndroidManifest.xml <activity>标签的一个属性中设置launchMode，如下：</activity></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">&lt;activity</div><div class="line">    android:name=&quot;.SingleTaskActivity&quot;</div><div class="line">    android:label=&quot;singleTask launchMode&quot;</div><div class="line">    android:launchMode=&quot;singleTask&quot;&gt;</div></pre></td></tr></table></figure><p>有4种类型的launchMode，我们一个一个的看。</p><h2 id="standard"><a href="#standard" class="headerlink" title="standard"></a>standard</h2><p>这是默认的模式。  </p><p>这种模式下，当Intent发送的时候，Activity总是被创建一个新的出来单独工作。想象一下，如果有发送10个撰写邮件的Intent，那么将有10个不同的Activity启动。</p><p><strong>在</strong>Lollipop<strong>之前设备上的表现</strong></p><hr><p>这种Activity将被创建并置于栈顶，和发送intent的Activity处于同一个任务中。注：一般来讲，安卓第三个虚拟键所列出的那些就是任务。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087372621766.jpg" alt="standardtopstandard" title="">                </div>                <div class="image-caption">standardtopstandard</div>            </figure><p>下面的图片显示了向标准启动模式的Activity分享照片时的情况。虽然分别来自不同的应用，但仍然它会和发送intent的Activity处于同一个任务中。</p><p>注：从图中可以看出分享图片的是Gallery应用。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087374604123.jpg" alt="standardgallery2" title="">                </div>                <div class="image-caption">standardgallery2</div>            </figure><p>同时你会看到此时任务管理器是这样的（有一点怪异）。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087376117515.jpg" alt="gallerystandard" title="">                </div>                <div class="image-caption">gallerystandard</div>            </figure><p>如果我们切换到另外一个应用然后再切回到Gallery，你会发现standard launchMode启动的Activity仍然在Gallery任务的上面，导致在操作Gallery之前，我们必须首先结束这个额外的Activity。</p><p><strong>在</strong>Lollipop<strong>设备上的表现</strong></p><p>如果Activity都是来自同一个应用，其表现和Lollipop之前的设备一样，在任务的顶端。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087379116164.jpg" alt="standardstandardl" title="">                </div>                <div class="image-caption">standardstandardl</div>            </figure><p>但是如果intent来自其他应用，将创建一个新的任务，同时新创建的Activity会被作为一个根Activity，如下：</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087381513369.jpg" alt="standardgalleryl" title="">                </div>                <div class="image-caption">standardgalleryl</div>            </figure><p>注：图片中的Task#2和Task#3分别表示两个任务，序号大的比序号小的后启动。  </p><p>下面是任务管理器中的样子：</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087384460569.jpg" alt="gallerystandardl1" title="">                </div>                <div class="image-caption">gallerystandardl1</div>            </figure><p>发生这种情况的原因是Lollipop中任务管理系统做了修改，让它看起来更合理了。因为它们在不同的任务中，你可以直接切回Gallery，你还可以触发另一个Intent，创建新的与之前相同的任务。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087386731411.jpg" alt="gallerystandardl2" title="">                </div>                <div class="image-caption">gallerystandardl2</div>            </figure><p>撰写邮件的Activity或者发布社交网络状态的Activity都是采用这种Activity的例子。如果你希望Activity单独服务于一个Intent，就可以考虑standard启动模式。</p><h2 id="singleTop"><a href="#singleTop" class="headerlink" title="singleTop"></a>singleTop</h2><p>接下来就是singleTop模式。它的表现几乎和standard模式一模一样，一个singleTop Activity 的实例可以无限多，唯一的区别是如果在栈顶已经有一个相同类型的Activity实例，Intent不会再创建一个Activity，而是通过onNewIntent()被发送到现有的Activity。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087389219419.jpg" alt="singletop" title="">                </div>                <div class="image-caption">singletop</div>            </figure><p>在singleTop模式下我们需要同时在onCreate() 和 onNewIntent()中处理发来的intent，以满足不同情况。</p><p>这种启动模式的用例之一就是搜索功能。假设我们创建了一个搜索框，点击搜索的时候将导航到一个显示搜索结果列表的SearchActivity中，为了更好的用户体验，这个搜索框一般也会被放到SearchActivity中，这样用户想要再次搜索就不需要按返回键。</p><p>想像一下，如果每次显示搜索结果的时候我们都启动一个新的activity，10次搜索10个activity，那样当我们想返回最初的那个activity的时候需要按10次返回。</p><p>所以我们应该这样，如果栈顶已经有一个SearchActivity，我们将Intent发送给现有的activity，让它来更新搜索结果。这样就只会有一个在栈顶的SearchActivity，只需点一次back就可以回到之前的activity。</p><p>不管怎样，singleTop和它的调用者处在一个任务中。如果你想要让intent发送给另一个任务中处于栈顶的Activity，是不行的。</p><p>而当Intent来自于另外一个应用的时候，新的Activity的启动方式和standard模式是一致的（pre-Lollipop:处于调用者任务的栈顶，Lollipop:会创建一个新的任务）。</p><h2 id="singleTask"><a href="#singleTask" class="headerlink" title="singleTask"></a>singleTask</h2><p>这种模式和standard以及singleTop有很大不同。singleTask模式的Activity只允许在系统中有一个实例。如果系统中已经有了一个实例，持有这个实例的任务将移动到顶部，同时intent将被通过onNewIntent()发送。如果没有，则会创建一个新的Activity并置放在合适的任务中。</p><p><strong>在同一个应用中的情况</strong></p><hr><p>如果系统中还没有singleTask的Activity，会新创建一个，并放在同一任务的栈顶。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087391351182.jpg" alt="singleTask1" title="">                </div>                <div class="image-caption">singleTask1</div>            </figure><p>但是如果已经存在，singleTask Activity上面的所有Activity将以合适的方式自动销毁，让我们想要显示的Activity处于栈顶。同时Intent也会通过onNewIntent()方法发送到这个singleTask Activity。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087394416117.jpg" alt="singleTaskD" title="">                </div>                <div class="image-caption">singleTaskD</div>            </figure><p>在用户体验方面，可能不是很合理，但是它就是这样设计的…</p><p>你可能注意到了 <a href="http://developer.android.com/guide/components/tasks-and-back-stack.html" target="_blank" rel="external">官方文档</a> 中提到的一个问题：  </p><blockquote><p> 系统会创建一个新的任务，并将这个Activity实例化为新任务的根部（root）。</p></blockquote><p>但从实验结果来看，并不是这么回事。singleTask Activity仍然在任务的Activity栈顶，我们可以从dumpsys activity 命令显示上看出来：  </p><pre>Task id #239  TaskRecord{428efe30 #239 A=com.thecheesefactory.lab.launchmode U=0 sz=2}  Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.thecheesefactory.lab.launchmode/.StandardActivity }    Hist #1: ActivityRecord{429a88d0 u0 com.thecheesefactory.lab.launchmode/.SingleTaskActivity t239}      Intent { cmp=com.thecheesefactory.lab.launchmode/.SingleTaskActivity }      ProcessRecord{42243130 18965:com.thecheesefactory.lab.launchmode/u0a123}    Hist #0: ActivityRecord{425fec98 u0 com.thecheesefactory.lab.launchmode/.StandardActivity t239}      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.thecheesefactory.lab.launchmode/.StandardActivity }      ProcessRecord{42243130 18965:com.thecheesefactory.lab.launchmode/u0a123}</pre><p>如果你希望singleTask Activity表现的和文档中描述的一致，你需要为singleTask Activity设置<code>taskAffinity</code>属性。  </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">&lt;activity</div><div class="line">    android:name=&quot;.SingleTaskActivity&quot;</div><div class="line">    android:label=&quot;singleTask launchMode&quot;</div><div class="line">    android:launchMode=&quot;singleTask&quot;</div><div class="line">    android:taskAffinity=&quot;&quot;&gt;</div></pre></td></tr></table></figure><p>这里是启动<code>SingleTaskActivity</code>的的结果（使用了<code>taskAffinity之后</code>）。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087640888692.jpg" alt="singleTaskTaskAffinity" title="">                </div>                <div class="image-caption">singleTaskTaskAffinity</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087642408027.jpg" alt="screenshot17" title="">                </div>                <div class="image-caption">screenshot17</div>            </figure><p>是否使用<code>taskAffinity</code>取决于你自己。</p><p><strong>和其他应用一起工作的情况</strong></p><p>一旦intent是从另外的应用发送过来，并且系统中也没有任何Activity的实例，则会创建一个新的任务，并且新的Activity被作为根Activity创建。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087644832751.jpg" alt="singleTaskAnotherApp1" title="">                </div>                <div class="image-caption">singleTaskAnotherApp1</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087647863217.jpg" alt="singletaskfromapp2" title="">                </div>                <div class="image-caption">singletaskfromapp2</div>            </figure><p>除非拥有这个singleTask Activity 的应用已经存在，那样的话，新建的Activity会置于这个任务的上面（而不是新建一个任务）。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087649102071.jpg" alt="singleTaskAnotherApp2" title="">                </div>                <div class="image-caption">singleTaskAnotherApp2</div>            </figure><p>_In case that there is an Activity<br>instance existed in any Task, the whole Task would be moved to top and<br>every single Activity placed above the singleTask Activity will be<br>destroyed with lifecycle. _If back button is pressed, user has to travel through the Activities in the stack before going back to the caller Task.</p><p><em>假设已经有了一个Activity的实例，不管它是在哪个任务中（包括上面的那种情况，在用于这个Activity的应用中），整个任务将被移到顶端，而singleTask  Activity上面的所有 Activity 都将被销毁</em>， 用户需要按back键遍历玩栈中的Activity才能回到调用者任务。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087652830427.jpg" alt="singleTaskAnotherApp3" title="">                </div>                <div class="image-caption">singleTaskAnotherApp3</div>            </figure><p>这种模式的应用案例有。邮件客户端的收件箱或者社交网络的时间轴。这些Activity一般不会设计成拥有多个实例，singleTask可以满足。但是在使用这种模式的时候必须要明智，因为有些Activity会在用户不知情的情况下被销毁。</p><h2 id="singleInstance"><a href="#singleInstance" class="headerlink" title="singleInstance"></a>singleInstance</h2><p>这个模式非常接近于singleTask，系统中只允许一个Activity的实例存在。<strong>区别在于持有这个</strong>Activity<strong>的任务中只能有一个</strong>Activity<strong>：即这个单例本身。</strong>If another Activity is called from this kind of Activity, a new Task<br>would be automatically created to place that new Activity. Likewise, if<br>singleInstance Activity is called, new Task would be created to place<br>the Activity.</p><p>不过结果却很怪异，从<code>dumpsys</code>提供的信息来看，似乎系统中有两个任务但任务管理器中只显示一个,即最后被移到顶部的那个。导致虽然后台有一个任务在运行，我们却无法切换回去，这一点也不科学。</p><p>下面是当singleInstance Activity被调用的同时栈中已经有一些Activity的情况下所发生的事情：</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087655129646.jpg" alt="singleInstance" title="">                </div>                <div class="image-caption">singleInstance</div>            </figure><p>本来有两个任务，但是任务管理器中却只显示一个任务：</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://www.jcodecraeer.com/uploads/20150520/1432087657657439.jpg" alt="singleInstances" title="">                </div>                <div class="image-caption">singleInstances</div>            </figure><p>Since this Task could has only one Activity, we couldn’t switch back<br>to Task #1 anymore. Only way to do so is to relaunch the application<br>from launcher but it appears that the singleInstance Task would be<br>hidden in the background instead.</p><p>因为这个任务只有一个Activity，我们再也无法切回到任务#1了。唯一的办法是重新在launcher中启动这个应用。 but之后的没有翻译，因为我也不明白作者的意思。</p><p>不过这个问题也有解决方案，就像我们在singleTask Acvity中做的，只要为<code>singleInstance Activity设置taskAffinity属性就可以了。</code></p><pre class="brush:js;toolbar:false prettyprint linenums prettyprinted" style="overflow: auto;">1.  <activity 2.="" android:name=".SingleInstanceActivity" 3.="" android:label="singleInstance launchMode" 4.="" android:launchmode="singleInstance" 5.="" android:taskaffinity=""></activity></pre><p>现在科学多了。  </p><p><img src="http://www.jcodecraeer.com/uploads/20150520/1432087705107940.jpg" alt="screenshot18"></p><p>这种模式很少被使用。实际使用的案例如Launcher的Activity或者100%确定只有一个Activity的应用。总之除非完全有必要，不然我不建议使用这种模式。</p><h2 id="Intent-Flags"><a href="#Intent-Flags" class="headerlink" title="Intent Flags"></a>Intent Flags</h2><p>除了在<code>AndroidManifest.xml</code>中直接设置launch mode，我们还可以通过叫做 <strong>Intent Flags</strong>的东西设置更多的行为，比如：</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">activity</span></span></div><div class="line">    <span class="attr">android:name</span>=<span class="string">".SingleInstanceActivity"</span></div><div class="line">    <span class="attr">android:label</span>=<span class="string">"singleInstance launchMode"</span></div><div class="line">    <span class="attr">android:launchMode</span>=<span class="string">"singleInstance"</span></div><div class="line">    <span class="attr">android:taskAffinity</span>=<span class="string">""</span>&gt;</div></pre></td></tr></table></figure><p>这段代码将会启动一个singleTop启动模式的的<code>StandardActivity</code> 。  </p><p>有许多种Flag可以使用，更多的请参考<a href="http://developer.android.com/reference/android/content/Intent.html#FLAG_ACTIVITY_BROUGHT_TO_FRONT" target="_blank" rel="external">Intent</a>。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;英文原文：&lt;a href=&quot;http://inthecheesefactory.com/blog/understand-android-activity-launchmode/en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Understand And
+      
+    
+    </summary>
+    
+      <category term="Android" scheme="http://blog.inesoi.com/categories/Android/"/>
+    
+    
+      <category term="android" scheme="http://blog.inesoi.com/tags/android/"/>
+    
+      <category term="activity" scheme="http://blog.inesoi.com/tags/activity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android Dialog</title>
+    <link href="http://blog.inesoi.com/Android/2017-12-04-android-dialog.html"/>
+    <id>http://blog.inesoi.com/Android/2017-12-04-android-dialog.html</id>
+    <published>2017-12-03T16:00:00.000Z</published>
+    <updated>2017-12-21T14:54:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://developer.android.google.cn/guide/topics/ui/dialogs.html?hl=zh-cn" target="_blank" rel="external">对话框</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://developer.android.google.cn/guide/topics/ui/dialogs.html?hl=zh-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;对话框&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Android" scheme="http://blog.inesoi.com/categories/Android/"/>
+    
+    
+      <category term="android" scheme="http://blog.inesoi.com/tags/android/"/>
+    
+      <category term="dialog" scheme="http://blog.inesoi.com/tags/dialog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android Preference</title>
+    <link href="http://blog.inesoi.com/Android/2017-12-04-android-setting-preference.html"/>
+    <id>http://blog.inesoi.com/Android/2017-12-04-android-setting-preference.html</id>
+    <published>2017-12-03T16:00:00.000Z</published>
+    <updated>2017-12-21T14:54:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><a href="https://developer.android.google.cn/guide/topics/ui/settings.html?hl=zh-cn#Activity" target="_blank" rel="external">设置</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.android.google.cn/guide/topics/ui/settings.html?hl=zh-cn#Activity&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;设置&lt;/a&gt;
+      
+    
+    </summary>
+    
+      <category term="Android" scheme="http://blog.inesoi.com/categories/Android/"/>
+    
+    
+      <category term="android" scheme="http://blog.inesoi.com/tags/android/"/>
+    
+      <category term="preference" scheme="http://blog.inesoi.com/tags/preference/"/>
+    
+      <category term="settings" scheme="http://blog.inesoi.com/tags/settings/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android Storage</title>
+    <link href="http://blog.inesoi.com/Android/2017-12-04-android-storage.html"/>
+    <id>http://blog.inesoi.com/Android/2017-12-04-android-storage.html</id>
+    <published>2017-12-03T16:00:00.000Z</published>
+    <updated>2017-12-21T14:54:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://developer.android.google.cn/guide/topics/data/data-storage.html?hl=zh-cn" target="_blank" rel="external">存储选项</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://developer.android.google.cn/guide/topics/data/data-storage.html?hl=zh-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;存储选项&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Android" scheme="http://blog.inesoi.com/categories/Android/"/>
+    
+    
+      <category term="android" scheme="http://blog.inesoi.com/tags/android/"/>
+    
+      <category term="storage" scheme="http://blog.inesoi.com/tags/storage/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Amazon Vine</title>
+    <link href="http://blog.inesoi.com/Amazon/2017-12-03-amazon-vine-review.html"/>
+    <id>http://blog.inesoi.com/Amazon/2017-12-03-amazon-vine-review.html</id>
+    <published>2017-12-02T16:00:00.000Z</published>
+    <updated>2018-07-27T14:52:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>原文：<a href="https://www.amazon.com/gp/vine/help" target="_blank" rel="external">What is Amazon Vine</a></p><h2 id="Review"><a href="#Review" class="headerlink" title="Review"></a>Review</h2><p>从 16 年开始的一系列政策变化：</p><ul><li>买家必须使用有效的信用卡或借记卡账户，订购至少5美元的订单才可以留评（Amazon会员免费购买除外），之后金额调整为50美元 See <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201929730" target="_blank" rel="external">Amazon.com Help: Profile &amp; Community Guidelines</a>。</li><li>Amazon明确禁止通过提供折扣换取评价的行为。</li><li>卖家不得使用第三方机构来发出带折扣或者免费的产品给reviewer换取评价。此政策即刻生效，如果卖家继续用免费或者折扣产品来换取评价，账号有可能被关闭。今后只有通过Amazon VINE VOICE项目组的人来做折扣码或者送测，是合规的。</li></ul><h2 id="Amazon-Vine"><a href="#Amazon-Vine" class="headerlink" title="Amazon Vine"></a>Amazon Vine</h2><p>Vine Program 的宗旨：提供一般买家在购买时能有更多的诚实、专业且没有偏见的评论可以参考。</p><p>Vine Program 会邀请具有公信力的 Reviewer 测评新商品或是尚未上架的商品，做为一般客户购买商品时参考。</p><p>Vine Program 是要受到亚马逊邀请才能参加的，主要是依照 Reviewer 的排名，Review 的品质和帮助程度（Helpful Vote 多寡），和是否对于某类别的商品有特别专业的 Review。</p><p>例如您是一个园艺类目商品专业人士，并且写了很多该类目商品有帮助且专业的 Review ，就很有机会成为 Vine Voice，亚马逊提供给您 Vine Program 测评商品也大多会属于同类目的商品。</p><p>Amazon 会提供免费商品给 Vine Voice 会员，这些商品必须是有参加 Vine Program 的卖家商品。</p><p>如何成为 Vine Program 测评商品？方式有两种！</p><p>１．Amazon Vendor Central 会邀请某些 品牌卖家 或是 大型制造商 成为会员，接着您的商品就有资格成为 Vine Program 测评商品。</p><p>２．注册 <a href="https://vendorexpress.amazon.com/" target="_blank">Ｖendor Express</a> 账号并且同意 <a href="https://vendorexpress.amazon.com/termsAndConditions" target="_blank">条款</a> ，这个方法是一般第三方卖家能够成为 Vine Program 会员的唯一途径。Vendor Express 跟一般 Seller Central 的差别在于 Vendor Express 成本较高，审核机制复杂，适合制造商或是有专利商品生产线的卖家，所以不适合大多数卖家，但只要申请成功将可以省去很多学习经营亚马逊的时间，因为亚马逊会为您打理好一切，不过可能也就失去了经营亚马逊店铺的经验和成就感了！</p><p>除了资格不好取得外，还有另外个因素让许多卖家望之却步，就是上架一个 ASIN 您必须额外付出 2500～7000 美元不等的费用（土豪快来～）且每次促销的商品数量限制，依照类别不同一次只能促销 15～100 个商品。即使如此，还是有不少 Vine Vendor 卖家觉得绿色魔力很值得，一次的花费就可以让＂Vine Customer Review of Free Product＂永久留在商品页面上！</p><p>基本上绝大多数的 VINE 商品都是 Ship and sold by Amazon</p><p>Vine Voice 的评论支持</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://bbs.ichuanglan.com/data/attachment/forum/201610/07/105808k9z4t5s9e4t9ce6s.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><h3 id="针对-review-新政我们还能怎么做？"><a href="#针对-review-新政我们还能怎么做？" class="headerlink" title="针对 review 新政我们还能怎么做？"></a>针对 review 新政我们还能怎么做？</h3><ul><li><p>官方认证的途径送测。</p><p>  规则里明确说明你找 Amazon Vine Program 送测是允许的，并没有堵死送测这条路。那接下来你一定想知道，究竟什么是AmazonVine Program，如何成为 VineProgram 测评商品？在这里我就不详细展开了，详细内容可以参考 <a href="http://bbs.ichuanglan.com/thread-44344-1-1.html" target="_blank" rel="external">http://bbs.ichuanglan.com/thread-44344-1-1.html</a>。</p></li><li><p>正常促销。</p><p>  规定里只是要求不以折扣或者赠送的方式去换购产品评价，但是并没有禁止折扣等促销活动，至于通过促销活动而来的review亚马逊将怎么处置并没有明确说明；所以折扣订单自然而来的review，无论是亚马逊是否保留还是移除，只要你没有违规操作，都应该只是买家的原因。</p></li><li><p>PPC推广。</p><p>  通过ppc站内广告提高销售，这个措施是Amazon一直在提倡的。不能再依靠送测超链模式了，这种模式毫无技术含量且风险很大，不要以为放在快递盒里就可以神不知鬼不觉，被查到封了账号就没地儿哭了。</p></li><li><p>定期邮件询问。</p><p>  卖家可以定期询问买家用户体验，间接索评，提醒、引导用户对产品进行一个反馈。但不宜大量向买家发该类邮件，现在亚马逊向买家推出了垃圾邮件屏蔽服务，所以过度索评，只会浪费时间而且买家可能还不会收到邮件。建议方式我在上文有提到，可返回查看。</p></li><li><p>全款刷单</p><p>  造假有风险，刷单要谨慎，如果实在要刷review，我建议全款刷单，虽然成本高，但相对风险低。就是下单之后把订单金额用paypal或者银行转账返还给评测者。卖家会损失掉amazon的15%的订单佣金以及可能涉及到的FBA仓储费等等。</p><ul><li><p>主动联系。</p><p>  如果产品足够好是会有人发邮件主动询问是否可以免费赠送产品为条件，来帮你刷产品review，我司（裹媒跨境）运营过程中就遇到过这个情况。</p></li><li><p>熟人刷单。</p><p>  如果卖家在国外有熟人，千万不要放过这个得天独厚的条件。通过熟人真实购买留评，是一个很好的刷单途径。但是不宜一个账号多次刷review，容易引起亚马逊的注意。</p></li><li><p>外国聊天群（Facebook groups）。一般有2种方式：一种是自己在里面发帖，另外一种是找管理员做promote，然后支付一定的金钱作为回报。这种方法成功率较高，可以快速获取小批量的review，但风险点在于里面可能有reseller（中间商）或者竞争对手在寻找新的产品想法。且反馈有骗子的存在，他们可能会骗产品，然后并没有留review，具体的风险把控还是需要自己注意。</p></li><li><p>社交平台。Facebook、Twitter、Instagram、Pinterest、YouTube等平台，不仅仅可以从中找到刷单人员，甚至也是一个站外引流的好地方!</p></li></ul></li><li><p>建立邮件列表。</p><ul><li><p>被动获取用户 email list。这是一个长期的工作，但是稳定的方法，通常第一个产品做起来会比较困难，但是如果第一个产品积累了足够的用户邮箱，第二个，第三个产品就非常好做Review了。可以通过Instagram，facebook，youtube吸引粉丝，举办营销活动收集到邮箱，不过这就会比较花费时间。</p></li><li><p>主动联系reviewer。被动获取用户email list 是个耗时耗钱的方法，但主动联系reviewer是一个最安全有效的方式，因为定位的用户群非常精准，同时对账号的风险是最低的。所以要想办法主动获取目标用户的邮箱。具体做法是，通过找到目标购买产品和留评论的产品页面，将所有留评论的用户的邮箱信息拿到，给他们发邮件。例如，目标用户群是热爱运动的女性，就去类似卖瑜伽垫，和相关设备的亚马逊listing页面找目标的用户邮箱。但手工找这个邮箱比较麻烦，所以会用到工具amzdiscover。通过这种方法，获取review评论的概率非常大，因为用户精准，时间耗费少，账号风险，风险低，性价比比较高。</p></li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;原文：&lt;a href=&quot;https://www.amazon.com/gp/vine/help&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;What is Amazon Vine&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Review&quot;&gt;&lt;a href=&quot;#Rev
+      
+    
+    </summary>
+    
+      <category term="Amazon" scheme="http://blog.inesoi.com/categories/Amazon/"/>
+    
+    
+      <category term="amazon" scheme="http://blog.inesoi.com/tags/amazon/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Amazon open shop</title>
+    <link href="http://blog.inesoi.com/Amazon/2017-12-03-amazon-open-shop.html"/>
+    <id>http://blog.inesoi.com/Amazon/2017-12-03-amazon-open-shop.html</id>
+    <published>2017-12-02T16:00:00.000Z</published>
+    <updated>2018-07-27T14:52:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="开店"><a href="#开店" class="headerlink" title="开店"></a>开店</h2><ul><li><a href="https://gs.amazon.cn/" target="_blank" rel="external">亚马逊全球开店</a></li><li><a href="https://gs.amazon.cn/amazon-business.htm" target="_blank" rel="external">Amazon Business</a></li><li><a href="https://haimai.amazon.cn/" target="_blank" rel="external">全球开店助手</a></li><li><a href="https://gs.amazon.cn/policy.htm" target="_blank" rel="external">全球开店规则</a></li></ul><h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><ul><li><a href="http://www.amazon.com/gp/feedback/leave-consolidated-feedback.html" target="_blank" rel="external">Feedback 链接</a> 买家点击此链接可直接进入留feedback页面，找到你的订单即可</li><li><a href="http://www.amazon.com/review/review-your-purchases%23" target="_blank" rel="external">Review 链接</a> 让买家直接打开这个并找到你的产品留评。</li></ul><h2 id="店铺类型"><a href="#店铺类型" class="headerlink" title="店铺类型"></a>店铺类型</h2><p>亚马逊店铺只有两种：</p><ol><li>个人卖家 Individual</li><li>专业卖家 Pro</li></ol><p>两者之间可以切换。</p><h2 id="亚马逊市场"><a href="#亚马逊市场" class="headerlink" title="亚马逊市场"></a>亚马逊市场</h2><p>Amazon 全球14个分站分别是：中国、美国、加拿大、巴西、墨西哥、英国、德国、法国、西班牙、意大利、荷兰、日本、印度、澳大利亚 ；对中国开放的目前有10大站点，常用的站点有，北美账户，欧洲账户，日本账户；</p><p>北美账户覆盖美国，加拿大，墨西哥三个市场，即开启北美账户，意味着你的产品可以同步销售到<a href="http://amazon.comhttp://amazon.ca" target="_blank" rel="external">http://amazon.comhttp://amazon.ca</a> amazon.com.mx;欧洲账户，覆盖英国，法国，德国，意大利，西班牙5个地区，可统一管理，产品可以销售到这5个站点；</p><h2 id="黄页"><a href="#黄页" class="headerlink" title="黄页"></a>黄页</h2><ul><li><a href="http://www.amz123.com/" target="_blank" rel="external">AMZ123 亚马逊卖家网址导航</a></li><li><a href="https://sellercentral.amazon.com/forums/index.jspa" target="_blank" rel="external">Amazon Seller Forums</a></li></ul><h2 id="PrimeDay"><a href="#PrimeDay" class="headerlink" title="PrimeDay"></a>PrimeDay</h2><p>TODO</p><h2 id="A＋"><a href="#A＋" class="headerlink" title="A＋"></a>A＋</h2><h2 id="入仓"><a href="#入仓" class="headerlink" title="入仓"></a>入仓</h2><h2 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h2><h3 id="北美、欧洲和日本，亚马逊卖家应该如何抉择？"><a href="#北美、欧洲和日本，亚马逊卖家应该如何抉择？" class="headerlink" title="北美、欧洲和日本，亚马逊卖家应该如何抉择？"></a>北美、欧洲和日本，亚马逊卖家应该如何抉择？</h3><blockquote><p>作者：赢商荟老魏<br>链接：<a href="https://www.zhihu.com/question/58600154/answer/157646956" target="_blank" rel="external">https://www.zhihu.com/question/58600154/answer/157646956</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p></blockquote><p>和Ebay、速卖通不同，亚马逊的卖家们，要想在亚马逊销售，必须针对不同的站点分别注册才能进行有针对性的销售，当前，对于亚马逊第三方卖家来说，我们可以参与经营的站点包括北美（美国、加拿大、墨西哥），欧洲站（英国、德国、法国、意大利、西班牙）和日本。</p><p>当面对这九个站点时，大部分卖家的选择一般是首选美国，原因在于美国站市场容量大，政策相对宽松，语言方面的难度比较小等等，但选择美国站的卖家也同时面临另外一个情况，那就是平台上卖家众多，竞争激烈，很多类目和产品已经处于白炽化的红海状态。<br>红海竞争激烈，利润空间越来越小，所以，很多卖家开始选择在欧洲站运营，选择欧洲站时，英国和德国成为大家的首选，欧洲站虽然利润较高，竞争也没有那么激烈，但VAT税仿佛是悬在头上的达摩克利斯之剑，你不知道什么时候它会掉下来，击得你粉身碎骨，所以，很多卖家在运营中往往会处于一种忐忑和纠结中。而且，有些卖家已经收到英国税务部门的通知，更有甚者，有卖家的账号已经因为税务部门要求做VAT税务申报账号也被平台暂停销售，所以，VAT税将是很多卖家在下一步运营中面临的一个绕不过的坎。</p><p>相比较而言，日本站因为语言方面的障碍，并没有成为卖家们关注的重点，但亚马逊日本站在最近两年整体销量呈现快速增长的趋势，增幅远远超过其他站点，因为卖家数量少，日本站卖家的销量和利润普遍较高，成了中国卖家可以运营的九个站点中为数不多的蓝海市场。</p><p>在亚马逊日本站，卖家数量少竞争不激烈只是其一，另一方面，因为中日两国相邻，物流成本低，时效快，对于卖家来说，在运营层面上会比欧洲站容易许多，而且，和欧洲各国相比，日本没有VAT税，运营中受政策层面上的影响较小。<br>虽然选择在日本站运营有有利因素，但想进入经营，选择优秀的日语运营人员是基础条件，语言障碍之外，卖家还需要有针对性的思考日本市场的选品。和欧美市场不同的是，日本国土面积小，人口比较密集，各种线下购物相对来说比较方便，这就要求卖家在选品时尽量避免选择价值太低的产品，除了价格之外，卖家还要避免选择日本自身具有优势的电子产品以及像马桶盖、电饭煲之类的产品，比较适合的产品是中国具有优势的产品，比如中国的纺织品等。</p><p>同时，运营过亚马逊各个站点的卖家一定能够感觉到，在对产品品质要求方面，日本顾客显然对品质标准要求更高，既要求高品质，同时还要求各种信息的精准，甚至包括产品说明书都需要尽可能的提供日文说明书才好。在产品规格方面，卖家也同样需要做到精准，因为日本居家面积偏小，如果购买的日常物件过大，实际空间就会不相配，所以，卖家在销售家居类或者家具类产品时，一定要在产品尺寸上做精细把握，否则，一颗粗枝大叶的心，恐怕难以在精细的日本市场获取期望的利润。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;开店&quot;&gt;&lt;a href=&quot;#开店&quot; class=&quot;headerlink&quot; title=&quot;开店&quot;&gt;&lt;/a&gt;开店&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://gs.amazon.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;亚
+      
+    
+    </summary>
+    
+      <category term="Amazon" scheme="http://blog.inesoi.com/categories/Amazon/"/>
+    
+    
+      <category term="amazon" scheme="http://blog.inesoi.com/tags/amazon/"/>
+    
+  </entry>
+  
+  <entry>
     <title>外贸基础</title>
     <link href="http://blog.inesoi.com/Trade/2015-11-06-fs-why.html"/>
     <id>http://blog.inesoi.com/Trade/2015-11-06-fs-why.html</id>
