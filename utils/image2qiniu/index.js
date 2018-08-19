@@ -10,9 +10,9 @@ const util = require('util');
 const url = require('url');
 
 let options = {
-    sourceFolder: path.join(__dirname, '../../source/_posts'),
-    errorFile: path.join(__dirname, './unresolved.md'),
-    imageFolder: path.join(__dirname, '../../source/resources/images')
+    sourceFolder: path.join(process.cwd(), 'source/_posts'),
+    errorFile: path.join(process.cwd(), './unresolved.md'),
+    imageFolder: path.join(process.cwd(), 'source/resources/images')
 };
 
 /**
@@ -26,16 +26,29 @@ let options = {
  *
  */
 exports.locale = function (cb) {
+    fs.writeFileSync(options.errorFile, "");
+
     async.waterfall([function (callback) {
         // 递归所有 markdown 文件
         glob(path.join(options.sourceFolder, '*.md'), callback);
     }, function (files, callback) {
         // 替换每个文件中的 URL
         async.each(files, exports.processArticle, callback);
-    }], cb);
+    }], function (error) {
+        console.log('done.');
+
+        let content = fs.readFileSync(options.errorFile, {encoding: 'utf-8'});
+        if (content) {
+            console.log("Error downloading file list: ");
+            console.log(content);
+        }
+        cb(error);
+    });
 };
 
 exports.processArticle = function (filePath, callback) {
+    console.log('Process ' + path.basename(filePath) + ' ...');
+
     let downloadingImages = updateContentAndExtractImages(filePath);
     async.each(downloadingImages, exports.downloadImage, callback);
 };
