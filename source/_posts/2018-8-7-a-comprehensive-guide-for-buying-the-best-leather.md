@@ -31,7 +31,7 @@ In 2016, the hide, skin, and leather industry exported more than[ $2 billion in 
 * The sub-segment of global footwear market was worth $126.99 billion in 2016.
 * In 2016, the Americas registered the highest leather revenue of $83.67 million.
 
-![](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-Global-4.jpg)
+![](../resources/images/leather-Global-4.jpg )
 
 ## Types of Leather
 
@@ -45,7 +45,7 @@ So, what is the best leather?  The best quality leather will depend on these imp
 * Layer of the hide that is used (top grain, full grain, split)
 * Quality and skill of the processing and tanning
 
-![leather quality from different portions of the hide](https://www.octaneseating.com/wp-content/uploads/2017/12/Hide-Cutting.jpg)
+![leather quality from different portions of the hide](../resources/images/Hide-Cutting.jpg )
 
 Different breeds of cows will produce different quality hides due to their genetics and environment.  Hot climates tend to have insects that bite the animal and leave scars whereas cold climates don’t suffer from pests as much.  Certain breeds might have more protective hair or thicker skins due to the weather.
 
@@ -71,7 +71,7 @@ Top grain is the second highest grade of leather. Usually, to obtain top grain l
 
 This also makes top grain leather smoother and more flexible than the full grain. Although this type of leather is strong and durable, it tends to stretch permanently over time. It is used to produce suede and nubuck. Most high-end products, such as handbags and jackets, are comprised of top grain leather.
 
-![the leather grain separation between corium, flesh and the grain of the hide](https://www.octaneseating.com/wp-content/uploads/2017/12/Leather-Grain-3.jpg)
+![the leather grain separation between corium, flesh and the grain of the hide](../resources/images/Leather-Grain-3.jpg )
 
 ### C. Corrected Grain (Bottom Cut/Split) Leather
 
@@ -81,7 +81,7 @@ Corrected grain leather, also known as genuine leather, is produced using the sk
 
 Bonded leather is made up of leftovers of the hide. This includes the dust and shavings. These are bonded together using polyurethane or latex on top of a fiber sheet. It is often spray-painted to look like full or top grain leather. You can’t determine the percentage of natural leather unless the manufacturer chooses to disclose it – which is very unlikely. Bonded leather is the lowest (and the cheapest) grade of leather.
 
-![bonded leather graphic showing leather content vs polyurethane](https://www.octaneseating.com/wp-content/uploads/2017/12/bonded-leather-diagram-1.jpg)
+![bonded leather graphic showing leather content vs polyurethane](../resources/images/bonded-leather-diagram-1.jpg )
 
 Though there are four basic types of leather, you can find a wide range of options based on the percentage of organic material, durability, and the finishing process.
 
@@ -99,7 +99,7 @@ Though there are four basic types of leather, you can find a wide range of optio
 
 **Pigmented Leather:**  A polymer surface coating, containing certain pigments, is applied to produce the desired look and properties. Due to its durability, pigmented leather is often used to make furniture and car upholstery.
 
-![world wide leather supply usage](https://www.octaneseating.com/wp-content/uploads/2017/12/pyramid.jpg)
+![world wide leather supply usage](../resources/images/pyramid.jpg )
 
 **Embossed Leather:**  Embossed leather is imprinted with artificial leatherwork for a certain grain design or pattern.
 
@@ -127,13 +127,13 @@ Though there are four basic types of leather, you can find a wide range of optio
 
 **Tooling Calf Leather:**  Tooling calf is a thin, lightweight, vegetable-tanned leather. It is suitable for printing and engraving.
 
-![embossed leather imprints](https://www.octaneseating.com/wp-content/uploads/2017/12/Calf-Leather.jpg)
+![embossed leather imprints](../resources/images/Calf-Leather.jpg )
 
 **Waxy Hand Leather:**  Waxy hand leather comes with a grease or wax finish. It is often used to make upholstery, shoes, and handbags.
 
-![the usage of leather based on the thickness](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-chart-no-text.jpg)
+![the usage of leather based on the thickness](../resources/images/leather-chart-no-text.jpg )
 
-![](https://www.octaneseating.com/wp-content/uploads/2017/12/LeatherWeight-chart-1.jpg)
+![](../resources/images/LeatherWeight-chart-1.jpg )
 
 ## Leather Processing
 
@@ -143,7 +143,7 @@ Leather tanning is a complex and lengthy process. Though mechanization has made 
 
 As mentioned earlier, there are many varieties of leather. However, all types of leathers have to go through **four fundamental stages.** This includes preparatory steps, tanning, re-tanning, and finishing. Sometimes, a further sub-process of surface coating may be added to the process. Before sending to the tannery, the animal skin needs to be cured. Although curing is not considered a part of the tanning process, it is the first crucial step in obtaining leather.
 
-![leather manufacturing process diagram](https://www.octaneseating.com/wp-content/uploads/2017/12/Leather-Process.jpg)
+![leather manufacturing process diagram](../resources/images/Leather-Process.jpg )
 
 Usually, the animal is killed and skinned before the body heat leaves the tissues. The freshly removed skin or hide is immediately cured with salt to remove water. The skin is allowed to remain in the shade until it is completely dry. The cured skin or animal hide is then transported to the tanneries for further processing.
 
@@ -197,7 +197,7 @@ The primary purpose of this process is to produce a non-decomposable and sturdy 
 
 **1) Vegetable Tanning**
 
-![](https://www.octaneseating.com/wp-content/uploads/2017/11/tanning-labor.jpg)
+![](../resources/images/tanning-labor.jpg )
 
 Vegetable tanning has been around for thousands of years. Unlike mineral tanning, it uses a naturally occurring polyphenol astringent chemical called[ tannin](http://www.sciencedirect.com/topics/agricultural-and-biological-sciences/tannin). This is usually found in bark, leaves, and branches of trees such as oak, chestnut, or mimosa. As it produces shades of deep brown, beige, yellow, and red, tannin lends a unique color and texture to the leather.
 
@@ -211,13 +211,13 @@ Mineral or chrome tanning is the most popular tanning process because it’s muc
 
 The size of chrome molecules is small compared to vegetable tannin ions. As a result, chrome ions can penetrate the collagen and remove water molecules effectively. That’s why chrome tanned leather is thinner and softer than vegetable tanned leather. Chromium (III) sulfate is the most efficient and effective tanning agent. Chrome tanned leather is also called wet blue leather due to its bluish color.
 
-![](https://www.octaneseating.com/wp-content/uploads/2017/12/tanning-hides-drums-stage2800X600.jpg)
+![](../resources/images/tanning-hides-drums-stage2800X600.jpg )
 
-![](https://www.octaneseating.com/wp-content/uploads/2017/12/chrome-tanning-wet-blue-hides800X600.jpg)
+![](../resources/images/chrome-tanning-wet-blue-hides800X600.jpg )
 
-![](https://www.octaneseating.com/wp-content/uploads/2017/12/tanning-hides-drums800X600.jpg)
+![](../resources/images/tanning-hides-drums800X600.jpg )
 
-![blue hides ready for leather tanning](https://www.octaneseating.com/wp-content/uploads/2017/12/blue-hides-ready-for-tanning.jpg)
+![blue hides ready for leather tanning](../resources/images/blue-hides-ready-for-tanning.jpg )
 
 However, the chrome tanning process creates a[ negative environmental impact](https://www.premierevision.com/content/uploads/2017/03/PVLeather_Newsletter6_eng.pdf) as it comprises heavy usage of acids and other chemicals. The toxic waste can seep into groundwater and contaminate drinking water supplies. The resulting environmental implications are a major concern, especially in developing countries.
 
@@ -245,13 +245,13 @@ This process removes flesh residues and creates uniformly thick leather. The lea
 
 A splitting machine slices the thick leather into one or more horizontal layers. Sometimes, this process is also carried out after liming. The top grain layer is the most expensive leather. It is used to make high-end leather merchandise. The layer without grain is used to make suede leather. Sometimes, an artificial grain surface can also be applied to it.
 
-![leather cutting showing separation between the top grain and the split hide](https://www.octaneseating.com/wp-content/uploads/2017/12/Leather-cutting-modified-1.jpg)
+![leather cutting showing separation between the top grain and the split hide](../resources/images/Leather-cutting-modified-1.jpg )
 
 **4) Dyeing**
 
 With the exception of vegetable tanned leather, all types of leather are dyed. More often than not, water-soluble dyes are used, allowing the dye molecules to penetrate inside the fibers. Thus, it differs significantly from surface coating where dye is applied only on the top layer.
 
-![](https://www.octaneseating.com/wp-content/uploads/2017/11/color-belts.jpg)
+![](../resources/images/color-belts.jpg )
 
 **5) Fat Liquoring**
 
@@ -277,19 +277,19 @@ The surface coating process adds color and different designs to leather. As per 
 
 Finally, the leather is graded before it is dispatched to the customers. Grading is often based on a variety of factors such as the feel of the leather, color, pattern, thickness, softness, and flexibility.
 
-![](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-grading-finished-product.jpg)
+![](../resources/images/leather-grading-finished-product.jpg )
 
-![finished leather hides after production](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-grading-finished-product2.jpg)
+![finished leather hides after production](../resources/images/leather-grading-finished-product2.jpg )
 
-![leather imperfections on hide showing branding marking](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-grading-original-markings-on-hide-2.jpg)
+![leather imperfections on hide showing branding marking](../resources/images/leather-grading-original-markings-on-hide-2.jpg )
 
-![](https://www.octaneseating.com/wp-content/uploads/2017/12/red-hide.jpg)
+![](../resources/images/red-hide.jpg )
 
 ## Leather For Furniture 
 
 One of the most popular leather item categories is furniture. High-quality leather furniture can last for years. However, each type comes with unique characteristics. In other words, you need to choose the right type of leather to get the most out of your furniture. Hopefully, this quick leather furniture buying guide will help you.
 
-![octane flex hr power headrest black recliner theater seating](https://www.octaneseating.com/wp-content/uploads/2017/12/octane-flex-black-leather-theater-chair.jpg)
+![octane flex hr power headrest black recliner theater seating](../resources/images/octane-flex-black-leather-theater-chair.jpg )
 
 ### Full Grain Leather 
 
@@ -341,7 +341,7 @@ When it comes to buying leather furniture, people often use the terms polyuretha
 * It has a relatively better resistance to cleaners and disinfectants, compared to PU leather.
 * Affordability and an excellent variety of color, texture, and grain are the primary reasons why this leather is the most popular one out there.
 
-[![what are the differences between PVC and PU upholstery](https://www.octaneseating.com/wp-content/uploads/2017/12/PVC-chart-1.jpg)](https://www.octaneseating.com/wp-content/uploads/2017/12/PVC-chart-1.jpg)
+[![what are the differences between PVC and PU upholstery](../resources/images/PVC-chart-1.jpg )](https://www.octaneseating.com/wp-content/uploads/2017/12/PVC-chart-1.jpg)
 
 ## How to Identify Genuine Leather
 
@@ -361,7 +361,7 @@ Just run your fingers over the leather to feel its texture. As genuine leather c
 
 **Genuine leather exhibits an inconsistent surface pattern having minor imperfections. In other words, scratches, creases, and wrinkles are an indication of genuine leather**  
 
-![leather messenger bag](https://www.octaneseating.com/wp-content/uploads/2017/12/leather-messenger-bag.jpg)
+![leather messenger bag](../resources/images/leather-messenger-bag.jpg )
 
 **4) Warmth**
 
