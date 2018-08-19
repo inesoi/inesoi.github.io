@@ -1,11 +1,20 @@
 /*global describe, it */
 'use strict';
 var assert = require('assert');
-var image2qiniu = require('../');
+var localImage = require('../');
 
-describe('image2qiniu node module', function () {
-    it('must have at least one test', function () {
-        image2qiniu();
-        assert(false, 'I was too lazy to write any tests. Shame on me.');
+describe('local image unit', function () {
+    it('local image', function (done) {
+        localImage.own(done);
+    });
+
+    it('process file', function (done) {
+        localImage.processArticle('2018-8-7-a-comprehensive-guide-for-buying-the-best-leather.md', done);
+    });
+
+    it('download image', function (done) {
+        localImage.downloadImage({
+            url: 'http://johnnyimages.qiniudn.com/1398314844css-box-model_collapsing-margins.png'
+        }, done);
     });
 });
