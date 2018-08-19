@@ -1,117 +1,96 @@
 'use strict';
 
-var glob = require('glob');
-var fs = require('fs');
-var _ = require('lodash');
-var download = require('./download');
-var async = require('async');
-var path = require('path');
-var util = require('util');
+const glob = require('glob');
+const fs = require('fs');
+const _ = require('lodash');
+const download = require('./download');
+const async = require('async');
+const path = require('path');
+const util = require('util');
+const url = require('url');
 
-var unresolvedImages = [];
-var sourcePath;
-var unresolvedPath;
-var downloadPath;
+let options = {
+    sourceFolder: path.join(__dirname, '../../source/_posts'),
+    errorFile: path.join(__dirname, './unresolved.md'),
+    imageFolder: path.join(__dirname, '../../source/resources/images')
+};
 
 /**
  * 下载文章中的图片，并将图片地址替换为七牛的地址。
  *
  * @param options
+ * @param cb
  * @param options.source
  * @param options.unresolved
  * @param options.dest
  *
  */
-var grunt = require('grunt');
-
-module.exports = function (options) {
-    sourcePath = options.source;
-    unresolvedPath = options.unresolved;
-    downloadPath = options.dest;
-
-    unresolvedImages.length = 0;
-    fs.writeFileSync(unresolvedPath, '');
-
+exports.own = function (cb) {
     async.waterfall([function (callback) {
         // 递归所有 markdown 文件
-        glob(sourcePath, callback);
+        glob(path.join(options.sourceFolder, '*.md'), callback);
     }, function (files, callback) {
         // 替换每个文件中的 URL
-        async.each(files, replaceImgUrl, callback);
-    }], function (err) {
-        var urls = _.map(unresolvedImages, function (unresolvedImage) {
-            return util.format('- ![%s](%s)', unresolvedImage.file, unresolvedImage.url);
-        });
-
-        if (unresolvedImages.length > 0) {
-            fs.writeFileSync(unresolvedPath, urls.join('\n'));
-        }
-
-        if (err) {
-            grunt.log.error(err);
-        }
-    });
-
+        async.each(files, exports.processArticle, callback);
+    }], cb);
 };
+
+exports.processArticle = function (filePath, callback) {
+    let downloadingImages = updateContentAndExtractImages(path.join(options.sourceFolder, filePath));
+    async.each(downloadingImages, exports.downloadImage, callback);
+};
+
+function extractImageFileName(imageUrl) {
+    let fileName = url.parse(imageUrl).pathname;
+
+    return fileName.substr(fileName.lastIndexOf('/') + 1);
+}
 
 
 // 下载和替换文件中的图片
-function replaceImgUrl(filePath, callback) {
-    var content = fs.readFileSync(filePath).toString();
+exports.downloadImage = function (img, callback) {
+    // 异步下载图片。
+    if (fs.existsSync(path.join(options.imageFolder, extractImageFileName(img.url)))) {
+        return callback();
+    }
 
-    // 是否有下载失败的图片。
-    var hasError = false;
+    download(img.url, {directory: options.imageFolder}, function (err) {
+        if (err) {
+            console.error(err);
+            fs.appendFileSync(options.errorFile, img.url + '\n');
+            return callback();
+        }
 
-    // 是否需要下载。
-    var downloading = false;
+        // 文件处理完成
+        callback();
+    });
+};
 
-    var newContent = content.replace(/!\[(.*?)\]\((.*?)(\s+".*?")?\)/, function (matched, imgAlt, imgSrc, title, offset, examined) {
-        if (imgSrc.startsWith(imgSrc, '../')) {
+// 下载和替换文件中的图片
+function updateContentAndExtractImages(filePath) {
+    let content = fs.readFileSync(filePath, {encoding: 'utf-8'});
+
+    // 一篇文档中待下载的图片路径列表
+    let downloadingImages = [];
+
+    let newContent = content.replace(/!\[(.*?)\]\((.*?)(\s+".*?")?\)/g, function (matched, imgAlt, imgSrc, title, offset, examined) {
+        if (imgSrc.startsWith('../') || imgSrc.includes('csdn.net') || imgSrc.includes('qiniudn.com')) {
             return matched;
         }
 
-        var imageName = path.basename(imgSrc);
-        var imagePath = path.join(downloadPath, imageName);
-
-        // 异步下载图片。
-        if (!fs.existsSync(imagePath)) {
-            downloading = true;
-
-            download(imgSrc, {directory: downloadPath}, function (err) {
-                if (err) {
-                    unresolvedImages.push({file: path.basename(filePath), url: imgSrc});
-                    hasError = true;
-
-                    console.log('fail to fetch  ' + matched);
-                }
-
-                // 文件处理完成
-                if (examined === content) {
-                    callback();
-
-                    // 文件中的图片都已成功下载。
-                    if (!hasError) {
-                        fs.writeFileSync(filePath, newContent);
-                    }
-                }
-            });
-        }
-
+        let imageName = extractImageFileName(imgSrc);
         title = title ? title : '';
+        let img = {
+            title: title,
+            alt: imgAlt,
+            url: imgSrc
+        };
+
+        downloadingImages.push(img);
         return util.format('![%s](../resources/images/%s %s)', imgAlt, imageName, title);
     });
 
+    fs.writeFileSync(filePath, newContent);
 
-    // 文件中无需下载图片。
-    if (!downloading) {
-        callback();
-    }
+    return downloadingImages;
 }
-
-var options = {
-    'source': path.join(__dirname,  '../../source/_posts/*.md'),
-    'unresolved': path.join(__dirname,  './unresolved.md'),
-    'dest': path.join(__dirname,  '../../source/resources/images')
-};
-
-module.exports(options);
