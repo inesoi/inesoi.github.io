@@ -8,13 +8,11 @@ Importing from China has proven a successful tactic of global sourcing for many 
 
 However, it is not an easy task, especially for the newbies. The importing process can be extremely complex, confusing, and costly. Expected gains can often be erased by long transit times, rising or fluctuating delivery costs, regulatory fees, and unexpected delays.
 
-![import from china](https://cargofromchina.com/20180312/wp-content/uploads/import-from-china-head.png)
+![import from china](../resources/images/import-from-china-head.png )
 
 Here’s a step by step Guide from the view of us, [a local freight forwarder](https://cargofromchina.com/local-freight-forwarder/) serving the exporters in China and importers worldwide for years. Let’s check out how to import from China, and what you can do to make the process more smoothly and efficiently.
 
 _NOTE: The information provided below are for general information purposes only. The best practice is always checking with your local customs authority and **buying from small order**._
-
----
 
 ### 1. Identify your import rights.
 
@@ -25,8 +23,6 @@ But before purchasing commercial goods into your country, as a business or an in
 #### Attention:
 
 Many import regulations only apply to goods imported for commercial – business or resale – purposes. And only the customs authority can make judgment calls about what qualifies as personal use. Several suits that are identical or a number of very similar handbags will have a hard time passing the credibility test as items for personal use.
-
----
 
 ### 2. Identify the goods you want to import.
 
@@ -42,8 +38,6 @@ This information will be crucial when it comes time to determine the tariff clas
 * _Go with a product uniqueness – you can sell at a high price_
 * _Go with a product you can ship in large quantities – low shipping cost per unit_
 
----
-
 ### 3. Ensure the goods you wish to import are permitted into your country.
 
 Certain goods are not allowed to be imported. Different countries have different prohibited products. Also make sure whether the goods you intend to import are subject to any permits, restrictions or regulations by your government.
@@ -51,8 +45,6 @@ Certain goods are not allowed to be imported. Different countries have different
 It is the importer’s (YOUR) responsibility for assuring that the goods comply with a variety of specific rules and regulations.
 
 Importing goods that are unsafe, that fail to meet health code requirements, or that violate restrictions could end up costing you quite a bit of money in fines and penalties. At the very least, such goods would be detained, and possibly destroyed.
-
----
 
 ### 4. Classify your goods and calculate the landed cost.
 
@@ -63,8 +55,6 @@ Pay attention to the [Incoterms](https://cargofromchina.com/incoterms/), and cal
 * Get the product price from the supplier
 * Get the shipping charges from China freight forwarding company (like us)
 * Get the charges of Customs clearance, duty&tax, land transport to your warehouse
-
----
 
 ### 5. Find your supplier in China and place an order.
 
@@ -106,8 +96,6 @@ _Make sure your supplier has totally confirmed every spec of your target product
 
 International trade is based on mutual trust. If you don’t trust your supplier, nobody will look after your production in the factory, and nobody will sincerely help you when trouble happens.
 
----
-
 ### 6. Arrange your cargo transport.
 
 There are many costs associated with shipping goods, including container fees, packaging, terminal handling, and broker fees. In order to get a complete picture of shipping costs, each of these factors should be taken into account.
@@ -137,15 +125,11 @@ If they get it right, and choose a good logistics provider; they are guaranteed 
 
 If they get it wrong, at the very least they could have rising costs and wastage. At worst, they could be facing a failing business model that has to be eventually shut down. Companies will continue to lose money if their logistics is not managed well.
 
----
-
 ### 7. Track your cargo and get prepared for arrival.
 
 Shipping goods internationally takes time. For example, goods shipped from China, on average, take around 14 days to reach the West Coast of United States or 30 days to reach the East Coast.
 
 During the time, check your commercial invoice, packing list, the bill of lading, and other related [freight documents](https://cargofromchina.com/shipping-documents/). If problems arise that you need to troubleshoot, you should know the steps your goods go through when being cleared by Customs of your country.
-
----
 
 ### 8. Obtain your shipment.
 
@@ -153,11 +137,9 @@ When the goods arrive, make arrangements for your customs broker to clear them t
 
 If you choose our to-door service, you can just wait for your shipment arrived at your designated address.
 
----
-
 ### Summary
 
-![import from china container station](https://cargofromchina.com/20180312/wp-content/uploads/import-from-china-end.png)
+![import from china container station](../resources/images/import-from-china-end.png )
 
 Follow these tips and do your research and you can benefit from importing from China.
 
