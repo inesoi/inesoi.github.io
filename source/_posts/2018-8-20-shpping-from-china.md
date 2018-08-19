@@ -86,7 +86,7 @@ We will be adding and updating information often. Be sure to come back to get th
 * [Recommended Books](https://cargofromchina.com/books/ "Recommended Books about China, Chinese, Culture, and Business")
 * [Central Asia Rail Station Code](https://cargofromchina.com/central-asia-rail-station-code/ "Central Asia Rail Station Code")
 
-![China container](https://cargofromchina.com/20180312/wp-content/uploads/blog-china-container.png)
+![China container](../resources/images/blog-china-container.png )
 
 We supply cargo and freight transportation solutions for all shipping needs from China, with competitive charges. As a customer-driven company, we will:
 
