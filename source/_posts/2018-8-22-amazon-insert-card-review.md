@@ -4,6 +4,11 @@ tags: [amazon, review]
 category: Amazon
 ---
 
+- [Chapter 4: Using Amazon Product Inserts for Reviews - LandingCube](https://landingcube.com/reviews/product-inserts-reviews/)
+- [FBA Sellers Guide To Amazon Product Insert Cards -](http://www.internetbizuni.com/blog/amazon-product-insert-cards)
+- [Amazon Product Packaging and Product Inserts – Blog – Amazing](https://blog.amazing.com/amazon-product-packaging-and-product-inserts/)
+- [Surprising Amazon Approved Insert and Email Content - iLoveToReview](https://www.ilovetoreview.com/amazon-approved-insert-email-content/)
+
 ## How to Use Amazon Product Inserts for Reviews
 
 Including physical inserts inside the packages for your products can be a very effective way for Amazon sellers to get product reviews. 
