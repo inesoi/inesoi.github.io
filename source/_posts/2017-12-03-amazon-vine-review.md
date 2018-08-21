@@ -38,7 +38,7 @@ Amazon 会提供免费商品给 Vine Voice 会员，这些商品必须是有参�
 
 Vine Voice 的评论支持
 
-![](http://bbs.ichuanglan.com/data/attachment/forum/201610/07/105808k9z4t5s9e4t9ce6s.png)
+![](../resources/images/105808k9z4t5s9e4t9ce6s.png )
 
 ### 针对 review 新政我们还能怎么做？
 
