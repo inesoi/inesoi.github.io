@@ -35,58 +35,58 @@ And you have to encourage honest reviews – not strictly positive reviews.
 
 ## What to Include in Product Inserts for Amazon Reviews
 
-The card should be simple. What should you include?
+Amazon Product insert cards are a great way to send a message to your customers because every one of your customers is guaranteed to see it. Whether they bother to read it or not will depend on a couple of things, listed below.
 
-### Thank you & Benefits
+What is your product? If it is something low cost and basic, your customers will be less likely to read your insert card. However, if it has a higher cost, or is more complex, your customers will be more likely to read what you have to tell them.
 
-First, show your appreciation and thank the customer for their business. 
+Think Apple Iphone insert vs emoji pillow which one will you be more likely to read the insert card off?
 
-Then list your product’s main benefits – what makes your product unique from the competition? This is reminding them why your product is awesome, to get them in a positive frame. Which will reduce the chances that they return the product, and increase the chances of them leaving a positive review. 
+Common mistakes when designing Amazon insert cards:
 
-The more value they get out of your product, they more likely they will be to leave an awesome review. So  including some tips on how to get the most value out of the product can be very effective.
+1. Have 1 goal per insert card. If you have a list of things to tell your customer, then send it in a follow-up email using **[feedback genius](https://secure.sellerlabs.com/aff//idevaffiliate.php?id=705_2)** or similar automated email services.
 
-### Solicit Feedback
+2. Do NOT try to get the customer to try and buy from you on Amazon. This is a sure-fire way to get your Amazon seller account suspended.
 
-Ask them ‘Are you happy with [your product]?” and include options for Yes & No. 
+3. Do NOT expect many people to act on what you ask them to do. If you can get a response rate of 5% to a message in your insert card, this is good.
 
-_YES: Awesome! We’re glad you like it. Please leave us a review. It helps our business and also helps other customers make informed decisions. Thank you 🙂
+Below, I give you 4 different examples of Amazon Product insert cards and when and how you should use them to grow your Amazon FBA business. Feel free to copy the templates that I have provided for you.
 
-1.  _Sign into Amazon.com_ 
-2.  _Hover over Account & Lists_
-3.  _Under Your Account, click Your Orders Orders_
-4.  _Find this order and click Write a Product Review_
-5.  _Be honest 🙂
+# Amazon Product Insert Cards
 
-_NO: We’re sorry there was a problem with the product and would love the chance to fix it. Please call us at  XXX-XXX-XXXX_
+### 1. Amazon Product Insert Cards: Increase Reviews
 
-Other sellers have found success with a more indirect approach. They don’t directly ask for a review in the insert. Instead, they include instructions for claiming a 1-year warranty on their site. Customers have to input their email to claim the warranty. Once they have the email, they can ask for a review.
+With your first batch of inventory, your focus should be to rank your products and get as many reviews as possible. With this in mind, the aim of your insert cards should be to get customers to leave a product review. Below is an example of the type of insert card that you would use when you are launching a new product and seeking customer reviews. Feel free to copy it and use it as a template for your own Amazon product insert card.
 
-However, this indirect way might be considered a violation of Amazon’s Terms of Service, because you are collecting the email after selling on Amazon. Amazon explicitly says not to message its customers for marketing purposes. 
+### ![Amazon-Product-Insert-Cards](http://www.internetbizuni.com/wp-content/uploads/2017/05/1-Amazon-Product-Insert-Cards.png)
 
-### Some Design Tips
+### 2. Amazon Product Insert Cards: Increase Sales & Ranking
 
-Product inserts are usually about the size of business cards. Or a bit larger. 
+Once you get over 100 reviews on your product listing, your focus should switch from reviews to sales. Your aim should be to increase the sales of all your products off Amazon so that your ranking improves, which will, in turn, increase your organic sales further. Below is an example of an insert card that you can use to encourage customers to become repeat customers of your brand. Feel free to copy it and use it as a template for your own Amazon product insert card.
 
-Make your product cards easy to read. Don’t jam too much information on a small card. 
+“Thank you for trusting us with your recent order. As a way of showing our appreciation, I would like to give you $5 OFF your next (Insert Brand Name) purchase from Amazon.”
 
-Put your brand logo on the card. And infuse your brand voice into it (and all communications).
+### ![example-Amazon-Product-Insert-Cards](http://www.internetbizuni.com/wp-content/uploads/2017/05/2-Amazon-Product-Insert-Cards.jpg)
 
-## Sample Insert Card for Reviews:
+### 3. Amazon Product Insert Cards: Branding
 
-Here are two examples of insert cards used to generate Amazon reviews.
+Once you have a wide selection of products ranking well on Amazon and they all have over 100 reviews, you may decide to start building your brand off Amazon. Sharing pictures of your customers using your products is a great way to start building a community around your brand. The third type of insert card that I use is for the sole purpose of branding. Below is an example of an insert card that you can use to encourage customers to become a major part of your brand. Feel free to copy it and use it as a template for your own Amazon product insert card.
 
-### Card 1:
+“Thank you for trusting us with your recent order. At (Insert brand name) we simply love yoga. We would love if you could add your yoga pictures to our gallery www.yogapanda.com/gallery. Or our Instagram page www.instagram.com/yogapanda.”
 
-![Product insert card used to get more amazon reviews](https://landingcube.com/wp-content/uploads/2018/04/product-inserts-internetbizuni.png)
+![Amazon-fba-Product-Insert-Cards](http://www.internetbizuni.com/wp-content/uploads/2017/05/3-Amazon-Product-Insert-Cards.png)
 
-### Card 2:
+### 4. Amazon Product Insert Cards: Growing an email list
 
-![Product insert design for amazon reviews](https://landingcube.com/wp-content/uploads/2018/04/product-insert-jungle-scout-million-dollar.png)
+If you simply want to build an email list of your customers so that you can email them during your new product launches, then the best way to do this is by inviting them to a landing page, so that you capture their email addresses. Your product should retail for more than $20 for this to work adequately, as it is extremely unlikely that anyone will take out the warranty on products with a low-value. Below is an example of an insert card that you can use to encourage customers to sign up to your email list. Feel free to copy it and use it as a template for your own Amazon product insert card.
 
-Which of these two inserts is better? The second one certainly has a more attractive design. However, the first card provides instructions on how to leave a review. The second one also is hinting at customers only to leave positive review (the frown face is accompanied by request to call, not to leave a negative review). That might be considered manipulation.
+“At Yoga Panda we offer a **FREE** 1-year warranty on all of our products. This means that if your product breaks through no fault of your own we will replace it with a new one for **FREE**. To the avail of the Yoga Panda 1-year warranty, you must sign up for free within 1 week of making your purchase. Please visit www.yogapanda.com/warranty within 1 week of making your purchase and enter your name and email address to get covered.”
 
-## Using Amazon Product Inserts to Get Reviews: In Summary
+### ![Amazonfba-Product-Insert-Cards](http://www.internetbizuni.com/wp-content/uploads/2017/05/4-Amazon-Product-Insert-Cards.png)
 
-In this chapter, we discussed how to use product inserts to get product reviews on Amazon. The main things are to not break Amazon’s Terms, keep the cards simple, highlight the benefits of your product, and include instructions for customers to leave a review.
+I hope that you found this helpful. Please let me know if you have any further questions in relation to Amazon product insert cards, or anything to do with building a private label brand on and off Amazon. My direct email address is james@internetbizuni.com.
 
-In the next chapter, we go over two different types of software tools Amazons sellers can use for building email autoresponders to get more reviews.
+[CLICK HERE](https://www.facebook.com/groups/1714883708830449/) to connect with other brand builders on Facebook via the [Internetbizuni brand builders help group](https://www.facebook.com/groups/1714883708830449/).
+
+**P.S: If you want to learn how to start a profitable private label brand on Amazon then ([CLICK HERE) ](https://uniqueprivatelabel.com/)this course is perfect for you.**
+
+**P.S.S: If you already sell private label products on Amazon and you want to learn how to increase your profit and grow your brand to the next level, then this course ([CLICK HERE](http://advancedprivatelabel.com/)) is perfect for you.**
