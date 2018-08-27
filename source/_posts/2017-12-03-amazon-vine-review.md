@@ -17,7 +17,6 @@ category: Amazon
 ## Amazon Vine
 
 Vine Program 的宗旨：提供一般买家在购买时能有更多的诚实、专业且没有偏见的评论可以参考。
-
 Vine Program 会邀请具有公信力的 Reviewer 测评新商品或是尚未上架的商品，做为一般客户购买商品时参考。
 
 Vine Program 是要受到亚马逊邀请才能参加的，主要是依照 Reviewer 的排名，Review 的品质和帮助程度（Helpful Vote 多寡），和是否对于某类别的商品有特别专业的 Review。

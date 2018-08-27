@@ -33,6 +33,8 @@ You cannot offer a discount or any kind of incentive for a review. This is stric
 
 And you have to encourage honest reviews – not strictly positive reviews.
 
+![](https://ws2.sinaimg.cn/large/0069RVTdgy1fuonyljs3nj30n60ii0wu.jpg)
+
 ## What to Include in Product Inserts for Amazon Reviews
 
 Amazon Product insert cards are a great way to send a message to your customers because every one of your customers is guaranteed to see it. Whether they bother to read it or not will depend on a couple of things, listed below.
