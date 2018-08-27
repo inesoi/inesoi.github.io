@@ -8,7 +8,7 @@ category: Amazon
 
 时不时地设置些 Promotion，除了能增加购买率之外，也可以提高 Listing 的能见度。以下 BQool 归纳了创建Promotion 的步奏，提供各位卖家作参考。
 
-[![Amazon advertising 设置](http://blog.bqool.cn/wp-content/uploads/image00-42.png "Amazon advertising 设置")](http://blog.bqool.cn/wp-content/uploads/image00-42.png)
+[![Amazon advertising 设置](../resources/images/image00-42.png  "Amazon advertising 设置")](http://blog.bqool.cn/wp-content/uploads/image00-42.png)
 
 登入您的卖家帐号之后，在 **Advertising** 的标签下，点击 **Create**，进到选择Promotion的页面，总共有4种：
 
@@ -77,21 +77,21 @@ Select a product list 挑选商品清单- 您可以创建新的清单 (点击 **
 
 首先我们先到 亚马逊卖家后台的 promotion 页面。
 
-![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image06-9.png "Amazon Promotion Free Shipping") [![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image10-5.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image10-5.png)
+![Amazon Promotion Free Shipping](../resources/images/image06-9.png  "Amazon Promotion Free Shipping") [![Amazon Promotion Free Shipping](../resources/images/image10-5.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image10-5.png)
 
 进入到 promotion 的页面后，我们要看的是红色框框内的四个 promotion 的设置。各别为 Free Shipping, Money Off, Buy One Get One 和 External Benefits，promotion 设置讲解的顺序为从左到右。
 
-[![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image11-5.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image11-5.png)
+[![Amazon Promotion Free Shipping](../resources/images/image11-5.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image11-5.png)
 
 现在先来介绍 Free Shipping ( 免运费 ) 的设置，点击 Create
 
-[![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image05-16.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image05-16.png)
+[![Amazon Promotion Free Shipping](../resources/images/image05-16.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image05-16.png)
 
 进入到 Create a promotion: Free Shipping 页面，最重要的规则设置莫非于设置 Conditions
 
 BQool 贴心叮咛：卖家在设置 promotion 时，必须要记得第一步骤的第一选项 Buyer purchases ，是主宰着整个 Step 1 promotion 的设定，那么填写的优先顺序是要从上到下，因为上层的设置都会影响到下方的选项。Free Shipping 的 promotion 虽然没这么明显的显示出设定上的优先顺序，但是其他 promotion 的设置像是 money off 等，读者们就会发觉这情况了。
 
-[![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image01-35.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image01-35.png)
+[![Amazon Promotion Free Shipping](../resources/images/image01-35.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image01-35.png)
 
 当选择 Buyer purchases ( 红框内 ) 的选项时， Free Shipping 给你个二选一的选择
 
@@ -101,9 +101,9 @@ BQool 贴心叮咛：卖家在设置 promotion 时，必须要记得第一步骤
 Buyer purchases 的用意是买家要先符合你设定的具备条件，才可以享有这优惠。  
 选择好规则后，在绿色的框框内依照选择的规则输入最少价钱或是最少商品的数值(数字就好)，比如说：最少价钱 50刀，或者是最少商品 3个。
 
-[![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image06-10.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image06-10.png)
+[![Amazon Promotion Free Shipping](../resources/images/image06-10.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image06-10.png)
 
-[![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image00-47.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image00-47.png)
+[![Amazon Promotion Free Shipping](../resources/images/image00-47.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image00-47.png)
 
 选择完 Buyer purchase 后，卖家需要填写以下栏位
 
@@ -113,11 +113,11 @@ B. Buyer gets：对买家的优惠，这里是默认 Free Shipping
 
 C. Applies to：哪些产品可以有这 promotion，这里是默认 purchased items (购买的商品)
 
-[![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image08-11.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image08-11.png)
+[![Amazon Promotion Free Shipping](../resources/images/image08-11.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image08-11.png)
 
 D. Qualifying Shipping options：卖家可以在这打勾勾选择免费寄送的寄送方式有哪些
 
-[![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image03-25.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image03-25.png)
+[![Amazon Promotion Free Shipping](../resources/images/image03-25.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image03-25.png)
 
 E. Advance Options: 每个promotion 的方案都有 Advance Options，点击后就会出现下方 F 的选项，那每个 promotion 的 Advance Options 显示的选项都不大一样。
 
@@ -125,17 +125,17 @@ F. Advance Options- Exclude Items: 在 Free Shipping，卖家可以在这排除�
 
 步骤一结束之后，卖家们就可以到步骤二选择您要 promotion 开始和结束的日期与时间，这部份较简单易懂，所以就不多说了。
 
-[![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image04-23.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image04-23.png)
+[![Amazon Promotion Free Shipping](../resources/images/image04-23.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image04-23.png)
 
 步骤三：Additional Options，这部份是用来设置商品页面上的促销讯息，卖家可以自行更改这里面的内容，如果不想要自己改写促销讯息的话，使用亚马逊的默认设置就行了，如果卖家需要使用 claim code 的功能，也可以在步骤 3 这启用 claim code。
 
-![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image09-6.png "Amazon Promotion Free Shipping")
+![Amazon Promotion Free Shipping](../resources/images/image09-6.png  "Amazon Promotion Free Shipping")
 
 三个步骤完成后，卖家可以 review 自己的 pormotion 设定，再 submit 结束 promotion 设置。
 
-[![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image02-31.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image02-31.png)
+[![Amazon Promotion Free Shipping](../resources/images/image02-31.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image02-31.png)
 
-[![Amazon Promotion Free Shipping](http://blog.bqool.cn/wp-content/uploads/image07-8.png "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image07-8.png)
+[![Amazon Promotion Free Shipping](../resources/images/image07-8.png  "Amazon Promotion Free Shipping")](http://blog.bqool.cn/wp-content/uploads/image07-8.png)
 
 以上是 Free Shipping promotion 的例子，所有的 promotion 步骤二和步骤三设置大致都是一样的 ( 除了External Benefits 会有点不同 )，所以后续三篇的 promotion介绍就不会详细描述这些步骤的设定，而是提供各式各样的 promotion 架设范例让各位参考。敬启期待。
 
@@ -143,23 +143,23 @@ F. Advance Options- Exclude Items: 在 Free Shipping，卖家可以在这排除�
 
 请先点击 Create 并进入规则架设页面。买家结账 $20 美金以上即可享有指定免费商品一份。
 
-[![Buy One Get One 亚马逊 Promotion 实战经验及设定](http://blog.bqool.cn/wp-content/uploads/image04-24.png "Buy One Get One 亚马逊 Promotion 实战经验及设定")](http://blog.bqool.cn/wp-content/uploads/image04-24.png)
+[![Buy One Get One 亚马逊 Promotion 实战经验及设定](../resources/images/image04-24.png  "Buy One Get One 亚马逊 Promotion 实战经验及设定")](http://blog.bqool.cn/wp-content/uploads/image04-24.png)
 
 买一送一 ，或是买多送一 (结账两个商品以上，其中一个变成免费)。
 
-[![手动制作 Feedback & Review 链接](http://blog.bqool.cn/wp-content/uploads/image03-26.png "手动制作 Feedback & Review 链接")](http://blog.bqool.cn/wp-content/uploads/image03-26.png)
+[![手动制作 Feedback & Review 链接](../resources/images/image03-26.png  "手动制作 Feedback & Review 链接")](http://blog.bqool.cn/wp-content/uploads/image03-26.png)
 
 够买两个以上有 promotion 的商品，赠送指定商品一份。
 
-[![手动制作 Feedback & Review 链接](http://blog.bqool.cn/wp-content/uploads/image01-36.png "手动制作 Feedback & Review 链接")](http://blog.bqool.cn/wp-content/uploads/image01-36.png)
+[![手动制作 Feedback & Review 链接](../resources/images/image01-36.png  "手动制作 Feedback & Review 链接")](http://blog.bqool.cn/wp-content/uploads/image01-36.png)
 
 买家购买三个 promotion 的商品，其中两个 promotion 的商品是免费的。
 
-[![手动制作 Feedback & Review 链接](http://blog.bqool.cn/wp-content/uploads/image02-32.png "手动制作 Feedback & Review 链接")](http://blog.bqool.cn/wp-content/uploads/image02-32.png)
+[![手动制作 Feedback & Review 链接](../resources/images/image02-32.png  "手动制作 Feedback & Review 链接")](http://blog.bqool.cn/wp-content/uploads/image02-32.png)
 
 买家购买3个 promotion 的商品，可以享有指定免费商品一份。
 
-[![手动制作 Feedback & Review 链接](http://blog.bqool.cn/wp-content/uploads/image00-48.png "手动制作 Feedback & Review 链接")](http://blog.bqool.cn/wp-content/uploads/image00-48.png)
+[![手动制作 Feedback & Review 链接](../resources/images/image00-48.png  "手动制作 Feedback & Review 链接")](http://blog.bqool.cn/wp-content/uploads/image00-48.png)
 
 除了建立 Promotion 之外，技巧性的关闭 Promotion 也是十分重要的！
 
