@@ -4,11 +4,6 @@ tags: [amazon, review]
 category: Amazon
 ---
 
-- [Chapter 4: Using Amazon Product Inserts for Reviews - LandingCube](https://landingcube.com/reviews/product-inserts-reviews/)
-- [FBA Sellers Guide To Amazon Product Insert Cards -](http://www.internetbizuni.com/blog/amazon-product-insert-cards)
-- [Amazon Product Packaging and Product Inserts – Blog – Amazing](https://blog.amazing.com/amazon-product-packaging-and-product-inserts/)
-- [Surprising Amazon Approved Insert and Email Content - iLoveToReview](https://www.ilovetoreview.com/amazon-approved-insert-email-content/)
-
 ## How to Use Amazon Product Inserts for Reviews
 
 Including physical inserts inside the packages for your products can be a very effective way for Amazon sellers to get product reviews. 
@@ -53,13 +48,13 @@ Common mistakes when designing Amazon insert cards:
 
 Below, I give you 4 different examples of Amazon Product insert cards and when and how you should use them to grow your Amazon FBA business. Feel free to copy the templates that I have provided for you.
 
-# Amazon Product Insert Cards
+## Amazon Product Insert Cards
 
 ### 1. Amazon Product Insert Cards: Increase Reviews
 
 With your first batch of inventory, your focus should be to rank your products and get as many reviews as possible. With this in mind, the aim of your insert cards should be to get customers to leave a product review. Below is an example of the type of insert card that you would use when you are launching a new product and seeking customer reviews. Feel free to copy it and use it as a template for your own Amazon product insert card.
 
-### ![Amazon-Product-Insert-Cards](../resources/images/1-Amazon-Product-Insert-Cards.png )
+![Amazon-Product-Insert-Cards](../resources/images/1-Amazon-Product-Insert-Cards.png )
 
 ### 2. Amazon Product Insert Cards: Increase Sales & Ranking
 
@@ -67,7 +62,7 @@ Once you get over 100 reviews on your product listing, your focus should switch 
 
 “Thank you for trusting us with your recent order. As a way of showing our appreciation, I would like to give you $5 OFF your next (Insert Brand Name) purchase from Amazon.”
 
-### ![example-Amazon-Product-Insert-Cards](../resources/images/2-Amazon-Product-Insert-Cards.jpg )
+![example-Amazon-Product-Insert-Cards](../resources/images/2-Amazon-Product-Insert-Cards.jpg )
 
 ### 3. Amazon Product Insert Cards: Branding
 
@@ -83,7 +78,7 @@ If you simply want to build an email list of your customers so that you can emai
 
 “At Yoga Panda we offer a **FREE** 1-year warranty on all of our products. This means that if your product breaks through no fault of your own we will replace it with a new one for **FREE**. To the avail of the Yoga Panda 1-year warranty, you must sign up for free within 1 week of making your purchase. Please visit www.yogapanda.com/warranty within 1 week of making your purchase and enter your name and email address to get covered.”
 
-### ![Amazonfba-Product-Insert-Cards](../resources/images/4-Amazon-Product-Insert-Cards.png )
+![Amazonfba-Product-Insert-Cards](../resources/images/4-Amazon-Product-Insert-Cards.png )
 
 I hope that you found this helpful. Please let me know if you have any further questions in relation to Amazon product insert cards, or anything to do with building a private label brand on and off Amazon. My direct email address is james@internetbizuni.com.
 

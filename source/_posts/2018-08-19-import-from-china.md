@@ -70,21 +70,21 @@ Maybe you can pay for products in higher price, and sometimes suppliers will sel
 
 If you want to learn how to find good suppliers on Alibaba, please check another article: [**Tips for Sourcing Good Suppliers on Alibaba. You Never Knew Before.**](https://jingsourcing.com/how-to-source-good-suppliers-on-alibaba-completely-guide/)
 
-### **b. Dhgate and Aliexpress**
+### b. Dhgate and Aliexpress
 
 If the Alibaba supplier’s MOQ is still hard for you to reach, maybe you can only go to DHgate and Aliexpress. Usually DHgate tends to **small quantity wholesalers** whose buying quantity is between Alibaba and Aliexpress. Aliexpress more tends to **retailers**, though it claims itself for online wholesale, and this truth is known by most Chinese suppliers.
 
-## **4.How to Ship Cargo from China When Buying Small Quantity?**
+## 4.How to Ship Cargo from China When Buying Small Quantity?
 
 I have to say that shipping way is really a big problem for small quantity buyers as mentioned in the beginning. Sometimes small quantity have to give up importing from China because express is the only way to ship, and it’s too expensive.
 
-### **a. International Express and Air Freight**
+### a. International Express and Air Freight
 
 International express is suitable for cargoes under 300kg, while air freight is suitable for over 300kg. But air freight needs the same import & export processes as sea freight. You also need to pick up your cargo at the airport.
 
 Hazardous articles such as liquid, power and products with battery cannot be shipped by air in cargo. Balancing scooter is also one among them. (You can check another article-**[Importing Balancing Scooter from China: Problems You Should Know](https://jingsourcing.com/importing-balancing-scooter-china-problems-know/)**)
 
-### **b. LCL Companies That Offer All-in Price Shipping Service**
+### b. LCL Companies That Offer All-in Price Shipping Service
 
 This kind of LCL companies are the best choice for small quantity buyers. They usually are specialized in **certain ports or areas**, and offer all-in price shipping service. They will handle all custom and shipping process, and you just need to pick up your cargo in their warehouse, or sometimes they can deliver to door. Their price is very low even you ship 0.5CBM, because the container is shared by 10 to 40 clients.
 
@@ -96,7 +96,7 @@ I know some of this kind shipping companies, and I’d like to share them. You c
 
 There are companies offering $80/CBM to Malaysia & Singapore, delivering to door; $280/CBM to Kenya but you have to pick up cargos at their warehouse in Nairobi; $280/CBM to Sydney/Melbourne warehouse, etc. The rate is just for reference.
 
-### **c.** **Consolidate Cargoes from Different Suppliers And Ship Together**
+### c.** **Consolidate Cargoes from Different Suppliers And Ship Together
 
 If you are buying from **different suppliers**, then you can think about consolidate them in one shipment, and you will save shipping cost. Because even use international express, heavy cargo is charged in lower price/kg than light one.
 
@@ -112,7 +112,7 @@ We strongly recommend you to try to consolidate cargoes, so that you can gain mo
 
 Forwarder are picking up consolidated cargoes in customer’s warehouse
 
-## **5.How to Avoid Scam When Buying Small Quantity as a Business Beginner?**
+## 5.How to Avoid Scam When Buying Small Quantity as a Business Beginner?
 
 Many starter business are afraid of being scammed when buying products on Internet from China, but the truth is **seldom people** were under this case.
 
