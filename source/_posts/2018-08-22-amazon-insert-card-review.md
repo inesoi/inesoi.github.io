@@ -28,7 +28,7 @@ You cannot offer a discount or any kind of incentive for a review. This is stric
 
 And you have to encourage honest reviews – not strictly positive reviews.
 
-![](https://ws2.sinaimg.cn/large/0069RVTdgy1fuonyljs3nj30n60ii0wu.jpg)
+![](../resources/images/0069RVTdgy1fuonyljs3nj30n60ii0wu.jpg )
 
 ## What to Include in Product Inserts for Amazon Reviews
 

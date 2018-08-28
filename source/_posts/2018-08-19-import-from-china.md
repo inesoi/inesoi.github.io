@@ -32,7 +32,7 @@ Shipping is always a big problem for small quantity importers. Because their shi
 
 Products with large size or large package, like mug and teddy bear, is not suitable for small quantity importers, because both express and air freight fee is charged by dimension weight (length*height*width).
 
-![fashion accessories](https://jingsourcing.com/wp-content/uploads/2015/12/accessories-bracelets-cute-fashion-Favim.com-710653.jpg)
+![fashion accessories](../resources/images/accessories-bracelets-cute-fashion-Favim.com-710653.jpg )
 
 Fashion accessories are good choice for small quantity buyer
 
@@ -48,7 +48,7 @@ Some people think that daily used products, such as socks, are very easy to be s
 
 Common products in daily life are not suitable for small business, either. For instance, we received many inquiries of from different countries (European and Middle East countries), and they want to import 20GP container of A4 printing papers.
 
-![toilet paper](https://jingsourcing.com/wp-content/uploads/2015/12/%E5%8E%95%E7%BA%B8-1024x768.jpg)
+![toilet paper](../resources/images/%E5%8E%95%E7%BA%B8-1024x768.jpg )
 
 Interesting toilet paper with pictures printed
 
@@ -108,7 +108,7 @@ Another Solution is you can choose **one reliable supplier**, and let other supp
 
 We strongly recommend you to try to consolidate cargoes, so that you can gain more import experience. Then congratulations, you moved the first step of expanding your business, and you can try to purchase larger quantity next time.
 
-![Consolidate cargos from different suppliers and ship together](https://jingsourcing.com/wp-content/uploads/2015/12/consolidate-cargoes.png)
+![Consolidate cargos from different suppliers and ship together](../resources/images/consolidate-cargoes.png )
 
 Forwarder are picking up consolidated cargoes in customer’s warehouse
 
@@ -116,7 +116,7 @@ Forwarder are picking up consolidated cargoes in customer’s warehouse
 
 Many starter business are afraid of being scammed when buying products on Internet from China, but the truth is **seldom people** were under this case.
 
-No matter you are buying from Alibaba, Aliexpress, or DHgate, none of suppliers can take your money without sending the products. Because on this kind of online platforms, all suppliers are required to offer their Chinese ID cards, or company registration information in the beginning. Then they have to **pay certain amount fee** every year to become suppliers on these platforms. Such as for being **Gold Supplier** in Alibaba, you have to pay CNY 29,800 (around USD 4,730) annually for member fee; pay for USD 4,700 deposit to become suppliers in Aliexpress.![Gold Supplier on Alibaba](https://jingsourcing.com/wp-content/uploads/2015/12/Gold-Supplier-on-Alibaba.jpg)
+No matter you are buying from Alibaba, Aliexpress, or DHgate, none of suppliers can take your money without sending the products. Because on this kind of online platforms, all suppliers are required to offer their Chinese ID cards, or company registration information in the beginning. Then they have to **pay certain amount fee** every year to become suppliers on these platforms. Such as for being **Gold Supplier** in Alibaba, you have to pay CNY 29,800 (around USD 4,730) annually for member fee; pay for USD 4,700 deposit to become suppliers in Aliexpress.![Gold Supplier on Alibaba](../resources/images/Gold-Supplier-on-Alibaba.jpg )
 
 _One interesting thing is: many people believe that Gold Suppliers are qualified suppliers verified by Alibaba, that’s also what Alibaba tells. But it’s not true. All suppliers on Alibaba are Gold Suppliers, because they already paid for it. So you can just ignore the Gold Supplier thing when searching suppliers on Alibaba._
 

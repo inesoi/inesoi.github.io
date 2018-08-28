@@ -17,7 +17,7 @@ This is a long article, and I organize it into 7 chapters. You can click either 
 Where is Yiwu? Yiwu is located in Zhejiang Province, close to Ningbo Port and Shanghai Port. For more information about the location of Yiwu and how to get to Yiwu, you can [click here](https://jingsourcing.com/how-to-get-to-yiwu/). 
 
 
-![yiwu map](https://jingsourcing.com/wp-content/uploads/2018/08/yiwumap1.jpg)
+![yiwu map](../resources/images/yiwumap1.jpg )
 
 Yiwu is really a [multicultural city](https://www.theguardian.com/cities/2017/mar/23/welcome-yiwu-china-testing-ground-multicultural-city). It attracts more than 500, 000 foreign procurers who come here every year to develop their businesses. Yiwu also has over 14, 000 foreign businessmen from more than 100 different countries who reside there.All the people come to Yiwu for the biggest wholesale market in the world, which is “Yiwu Wholesale market”. 
 
@@ -38,7 +38,7 @@ And what I have mentioned in this article is  referring to this market. As for s
 The Yiwu wholesale market has five main districts, each with 3-4 floors. All the areas are connected. Actually, you can visit the market from one district to the other four districts without leaving the building. 
 
 
-![market map](https://jingsourcing.com/wp-content/uploads/2018/08/market-map-2.jpg)
+![market map](../resources/images/market-map-2.jpg )
 
 I have to say that Yiwu Wholesale Market is the best in China and even in the whole world. Because no any other wholesale market is as well planned as the Yiwu Wholesale Market. All areas are subdivided according to the category of their products. 
 
@@ -87,7 +87,7 @@ When you ask for the products at the booths, you will find that you can simply c
 When you see a product at a booth, you can use your finger to point it out. And then the suppliers will show you the price of RMB with a calculator. You need to pay attention to the fact that suppliers in the market only accept RMB and reject the US dollars. 
 
 
-![price on calculator](https://jingsourcing.com/wp-content/uploads/2018/08/price-on-calculator.jpg)
+![price on calculator](../resources/images/price-on-calculator.jpg )
 
 
 Since the sellers can only communicate in this simple way, if you go to buy a small amount of stock, then you can manage on your own. But if you want to communicate more deeply about the product, such as customizing the content. Then you will find that communication will become very difficult. In this case, it would be a good decision to find a translator or Yiwu market agent.
@@ -97,7 +97,7 @@ Since the sellers can only communicate in this simple way, if you go to buy a sm
 Translator and agents can help you determine price, quantity per carton, CBM per carton, minimum order quantity, production time, minimum quantity for customizing packaging and more with suppliers. 
 
 
-    ![A foreign customer is visiting a flag booth with an agent](https://jingsourcing.com/wp-content/uploads/2018/08/A-foreign-customer-is-visiting-a-flag-booth-with-an-agent.jpg)
+    ![A foreign customer is visiting a flag booth with an agent](../resources/images/A-foreign-customer-is-visiting-a-flag-booth-with-an-agent.jpg )
     <figcaption class="vc_figure-caption">A foreign customer is visiting a flag booth with an agent</figcaption>
 
 
@@ -112,7 +112,7 @@ However, an agent will help you with everything in China, even like packaging ma
 Generally, the suppliers of the same product are all situated in the same area. You only need to go around them to find similar suppliers. Also you can check on the website of “Yiwugou” to find a supplier’s information.
 
 
-![yiwugou](https://jingsourcing.com/wp-content/uploads/2017/12/yiwugou.png)
+![yiwugou](../resources/images/yiwugou.png )
 
 ◆. After selecting a supplier, you must confirm with the supplier that the actual products and the samples in the stores are the same. If not, they should let you know in advance. Because it is very common that the actual products and the samples are not the same in Yiwu market. 
 
@@ -122,9 +122,9 @@ For this problem, the supplier will not take the initiative to explain to you, a
 
 Their prices will tend to be better, the quality of the products will be more secure, and the suppliers are more familiar with the products. The suppliers that deal with a lot of categories often have multiple cooperative factories. Relatively speaking, the suppliers who do various categories are not more professional than those who have specialized in just one category. 
 
-![Professional sellers](https://jingsourcing.com/wp-content/uploads/2017/12/Professional-sellers.png)
+![Professional sellers](../resources/images/Professional-sellers.png )
 
-![Unprofessional seller](https://jingsourcing.com/wp-content/uploads/2017/12/Unprofessional-seller.png)
+![Unprofessional seller](../resources/images/Unprofessional-seller.png )
 
 ◆. For price negotiations, the price of the supplier will not be very different. Generally, the quantity of about 1000 pieces can be offered at a great price. And sometimes, the supplier will give you a little discount of about 3-5%. 
 
@@ -145,17 +145,17 @@ So, there are some hidden rules and tricks that you need to know in the Yiwu Who
 If you are abroad but want to find a good agent in advance for visiting the Yiwu market, then you can search for “Yiwu Market Agent” on Google, where you will find some Yiwu agents. If you have already arrived in Yiwu, you will see a lot of advertisements about Yiwu agents at the airport, train station, and even at your hotel entrance. You can choose one of them. 
 
 
-![google on yiwu market agent](https://jingsourcing.com/wp-content/uploads/2018/08/google-on-yiwu-market-agent.png)
+![google on yiwu market agent](../resources/images/google-on-yiwu-market-agent.png )
 
 Here, I also want to share something special with you. If you are a customer from the Middle East and Africa, then you can find people who are doing import and export business in Yiwu directly to your country. They can communicate with you in your own language and they fully understand the situation of China and your country. 
 
 You can go and search for them as agents. They will prepare everything for you in China, including visas, air tickets, hotel reservations, etc. After coming to China, you only need to focus on purchasing your products, and they will do the following: inspection, delivery, customs clearance, and other issues for you. 
 
-![Cargo-Inspection](https://jingsourcing.com/wp-content/uploads/2018/08/Cargo-Inspection.jpg)
+![Cargo-Inspection](../resources/images/Cargo-Inspection.jpg )
 
-![Customs-Clearance-Procedure](https://jingsourcing.com/wp-content/uploads/2018/08/Customs-Clearance-Procedure.jpg)
+![Customs-Clearance-Procedure](../resources/images/Customs-Clearance-Procedure.jpg )
 
-![freight-shipping](https://jingsourcing.com/wp-content/uploads/2018/08/freight-shipping.jpg)
+![freight-shipping](../resources/images/freight-shipping.jpg )
 
 ### 4.2 What does Yiwu Market Agent Serve?
 
@@ -170,7 +170,7 @@ The services provided by the Yiwu Market Agent are as follows:
 4. When you finally decide on the goods you want to purchase, the agent will help you to place an order with the supplier and pay the required amount. This is because the supplier only accepts the RMB. 
 
 
-    ![Two foreigners are confirming order with the booth](https://jingsourcing.com/wp-content/uploads/2018/08/Two-foreigners-are-confirming-order-with-the-booth.jpg)
+    ![Two foreigners are confirming order with the booth](../resources/images/Two-foreigners-are-confirming-order-with-the-booth.jpg )
 
 5. Agents can provide their warehouses in China, by temporarily storing the products you have purchased. This gives you time to concentrate on your purchases without worrying about having a place to store your goods in China.  
 
@@ -184,7 +184,7 @@ This is a very interesting topic and one that foreigners who come to Yiwu to pur
 
 There are so many agents available in Yiwu. In fact, you will not know how to choose the best agent. At this point, you may be attracted to ads that claim to offer 3% commission or even lower, and some even give 0% commission. 
 
-![caution](https://jingsourcing.com/wp-content/uploads/2017/12/Caution-phot-by-ra2-studio-via-fotolia.jpg)
+![caution](../resources/images/Caution-phot-by-ra2-studio-via-fotolia.jpg )
 
 
 My advice is that you should not be misled by these ads. This is just a low-cost competitive marketing method used by agencies to attract new customers. When you contact these companies, they will also tell you that there are various other service fees to collect. Although there is no set industry standard in Yiwu, as far as I know, it is more reasonable and reliable for the agents to charge around 5-10% service fee. 
@@ -196,7 +196,7 @@ You can go ahead and choose an agent with a low service fee, but you will find s
 In order to maintain the interests of their own company, some agencies that charge 3% or lower service fees often use some tricks to make up for the loss of service fees.
 
 
-![tips and tricks](https://jingsourcing.com/wp-content/uploads/2017/12/tips-and-tricks.png)
+![tips and tricks](../resources/images/tips-and-tricks.png )
 
 1. Change suppliers
 
@@ -215,7 +215,7 @@ In order to maintain the interests of their own company, some agencies that char
 Yiwu is a city with very developed logistics and transportation networks. Here, you can choose to ship to your country in many ways. In general, there is express delivery, air transportation, and shipping. 
 
 
-![shipping way](https://jingsourcing.com/wp-content/uploads/2017/12/shipping-way.jpg)
+![shipping way](../resources/images/shipping-way.jpg )
 
 Among them, express delivery is the fastest way. Frankly speaking, the goods can be sent directly to the address door that you provide within 3-5 days. Note that; express delivery is the most costly way. So it is only suitable for small, high-value goods, such as electronic products, accessories, watches and so on. 
 
@@ -226,7 +226,7 @@ You can find a lot of such express delivery companies around the market. They ha
 If you are shipping, or want to transport by air, you can go to the Chanchun District and Futian District of Yiwu Market to find some freight forwarding companies. 
 
 
-![changchun futian district](https://jingsourcing.com/wp-content/uploads/2017/12/changchun-futian-district.jpg)![](https://jingsourcing.com/wp-content/uploads/2017/12/changchun-futian-district-1024x349.jpg)
+![changchun futian district](../resources/images/changchun-futian-district.jpg )![](../resources/images/changchun-futian-district-1024x349.jpg )
 
 Many freight forwarding companies will claim to be able to send to any country. However, these freight forwarding companies are not the best choice. I suggest that you find some freight forwarders that are specialized in your country line. Such companies normally give you a full quote to your country right away, including some details on customs clearance. 
 
@@ -239,7 +239,7 @@ The freight forwarding companies in the special line can help you solve various 
 If you are from a country along the “[Yixinou Railway](https://www.businessinsider.com/the-longest-railway-in-the-world-2015-1)“, you can also choose to ship the goods to your country by rail. The “Yixinou railway” starts from Yiwu and passes through **Kazakhstan**, **Russia**, **Belarus**, **Poland**, **Germany**, **France**, and finally, **Madrid**. The choice of rail transport saves about half of the cost of time, and its cost is only half or less that of air transport.
 
 
-![“Yixinou Railway”](https://jingsourcing.com/wp-content/uploads/2017/12/yixinou2.png)
+![“Yixinou Railway”](../resources/images/yixinou2.png )
 
 ## Chapter 6: Four Things You Need to Know About Yiwu Wholesale Market
 
@@ -288,7 +288,7 @@ In fact, Yiwu has many different types of wholesale markets. The Yiwu wholesale 
 ### Yiwu Huangyuan Clothing Market
 
 
-![Yiwu Huangyuan Clothing Market](https://jingsourcing.com/wp-content/uploads/2017/12/Yiwu-Huangyuan-Clothing-Market.jpg)
+![Yiwu Huangyuan Clothing Market](../resources/images/Yiwu-Huangyuan-Clothing-Market.jpg )
 
 
 Tag: clothes, suit, uniform, coat, scarf, dress, T-shirt, jeans, skirt, shirt, trousers, jacket
@@ -296,7 +296,7 @@ Tag: clothes, suit, uniform, coat, scarf, dress, T-shirt, jeans, skirt, shirt, t
 ### Yiwu Furniture Market
 
 
-![Yiwu-Furniture-Market](https://jingsourcing.com/wp-content/uploads/2017/12/Yiwu-Furniture-Market.jpg)
+![Yiwu-Furniture-Market](../resources/images/Yiwu-Furniture-Market.jpg )
 
 
 Tag: light, sofa, chair, bed, drawer, door, table, bookshelf, fireplace, couch, mirror, crib, clothes tree
@@ -304,7 +304,7 @@ Tag: light, sofa, chair, bed, drawer, door, table, bookshelf, fireplace, couch, 
 ### Yiwu International Capital Goods Market
 
 
-![Yiwu International Capital Goods Market](https://jingsourcing.com/wp-content/uploads/2017/12/Yiwu-International-Capital-Goods-Market.jpg)
+![Yiwu International Capital Goods Market](../resources/images/Yiwu-International-Capital-Goods-Market.jpg )
 
 
 Tag: kitchenware, lamp bulb, LED, leather, crafts, tools, equipment
@@ -333,4 +333,4 @@ Have you understood how to avoid the tricks and get the good products at wonderf
 
 What have you learned from this article? Let me hear your voice by leaving a comment below right now. 
 
-![](https://jingsourcing.com/wp-content/uploads/2017/12/its-your-turn.png)
+![](../resources/images/its-your-turn.png )
