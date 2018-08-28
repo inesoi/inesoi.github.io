@@ -1,148 +1,125 @@
 layout: post
-title: Importing from China - A Step by Step Guide
+title: How to Import Small Quantity from China: Guide for Business Starter
 tags: [trade]
 category: Trade
 ---
 
-Importing from China has proven a successful tactic of global sourcing for many businesses. Products made in China such as shoes, clothing, electronics, furniture, home furnishings and many more are popular worldwide.
+# How to Import Small Quantity from China: Guide for Business Starter
 
-However, it is not an easy task, especially for the newbies. The importing process can be extremely complex, confusing, and costly. Expected gains can often be erased by long transit times, rising or fluctuating delivery costs, regulatory fees, and unexpected delays.
+We got many inquiries from people who **want to start a small business** by importing small quantity products from China, since our website <https://www.inesoi.com> started. Most of them do not have much relevant experience, and just consider it’s very simple: find a Chinese supplier, buy products in low price, ship home and sell high price in local market.
 
-![import from china](../resources/images/import-from-china-head.png )
+But the truth is importing small quantity directly from China is **never that easy**. You will face many different problems, such as shipping fee higher than product’s value, or your order is much less than supplier’s MOQ. In some circumstance, you may have to give up your wonderful plan of starting the new business.
 
-Here’s a step by step Guide from the view of us, [a local freight forwarder](https://cargofromchina.com/local-freight-forwarder/) serving the exporters in China and importers worldwide for years. Let’s check out how to import from China, and what you can do to make the process more smoothly and efficiently.
+In this article, we will give a complete introduction of how to import **small quantity products** from China and explain some problems you may have.
 
-_NOTE: The information provided below are for general information purposes only. The best practice is always checking with your local customs authority and **buying from small order**._
+## 1.What Is Small Business? And What Is Small Quantity Buyers?
 
-### 1. Identify your import rights.
+Different companies and people have different definitions about small business. Most sourcing agents or consulting companies define small business as those who import less than USD 500,000 annually. But for many business starters, this amount is way too high, and maybe they still can’t reach after 5 years. That’s why it’s not easy for small starter business to find a suitable sourcing or consulting company who can offer them relevant service.
 
-When you buy goods from foreign sources, you become the importer. The courier such as DHL/UPS/FedEx will handle everything and deliver to your door if your package is small and used for **personal use only or the value is not so big**. If so, it will save you a lot of time and money.
+I’d like to define customers who purchase USD 5,000-50,000 (including different kinds of products) in one order as **Small Business**. With this amount, the shipment volume usually is from 5CBM to a 40HQ container. This amount usually can reach factory’s MOQ, and can buy from them directly.
 
-But before purchasing commercial goods into your country, as a business or an individual, you will need to identify if you have the import rights. ([Learn more](https://help.cbp.gov/app/answers/detail/a_id/197/noIntercept/1) if you are an U.S. resident)
+**4 to 5 CBM** normally will be the most suitable minimum volume for LCL (Less than Container Load) shipping. If less than this, the whole export & import process is complicated and costs lot of money, which means the average cost for each product will be high.
 
-#### Attention:
+**Small Quantity Buyers** refer to those who buy less than $2,000 per order, and who just start new business (I mentioned in the beginning) are also a part of them. **This article will more focus on helping this group of people.**
 
-Many import regulations only apply to goods imported for commercial – business or resale – purposes. And only the customs authority can make judgment calls about what qualifies as personal use. Several suits that are identical or a number of very similar handbags will have a hard time passing the credibility test as items for personal use.
+## 2.What Kind of Products Are Suitable for Small Quantity Buyer?
 
-### 2. Identify the goods you want to import.
+For small business importer, those who buy more than USD 5,000 per order, they must know what to import and how to sell. But small business starter probably even have no idea what kind products to start with first.
 
-Trade company make money by selling products. Choosing the wrong products means you are losing time and money. If you’re going to be a successful importer, the first thing you need to do is to choose the correct product for resell.
+### a. High-Value or Small Size Products
 
-You’d better gather as much information as possible about the goods you intend to import. Obtain descriptive literature, product composition information and, whenever possible, product samples.
+Shipping is always a big problem for small quantity importers. Because their shipping volume is always too less for LCL, usually less than 2 CBM, and have to choose air freight or express, which cost 8-10 times higher than LCL sea freight.
 
-This information will be crucial when it comes time to determine the tariff classification. The tariff clarification number ([HS Code](https://cargofromchina.com/hs-code/)) will be used to determine the rate of duty that will be applied to your goods.
+Products with large size or large package, like mug and teddy bear, is not suitable for small quantity importers, because both express and air freight fee is charged by dimension weight (length*height*width).
 
-#### _We suggest:_
+![fashion accessories](https://jingsourcing.com/wp-content/uploads/2015/12/accessories-bracelets-cute-fashion-Favim.com-710653.jpg)
 
-* _Go with a product you like – you are passionate about your work_
-* _Go with a product uniqueness – you can sell at a high price_
-* _Go with a product you can ship in large quantities – low shipping cost per unit_
+Fashion accessories are good choice for small quantity buyer
 
-### 3. Ensure the goods you wish to import are permitted into your country.
+This means your shipping cost is even higher than products’ value, but your competitors import by LCL sea freight which costs 80% less than you. Then you have no chance to compete with them in local market.
 
-Certain goods are not allowed to be imported. Different countries have different prohibited products. Also make sure whether the goods you intend to import are subject to any permits, restrictions or regulations by your government.
+So for small quantity importers, high-value, small-sized products are better choice. Shipping cost won’t be high, sometimes only 10% of product’s value. Such as fashion accessories, small [passport holders](https://www.inesoi.com/product-category/travel-accessories/passport-holders/), watches, etc. Most importers of them won’t choose sea shipping because of the timeliness, so no need to worry about your shipping cost is higher than competitors.
 
-It is the importer’s (YOUR) responsibility for assuring that the goods comply with a variety of specific rules and regulations.
+### b. Choose Interesting Products, Instead of Normal Items
 
-Importing goods that are unsafe, that fail to meet health code requirements, or that violate restrictions could end up costing you quite a bit of money in fines and penalties. At the very least, such goods would be detained, and possibly destroyed.
+Small quantity buyers can try to find some **special and interesting products**, and avoid those common products which can be bought everywhere.
 
-### 4. Classify your goods and calculate the landed cost.
+Some people think that daily used products, such as socks, are very easy to be sold as everyone needs them, but it’s not true. Because there must be numerous people importing and selling these items with low profit, and it will be hard to compete with them. But you can think about importing some special socks, such as “non-slip children socks”, or socks with good designs.
 
-Determine the 10-digit tariff classification number for each item you are importing. These numbers along with the [Certificate of Origin](https://cargofromchina.com/certificate-of-origin/) are used to determine the rate of duty you must pay when importing. Then do the land cost calculation.
+Common products in daily life are not suitable for small business, either. For instance, we received many inquiries of from different countries (European and Middle East countries), and they want to import 20GP container of A4 printing papers.
 
-Pay attention to the [Incoterms](https://cargofromchina.com/incoterms/), and calculate the [total landed cost](https://cargofromchina.com/landed-cost/) before you place your order. For example, FOB means adding the following three together.
+![toilet paper](https://jingsourcing.com/wp-content/uploads/2015/12/%E5%8E%95%E7%BA%B8-1024x768.jpg)
 
-* Get the product price from the supplier
-* Get the shipping charges from China freight forwarding company (like us)
-* Get the charges of Customs clearance, duty&tax, land transport to your warehouse
+Interesting toilet paper with pictures printed
 
-### 5. Find your supplier in China and place an order.
+But they only found that the total cost to import from China has no big difference from the price in their countries. Because this kind of product has no much added value, and the cost is mostly depending on raw material. So the price is very transparent, even with large demanded quantity.
 
-Place your order with the vendor, shipper or exporter and identify shipping terms that will be used.
+Toilet paper is also a very common product, but our Czech customer select those with **interesting designs printed**: such as US dollar, Euro, Heller, and even Kama Sutra. These special toilet paper can be easily sold in several times higher price than the common one.
 
-Once you have selected your supplier, request a P/I (Proforma Invoice or Quote Sheet) for your prospective purchases to include the harmonized system number, description & value per item. Your P/I must show the weight & the packed dimensions as well as your term of purchase.
+## 3.How to Find Chinese Suppliers for Small Quantity Buyers?
 
-_What is a proforma invoice? It is a non binding document helping budgeting your future purchases. It is not a purchase order nor does it creates a legal obligation._
+Most small quantity buyers find Chinese suppliers **on Internet**. Even customers who buy larger quantity (around USD 30,000-50,000 for each order), they seldom actually come to China for finding suppliers, except attending some fairs.
 
-#### Attention:
+First is the high cost, including air ticket, hotel fee, and traffic allowance, and it will cost totally around USD 4,000 for a week visiting China. Second is finding a good Chinese supplier is a tough task, except you go directly to some places like fairs or **[Yiwu wholesale market](https://jingsourcing.com/yiwu-wholesale-market-guide-1/)**. Or you already contacted suppliers before coming to China.
 
-**1.** Ensure the supplier will agree to shipping under [FOB terms](https://cargofromchina.com/why-fob/) from their nearest port or airport as this will greatly reduce your shipping costs and give you more control over the shipment.
+### a. Alibaba
 
-For example, if you were importing from China and the closest port to the supplier is Shanghai, you would request FOB Shanghai terms.
+No matter for large buyers or small quantity buyers, searching Chinese suppliers on Alibaba is the best choice. But If you are buying too small quantity (less than USD 400 for each item), Alibaba suppliers probably can’t sell you because usually they have higher MOQ.
 
-\* If it’s trial order or small shipment, EXW will be also ok.
+Maybe you can pay for products in higher price, and sometimes suppliers will sell you. If not, you have to turn to DHgate or Aliexpress. Don’t spend much time on persuading them that you **will buy big quantity** in future, and this is for trial. Because Chinese suppliers are hearing this from clients every day, and it doesn’t work at all.
 
-**2.** Keep in mind shipping by ocean is indeed quite slow, and this means that certainly requires a lot more long-term planning compared to domestic product purchases. Besides, the time required to export goods, including documentation, inland travel, customs clearance, and port or terminal handling for a container of goods can cost upto 7 days.
+If you want to learn how to find good suppliers on Alibaba, please check another article: [**Tips for Sourcing Good Suppliers on Alibaba. You Never Knew Before.**](https://jingsourcing.com/how-to-source-good-suppliers-on-alibaba-completely-guide/)
 
-In general, we recommend place an order at a minimum _3 months before you need your goods at your door_.
+### **b. Dhgate and Aliexpress**
 
-#### We suggest NOT:
+If the Alibaba supplier’s MOQ is still hard for you to reach, maybe you can only go to DHgate and Aliexpress. Usually DHgate tends to **small quantity wholesalers** whose buying quantity is between Alibaba and Aliexpress. Aliexpress more tends to **retailers**, though it claims itself for online wholesale, and this truth is known by most Chinese suppliers.
 
-**1.** Always looking for the lowest price.
+## **4.How to Ship Cargo from China When Buying Small Quantity?**
 
-If you come across a quote that is significantly cheaper than the others, raise a red flag. You should know that there is no lowest price in China, only the lower and lower prices. Lowest price always accompanies with high risk, maybe quality, quantity or reputation.
+I have to say that shipping way is really a big problem for small quantity buyers as mentioned in the beginning. Sometimes small quantity have to give up importing from China because express is the only way to ship, and it’s too expensive.
 
-_Just find a reliable supplier and grow with them in a healthy way._
+### **a. International Express and Air Freight**
 
-**2.** Failure to clarify product details.
+International express is suitable for cargoes under 300kg, while air freight is suitable for over 300kg. But air freight needs the same import & export processes as sea freight. You also need to pick up your cargo at the airport.
 
-If you aren’t extremely clear to your supplier about your required specifications, there is a big chance you would receive exactly what you didn’t want. Not clear means the factory will make the decision for you based on cost saving.
+Hazardous articles such as liquid, power and products with battery cannot be shipped by air in cargo. Balancing scooter is also one among them. (You can check another article-**[Importing Balancing Scooter from China: Problems You Should Know](https://jingsourcing.com/importing-balancing-scooter-china-problems-know/)**)
 
-Ensure you double check the materials and the manufacturing process of each quote so you can feel confident in the products you are purchasing.
+### **b. LCL Companies That Offer All-in Price Shipping Service**
 
-_Make sure your supplier has totally confirmed every spec of your target product, including the packaging. Sometimes, it’s necessary to send the sample for recheck._
+This kind of LCL companies are the best choice for small quantity buyers. They usually are specialized in **certain ports or areas**, and offer all-in price shipping service. They will handle all custom and shipping process, and you just need to pick up your cargo in their warehouse, or sometimes they can deliver to door. Their price is very low even you ship 0.5CBM, because the container is shared by 10 to 40 clients.
 
-**3.** Showing distrust towards your supplier.
+(You can learn more by check another article: [**How to Ship Products When Import from China: Complete Guide**](https://jingsourcing.com/how-to-ship-products-when-import-from-china/))
 
-International trade is based on mutual trust. If you don’t trust your supplier, nobody will look after your production in the factory, and nobody will sincerely help you when trouble happens.
+But these kind of companies are **hard to find**, not existing in every area or cities. You’d better ask some experienced importers in your country, and maybe they know.
 
-### 6. Arrange your cargo transport.
+I know some of this kind shipping companies, and I’d like to share them. You can leave your email and country in the comment, and I will send you contact information via Email.  
 
-There are many costs associated with shipping goods, including container fees, packaging, terminal handling, and broker fees. In order to get a complete picture of shipping costs, each of these factors should be taken into account.
+There are companies offering $80/CBM to Malaysia & Singapore, delivering to door; $280/CBM to Kenya but you have to pick up cargos at their warehouse in Nairobi; $280/CBM to Sydney/Melbourne warehouse, etc. The rate is just for reference.
 
-Once happy with the [freight quote](https://cargofromchina.com/quote/), you will need to send us or forwarder your supplier’s contact details. We’ll take it from there. We’re going to keep close touch with you and your supplier, make sure your shipment transportation quick and safe.
+### **c.** **Consolidate Cargoes from Different Suppliers And Ship Together**
 
-Check the details:
+If you are buying from **different suppliers**, then you can think about consolidate them in one shipment, and you will save shipping cost. Because even use international express, heavy cargo is charged in lower price/kg than light one.
 
-1. [Top 2 things to consider when shipping from China](https://cargofromchina.com/shipping-from-china/)  
-2. [Sea freight](https://cargofromchina.com/sea-freight/)  
-3. [Air freight](https://cargofromchina.com/air-freight/)  
-4. [Courier service](https://cargofromchina.com/courier-services/)
+It makes more sense for sea freight. If you import 5 different products from 5 suppliers, each product 0.5CBM, then you can consider to consolidate them together by LCL sea shipping. By doing this, your shipping cost will be 80% less than express. Or you have to pay for 5 international express separately, because there’s no cheaper solution.
 
-#### We suggest:
+So you need a person to consolidate your cargoes in China. One solution is to find a reliable forwarder who has **its own warehouse**, then you can use it for consolidation (usually free of charge). However, most of forwarders don’t have warehouse, and they just pick up your cargo from the supplier, then send to LCL shipping company to load in container. (This may due to the particularity of Chinese shipping agency industry, which we will introduce in future article)
 
-**1.** Always consider that [delays](https://cargofromchina.com/shipping-delays/) might happen during the process, such as goods might not be produced on time, the vessel might not sail as scheduled, goods might be held by the customs. Be prepared and plan accordingly.
+Another Solution is you can choose **one reliable supplier**, and let other suppliers send all the cargoes to him, then the forwarder can pick up cargoes together in one place.
 
-Do not expect your cargo would leave the port as soon as completed in the factory. Because it needs at least 1~2 days for your cargo transport from the factory to the port. And the process of Customs Declaration needs your cargo to stay at the port for at least 1~2 days.
+We strongly recommend you to try to consolidate cargoes, so that you can gain more import experience. Then congratulations, you moved the first step of expanding your business, and you can try to purchase larger quantity next time.
 
-Besides, there’s only one route frequency each week in some cases. Missing the day of this week, you will have to wait till next week.
+![Consolidate cargos from different suppliers and ship together](https://jingsourcing.com/wp-content/uploads/2015/12/consolidate-cargoes.png)
 
-**2.** Choose a [good freight forwarder partner](https://cargofromchina.com/).
+Forwarder are picking up consolidated cargoes in customer’s warehouse
 
-Logistics is a highly valued aspect of modern business. Shipping costs include both the direct and indirect costs of transporting products from their point of origin to their destination market.
+## **5.How to Avoid Scam When Buying Small Quantity as a Business Beginner?**
 
-If they get it right, and choose a good logistics provider; they are guaranteed smooth operations, manageable costs, and continuous cash flow.
+Many starter business are afraid of being scammed when buying products on Internet from China, but the truth is **seldom people** were under this case.
 
-If they get it wrong, at the very least they could have rising costs and wastage. At worst, they could be facing a failing business model that has to be eventually shut down. Companies will continue to lose money if their logistics is not managed well.
+No matter you are buying from Alibaba, Aliexpress, or DHgate, none of suppliers can take your money without sending the products. Because on this kind of online platforms, all suppliers are required to offer their Chinese ID cards, or company registration information in the beginning. Then they have to **pay certain amount fee** every year to become suppliers on these platforms. Such as for being **Gold Supplier** in Alibaba, you have to pay CNY 29,800 (around USD 4,730) annually for member fee; pay for USD 4,700 deposit to become suppliers in Aliexpress.![Gold Supplier on Alibaba](https://jingsourcing.com/wp-content/uploads/2015/12/Gold-Supplier-on-Alibaba.jpg)
 
-### 7. Track your cargo and get prepared for arrival.
+_One interesting thing is: many people believe that Gold Suppliers are qualified suppliers verified by Alibaba, that’s also what Alibaba tells. But it’s not true. All suppliers on Alibaba are Gold Suppliers, because they already paid for it. So you can just ignore the Gold Supplier thing when searching suppliers on Alibaba._
 
-Shipping goods internationally takes time. For example, goods shipped from China, on average, take around 14 days to reach the West Coast of United States or 30 days to reach the East Coast.
+So the worst situation is the products sent by supplier are in worse quality than you expect, or less products you received.
 
-During the time, check your commercial invoice, packing list, the bill of lading, and other related [freight documents](https://cargofromchina.com/shipping-documents/). If problems arise that you need to troubleshoot, you should know the steps your goods go through when being cleared by Customs of your country.
-
-### 8. Obtain your shipment.
-
-When the goods arrive, make arrangements for your customs broker to clear them through customs (and quarantine if applicable). If everything goes well, it’s your rights to pick up your shipment.
-
-If you choose our to-door service, you can just wait for your shipment arrived at your designated address.
-
-### Summary
-
-![import from china container station](../resources/images/import-from-china-end.png )
-
-Follow these tips and do your research and you can benefit from importing from China.
-
-Wish you a great success in international trade.
-
-Please feel free to let us know if we can assist you in any way.
+What you should do when finding suppliers online is being careful, and **do not only** focus on lowest price, because you already can get good profit in retail. Or you will take risk of receiving cheap quality or problem products. Even you want to return the products at that time, you will find shipping cost is high, and most Chinese sellers **don’t accept** return and refund.
