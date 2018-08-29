@@ -16,7 +16,7 @@ For shipping **less than 200Kg** common products, there’s almost **no better c
 
 International express (FedEx, DHL, UPS, etc.) is suitable for **high-value products** or products which need to be delivered to certain place very soon, such as fashion products including jewelry, clothing, or electronics.
 
-There is one important thing you should keep in mind when using international express: they calculate the bulky cargo by **dimension weight** (length*width*height/5000). If you ship 200 mugs to Canada by DHL, the weight is 200g/mug, but the dimension weight is 300g/mug, then DHL will charge by 300g/mug. So that means products with big space will cost a lot express fee.![international express-FedEx](https://jingsourcing.com/wp-content/uploads/2015/11/FedEx_Boeing_777-F28_Zhao-300x208.jpg)
+There is one important thing you should keep in mind when using international express: they calculate the bulky cargo by **dimension weight** (length*width*height/5000). If you ship 200 mugs to Canada by DHL, the weight is 200g/mug, but the dimension weight is 300g/mug, then DHL will charge by 300g/mug. So that means products with big space will cost a lot express fee.![international express-FedEx](../resources/images/FedEx_Boeing_777-F28_Zhao-300x208.jpg )
 
 However, large purchasers sometimes prefer international express than air freight because it usually have **cargo promotion price** which is much cheaper if you have large cargo that is over 1,000 Kg. The price is not much difference from air freight, but is more convenient than the latter.
 
@@ -58,7 +58,7 @@ _One forwarder we worked with are specialized in African line. They can even acc
 
 _If you know some of this kind company, please tell us by email:_ [_info@jingsourcing.com_](mailto:info@jingsourcing.com)_, thank you._
 
-![Less container load sea shipping way](https://jingsourcing.com/wp-content/uploads/2015/11/LCL-sea-shipping.png)
+![Less container load sea shipping way](../resources/images/LCL-sea-shipping.png )
 
 A forwarder who offers LCL service
 
@@ -76,7 +76,7 @@ This shipping way will be introduced in detail in future articles.
 
 **[Yixin’ou Railway Line](https://www.rt.com/news/207447-china-spain-longest-train/)** was opened on Nov. 2014, which connect China and many countries in Europe. This line start at **[Yiwu City](https://jingsourcing.com/yiwu-wholesale-market-guide-1/)**, China, via Kazakhstan, Russia, Belarus, Poland, Germany, France, and finally arrived in Madrid, Spain. But it only accept full **container load shipping** currently.
 
-![yixin'ou railway line](https://jingsourcing.com/wp-content/uploads/2015/11/yixinou-line.jpg)
+![yixin'ou railway line](../resources/images/yixinou-line.jpg )
 
 Yixin’ou line’s route
 

@@ -14,7 +14,7 @@ Last September, a US company “Segway” applied to the USITC (United States In
 
 Segway is the manufacturer of **world’s first balancing scooter**, also the only manufacturer located in US. It holds over 600 patents of balancing scooter. So the application to USITC is aim to several Chinese balancing factories for patent infringement. The final result of this investigation will directly determine whether made-in-China balancing scooters can keep selling in US.
 
-![patent issue of balancing scooter in US](https://jingsourcing.com/wp-content/uploads/2015/11/evoke-shutterstock_186076265.jpg)
+![patent issue of balancing scooter in US](../resources/images/evoke-shutterstock_186076265.jpg )
 
 Loom bands from Rainbow loom
 
@@ -32,7 +32,7 @@ Battery of balancing scooter is around 150Wh which makes it **not possible** to 
 
 Although sea shipping must take more time, it’s safer and more legal, which is necessary for all business.
 
-![balancing scooter is one of hazardous articles in air freight](https://jingsourcing.com/wp-content/uploads/2015/11/hazardous-articles.png)
+![balancing scooter is one of hazardous articles in air freight](../resources/images/hazardous-articles.png )
 
 A list of hazardous articles in air freight
 
@@ -50,7 +50,7 @@ With a reasonable price, a reliable shop, and commendable service, customers wil
 
 Being one kind of electronic bike, battery is **key point of** balancing scooter. It will decide how long distance it goes and the power it performs.
 
-![choose balancing scooters with good quality battery, such as Samsung or LG battery](https://jingsourcing.com/wp-content/uploads/2015/11/tmp_25807-SAMSUNG_BATTERY_MINI_SST_Two-Wheels-Self-Balancing-Scooter-2-Wheel-1231541246-300x272.jpeg)
+![choose balancing scooters with good quality battery, such as Samsung or LG battery](../resources/images/tmp_25807-SAMSUNG_BATTERY_MINI_SST_Two-Wheels-Self-Balancing-Scooter-2-Wheel-1231541246-300x272.jpeg )
 
 Balancing scooter with Samsung battery
 
