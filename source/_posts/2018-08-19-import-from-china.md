@@ -60,7 +60,7 @@ Toilet paper is also a very common product, but our Czech customer select those 
 
 Most small quantity buyers find Chinese suppliers **on Internet**. Even customers who buy larger quantity (around USD 30,000-50,000 for each order), they seldom actually come to China for finding suppliers, except attending some fairs.
 
-First is the high cost, including air ticket, hotel fee, and traffic allowance, and it will cost totally around USD 4,000 for a week visiting China. Second is finding a good Chinese supplier is a tough task, except you go directly to some places like fairs or [Yiwu wholesale market](https://blog.inesoi.com/trade/2018-08-28-yiwu-wholesale-market-complete-guide). Or you already contacted suppliers before coming to China.
+First is the high cost, including air ticket, hotel fee, and traffic allowance, and it will cost totally around USD 4,000 for a week visiting China. Second is finding a good Chinese supplier is a tough task, except you go directly to some places like fairs or [Yiwu wholesale market](https://blog.inesoi.com/yiwu-wholesale-market-complete-guide.html). Or you already contacted suppliers before coming to China.
 
 ### a. Alibaba
 
@@ -68,7 +68,7 @@ No matter for large buyers or small quantity buyers, searching Chinese suppliers
 
 Maybe you can pay for products in higher price, and sometimes suppliers will sell you. If not, you have to turn to DHgate or Aliexpress. Don’t spend much time on persuading them that you **will buy big quantity** in future, and this is for trial. Because Chinese suppliers are hearing this from clients every day, and it doesn’t work at all.
 
-If you want to learn how to find good suppliers on Alibaba, please check another article: [**Tips for Sourcing Good Suppliers on Alibaba. You Never Knew Before.**](https://blog.inesoi.com/trade/2018-08-30-how-to-source-good-suppliers-on-alibaba-completely-guide)
+If you want to learn how to find good suppliers on Alibaba, please check another article: [**Tips for Sourcing Good Suppliers on Alibaba. You Never Knew Before.**](https://blog.inesoi.com/how-to-source-good-suppliers-on-alibaba-completely-guide.html)
 
 ### b. Dhgate and Aliexpress
 
@@ -82,13 +82,13 @@ I have to say that shipping way is really a big problem for small quantity buyer
 
 International express is suitable for cargoes under 300kg, while air freight is suitable for over 300kg. But air freight needs the same import & export processes as sea freight. You also need to pick up your cargo at the airport.
 
-Hazardous articles such as liquid, power and products with battery cannot be shipped by air in cargo. Balancing scooter is also one among them. (You can check another article-**[Importing Balancing Scooter from China: Problems You Should Know](https://jingsourcing.com/importing-balancing-scooter-china-problems-know/)**)
+Hazardous articles such as liquid, power and products with battery cannot be shipped by air in cargo. Balancing scooter is also one among them. (You can check another article-**[Importing Balancing Scooter from China: Problems You Should Know](https://blog.inesoi.com/importing-balancing-scooter-china-problems-know.html)**)
 
 ### b. LCL Companies That Offer All-in Price Shipping Service
 
 This kind of LCL companies are the best choice for small quantity buyers. They usually are specialized in **certain ports or areas**, and offer all-in price shipping service. They will handle all custom and shipping process, and you just need to pick up your cargo in their warehouse, or sometimes they can deliver to door. Their price is very low even you ship 0.5CBM, because the container is shared by 10 to 40 clients.
 
-(You can learn more by check another article: [**How to Ship Products When Import from China: Complete Guide**](https://jingsourcing.com/how-to-ship-products-when-import-from-china/))
+(You can learn more by check another article: [**How to Ship Products When Import from China: Complete Guide**](https://blog.inesoi.com/how-to-ship-products-when-import-from-china.html)
 
 But these kind of companies are **hard to find**, not existing in every area or cities. You’d better ask some experienced importers in your country, and maybe they know.
 
