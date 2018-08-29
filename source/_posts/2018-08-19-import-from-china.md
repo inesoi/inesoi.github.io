@@ -1,5 +1,5 @@
 layout: post
-title: How to Import Small Quantity from China: Guide for Business Starter
+title: How to Import Small Quantity from China - Guide for Business Starter
 tags: [trade]
 category: Trade
 ---
