@@ -68,7 +68,7 @@ No matter for large buyers or small quantity buyers, searching Chinese suppliers
 
 Maybe you can pay for products in higher price, and sometimes suppliers will sell you. If not, you have to turn to DHgate or Aliexpress. Don’t spend much time on persuading them that you **will buy big quantity** in future, and this is for trial. Because Chinese suppliers are hearing this from clients every day, and it doesn’t work at all.
 
-If you want to learn how to find good suppliers on Alibaba, please check another article: [**Tips for Sourcing Good Suppliers on Alibaba. You Never Knew Before.**](https://jingsourcing.com/how-to-source-good-suppliers-on-alibaba-completely-guide/)
+If you want to learn how to find good suppliers on Alibaba, please check another article: [**Tips for Sourcing Good Suppliers on Alibaba. You Never Knew Before.**](https://blog.inesoi.com/trade/2018-08-30-how-to-source-good-suppliers-on-alibaba-completely-guide)
 
 ### b. Dhgate and Aliexpress
 
