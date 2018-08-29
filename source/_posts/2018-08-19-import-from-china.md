@@ -48,7 +48,7 @@ Some people think that daily used products, such as socks, are very easy to be s
 
 Common products in daily life are not suitable for small business, either. For instance, we received many inquiries of from different countries (European and Middle East countries), and they want to import 20GP container of A4 printing papers.
 
-![toilet paper](../resources/images/%E5%8E%95%E7%BA%B8-1024x768.jpg )
+![toilet paper](../resources/images/toilet-paper-1024x768.jpg)
 
 Interesting toilet paper with pictures printed
 
@@ -60,7 +60,7 @@ Toilet paper is also a very common product, but our Czech customer select those 
 
 Most small quantity buyers find Chinese suppliers **on Internet**. Even customers who buy larger quantity (around USD 30,000-50,000 for each order), they seldom actually come to China for finding suppliers, except attending some fairs.
 
-First is the high cost, including air ticket, hotel fee, and traffic allowance, and it will cost totally around USD 4,000 for a week visiting China. Second is finding a good Chinese supplier is a tough task, except you go directly to some places like fairs or **[Yiwu wholesale market](https://jingsourcing.com/yiwu-wholesale-market-guide-1/)**. Or you already contacted suppliers before coming to China.
+First is the high cost, including air ticket, hotel fee, and traffic allowance, and it will cost totally around USD 4,000 for a week visiting China. Second is finding a good Chinese supplier is a tough task, except you go directly to some places like fairs or [Yiwu wholesale market](https://blog.inesoi.com/trade/2018-08-28-yiwu-wholesale-market-complete-guide). Or you already contacted suppliers before coming to China.
 
 ### a. Alibaba
 
@@ -96,7 +96,7 @@ I know some of this kind shipping companies, and I’d like to share them. You c
 
 There are companies offering $80/CBM to Malaysia & Singapore, delivering to door; $280/CBM to Kenya but you have to pick up cargos at their warehouse in Nairobi; $280/CBM to Sydney/Melbourne warehouse, etc. The rate is just for reference.
 
-### c.** **Consolidate Cargoes from Different Suppliers And Ship Together
+### c.Consolidate Cargoes from Different Suppliers And Ship Together
 
 If you are buying from **different suppliers**, then you can think about consolidate them in one shipment, and you will save shipping cost. Because even use international express, heavy cargo is charged in lower price/kg than light one.
 
