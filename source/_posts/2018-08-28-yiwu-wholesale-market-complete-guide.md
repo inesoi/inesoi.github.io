@@ -12,7 +12,7 @@ By reading this article, you will get to learn the features of Yiwu wholesale ma
 
 This is a long article, and I organize it into 7 chapters. You can click either icons or the text below, to navigate to each chapters. If you like this article, please share it with your friends.
 
-## Chapter 1: Where is Yiwu? & What is Yiwu Wholesale Market?
+## 1. Where is Yiwu? & What is Yiwu Wholesale Market?
 
 Where is Yiwu? Yiwu is located in Zhejiang Province, close to Ningbo Port and Shanghai Port. For more information about the location of Yiwu and how to get to Yiwu, you can [click here](https://jingsourcing.com/how-to-get-to-yiwu/). 
 
@@ -33,7 +33,7 @@ In fact, Yiwu has many wholesale markets. But the most famous wholesale market i
 
 And what I have mentioned in this article is  referring to this market. As for some other Yiwu Markets, I will discuss them in Chapter 8. 
 
-## Chapter 2: A Map Guide of Yiwu Wholesale Market
+## 2. A Map Guide of Yiwu Wholesale Market
 
 The Yiwu wholesale market has five main districts, each with 3-4 floors. All the areas are connected. Actually, you can visit the market from one district to the other four districts without leaving the building. 
 
@@ -78,7 +78,7 @@ You can easily find the products that you want to import from here. I have sorte
 - F3: Needle Weaver Fabrics, Knitting Raw Material, Curtains
 - F4: Auto Accessories, Car & Motorcycle Parts, Pet (fish) Products
 
-## Chapter 3: How to Deal With Suppliers in Yiwu Market?
+## 3. How to Deal With Suppliers in Yiwu Market?
 
 ### 1.How to communicate with Suppliers in Yiwu Market
 
@@ -97,8 +97,7 @@ Since the sellers can only communicate in this simple way, if you go to buy a sm
 Translator and agents can help you determine price, quantity per carton, CBM per carton, minimum order quantity, production time, minimum quantity for customizing packaging and more with suppliers. 
 
 
-    ![A foreign customer is visiting a flag booth with an agent](../resources/images/A-foreign-customer-is-visiting-a-flag-booth-with-an-agent.jpg )
-    <figcaption class="vc_figure-caption">A foreign customer is visiting a flag booth with an agent</figcaption>
+![A foreign customer is visiting a flag booth with an agent](../resources/images/A-foreign-customer-is-visiting-a-flag-booth-with-an-agent.jpg )
 
 
 Here, you need to note that the work of the translator is mainly to help you communicate with the supplier in the market. But as for orders, inspections, and delivery after leaving the market, that’s not their job. The reward for a translator is about ¥350 a day, which is equivalent to $40-$50 a day. 
@@ -132,7 +131,7 @@ Some customers think that if they directly ask the supplier whether the price of
 
 You don’t have to be surprised, because this is normal. Since suppliers don’t believe you will buy 10, 000 pieces. They just think that this is a trick of you asking them about the lowest price possible. So, when you hear that the price of 1000 pieces is almost the same as that of 10, 000 pieces, you shouldn’t be surprised at all.
 
-## Chapter 4: Find A Yiwu Market Agent and Know Their Tricks
+## 4. Find A Yiwu Market Agent and Know Their Tricks
 
 When you come to Yiwu, you will find that there are too many agents. But there are only a few large companies with at least 500 people, and thousands of agents with 10 people or less, or even just 2-3 people. 
 
@@ -210,7 +209,7 @@ In order to maintain the interests of their own company, some agencies that char
 
     When you and the supplier decide on the product and price, the agent will force the supplier to cut the price when placing the order. This way, the agent receives the profit from the price difference. This situation will also cause the supplier to give you poor product quality and protect their profit.
 
-## Chapter 5: How to Ship Products from Yiwu to Your Country?
+## 5. How to Ship Products from Yiwu to Your Country?
 
 Yiwu is a city with very developed logistics and transportation networks. Here, you can choose to ship to your country in many ways. In general, there is express delivery, air transportation, and shipping. 
 
@@ -241,7 +240,7 @@ If you are from a country along the “[Yixinou Railway](https://www.businessins
 
 ![“Yixinou Railway”](../resources/images/yixinou2.png )
 
-## Chapter 6: Four Things You Need to Know About Yiwu Wholesale Market
+## 6. Four Things You Need to Know About Yiwu Wholesale Market
 
 ### 6.1 Are All the Booths Opened by Manufacturers?
 
@@ -281,7 +280,7 @@ You can’t find any other place like Yiwu wholesale market that collects so man
 
 Ningbo doesn’t have any market and its advantage is the port only. On the other hand, Shenzhen only has a market for electronic products, while Guangzhou is a popular market for jewelry, clothing, and related items. And these markets are in different places and sourcing from them is not easy. It is only during Canton Fair when suppliers congregate at one place in China.
 
-## Chapter 7: Other Wholesale Markets and Yiwu Fairs
+## 7. Other Wholesale Markets and Yiwu Fairs
 
 In fact, Yiwu has many different types of wholesale markets. The Yiwu wholesale market that you know is referred to as the “Futian market”. But there are other wholesale markets in Yiwu. These markets are not as famous as the Futian market, but you can also find some products that you want here.
 

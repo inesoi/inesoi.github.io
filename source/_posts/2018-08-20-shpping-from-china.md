@@ -1,5 +1,5 @@
 layout: post
-title: ips & Tricks for Shipping Smarter while Saving Time and Money
+title: Tips & Tricks for Shipping Smarter while Saving Time and Money
 tags: [trade, shipping]
 category: Trade
 ---
@@ -30,8 +30,6 @@ In this blog we’ll share **our knowledge and practical experiences** about the
 
 We will be adding and updating information often. Be sure to come back to get the latest tips & tricks on China shipping. Below shows you some of our popular subjects.
 
----
-
 ### Basic Guide
 
 * [ISF](https://cargofromchina.com/isf/ "ISF 10+2 Filing") (US)
@@ -46,8 +44,6 @@ We will be adding and updating information often. Be sure to come back to get th
 * [Certificate of Origin](https://cargofromchina.com/certificate-of-origin/ "Certificate of Origin from China (Samples)")
 * [Shipping Documents](https://cargofromchina.com/shipping-documents/ "Shipping Documents")
 * [Freight Forwarder Job Description](https://cargofromchina.com/freight-forwarder/ "What is a Freight Forwarder and What does It Mean to You?")
-
----
 
 ### Premium Guide
 
@@ -68,8 +64,6 @@ We will be adding and updating information often. Be sure to come back to get th
 * [Why Worldwide Free Shipping Make Sense For China Seller?](https://cargofromchina.com/free-shipping/ "Why Worldwide Free Shipping Make Sense For China Seller?")
 * [What information you need to provide for an accurate freight quote?](https://cargofromchina.com/freight-quote/ "What information you need to provide for an accurate freight quote?")
 
----
-
 ### Shipping by Region (example)
 
 * [USA](https://cargofromchina.com/china-usa/ "Shipping from China to USA: Q&A")
@@ -79,14 +73,10 @@ We will be adding and updating information often. Be sure to come back to get th
 * [Canada](https://cargofromchina.com/china-canada/ "Shipping from China to Canada")
 * [Australia](https://cargofromchina.com/china-pacific/ "Shipping from China to Australia")
 
----
-
 ### Resources
 
 * [Recommended Books](https://cargofromchina.com/books/ "Recommended Books about China, Chinese, Culture, and Business")
 * [Central Asia Rail Station Code](https://cargofromchina.com/central-asia-rail-station-code/ "Central Asia Rail Station Code")
-
-![China container](../resources/images/blog-china-container.png )
 
 We supply cargo and freight transportation solutions for all shipping needs from China, with competitive charges. As a customer-driven company, we will:
 
