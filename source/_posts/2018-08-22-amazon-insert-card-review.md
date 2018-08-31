@@ -12,13 +12,10 @@ These don’t have to be super complicated.
 
 Basically, you want to make sure you:
 
-1) Follow the rules.
-
-2) Remind customers why they bought your product (highlight the benefits).
-
-3) Actually ask them to leave a review and include instructions for doing so.
-
-4) Keep the design simple, easy-to-read and brand-congruent.
+1. Follow the rules.
+2. Remind customers why they bought your product (highlight the benefits).
+3. Actually ask them to leave a review and include instructions for doing so.
+4. Keep the design simple, easy-to-read and brand-congruent.
 
 ## Don’t Break the Rules
 
@@ -77,13 +74,3 @@ Once you have a wide selection of products ranking well on Amazon and they all h
 If you simply want to build an email list of your customers so that you can email them during your new product launches, then the best way to do this is by inviting them to a landing page, so that you capture their email addresses. Your product should retail for more than $20 for this to work adequately, as it is extremely unlikely that anyone will take out the warranty on products with a low-value. Below is an example of an insert card that you can use to encourage customers to sign up to your email list. Feel free to copy it and use it as a template for your own Amazon product insert card.
 
 “At Yoga Panda we offer a **FREE** 1-year warranty on all of our products. This means that if your product breaks through no fault of your own we will replace it with a new one for **FREE**. To the avail of the Yoga Panda 1-year warranty, you must sign up for free within 1 week of making your purchase. Please visit www.yogapanda.com/warranty within 1 week of making your purchase and enter your name and email address to get covered.”
-
-![Amazonfba-Product-Insert-Cards](../resources/images/4-Amazon-Product-Insert-Cards.png )
-
-I hope that you found this helpful. Please let me know if you have any further questions in relation to Amazon product insert cards, or anything to do with building a private label brand on and off Amazon. My direct email address is james@internetbizuni.com.
-
-[CLICK HERE](https://www.facebook.com/groups/1714883708830449/) to connect with other brand builders on Facebook via the [Internetbizuni brand builders help group](https://www.facebook.com/groups/1714883708830449/).
-
-**P.S: If you want to learn how to start a profitable private label brand on Amazon then ([CLICK HERE) ](https://uniqueprivatelabel.com/)this course is perfect for you.**
-
-**P.S.S: If you already sell private label products on Amazon and you want to learn how to increase your profit and grow your brand to the next level, then this course ([CLICK HERE](http://advancedprivatelabel.com/)) is perfect for you.**
