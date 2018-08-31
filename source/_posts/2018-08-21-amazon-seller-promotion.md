@@ -4,7 +4,7 @@ tags: [amazon]
 category: Amazon
 ---
 
-## Promostion
+## Promotion
 
 时不时地设置些 Promotion，除了能增加购买率之外，也可以提高 Listing 的能见度。以下 BQool 归纳了创建Promotion 的步奏，提供各位卖家作参考。
 
@@ -17,61 +17,141 @@ category: Amazon
 * Buy one get one (买一送一)
 * External Benefits (额外赠品)
 
-### Step 1: Conditions 以下有几种情况
+__Step 1: Conditions 以下有几种情况__
 
-#### 1. Buyers Purchase 买家购买：
+1. Buyers Purchase 买家购买：
 
-* **At least this quantity of items (至少 X 样商品)**: 表示此促销方案只有在顾客购买X样商品时方可采用，您必须填入数字
+    - **At least this quantity of items (至少 X 样商品)**: 表示此促销方案只有在顾客购买X样商品时方可采用，您必须填入数字
 
-* **At least amount (in $) (至少X金额)**: 表示此促销方案只有在顾客购买至少X金额时方可采用
+    - **At least amount (in $) (至少X金额)**: 表示此促销方案只有在顾客购买至少X金额时方可采用
 
-* **For every quantity of items purchased (每 X 样商品)**: 顾客每购买X个商品即可得到此促销方案，这个选项仅适用于Money Off 与 Buy One Get One的促销类别
+    - **For every quantity of items purchased (每 X 样商品)**: 顾客每购买X个商品即可得到此促销方案，这个选项仅适用于Money Off 与 Buy One Get One的促销类别
 
-#### 2. Purchased Items 已购买商品：
+2. Purchased Items 已购买商品：
 
-Select a product list 挑选商品清单- 您可以创建新的清单 (点击 **Create a new product selection**)，或是挑选不在下拉选单中的清单 (点击 **Select another**)，若您想要在您库存中选择单个产品，点击 **Entire catalog**
+    Select a product list 挑选商品清单- 您可以创建新的清单 (点击 **Create a new product selection**)，或是挑选不在下拉选单中的清单 (点击 **Select another**)，若您想要在您库存中选择单个产品，点击 **Entire catalog**
 
-#### 3. Buyer gets 买家得到：
+3. Buyer gets 买家得到：
 
-* Money Off: 从下拉选单中选择一项
+    - Money Off: 从下拉选单中选择一项
+    - Percent off
+    - Amount off (in $)
+    - Fixed price for all items (in $): 此选项表示顾客每购买X项商品，将可享有固定金额的折扣，这个选项仅在您上面选择 **For every quantity of items purchased (每 X 样商品)** 时适用
+    - Buy One Get One: 使用默认选项的 **Free items**
+    - External Benefits: 使用默认选项的 **Post-order benefits**
 
-* Percent off
+4. Applies to 适用于：
 
-* Amount off (in $)
+    - **Money Off**: 选择 **Qualifying Item，**点击 **Select an ASIN**
+    - **Buy One Get One**: 选择 **Qualifying Item，**点击 **Select an ASIN** 来选择适用的品项。还要设置您附赠商品的数量
+    - **External Benefits**: 使用默认设置的 **Purchased Items**
 
-* Fixed price for all items (in $): 此选项表示顾客每购买X项商品，将可享有固定金额的折扣，这个选项仅在您上面选择 **For every quantity of items purchased (每 X 样商品)** 时适用
+5. Advanced Options 进阶选项：
 
-* Buy One Get One: 使用默认选项的 **Free items**
-
-* External Benefits: 使用默认选项的 **Post-order benefits**
-
-#### 4. Applies to 适用于：
-
-* **Money Off**: 选择 **Qualifying Item，**点击 **Select an ASIN**
-
-* **Buy One Get One**: 选择 **Qualifying Item，**点击 **Select an ASIN** 来选择适用的品项。还要设置您附赠商品的数量
-
-* **External Benefits**: 使用默认设置的 **Purchased Items**
-
-#### 5. Advanced Options 进阶选项：
-
-**Tiers** (只适用于 Money Off 的促销): 创建重叠的促销方案套用于不同金额的 order，您可以创建最多9个方案。注意如果您选择 **Applies to Qualifying Item**，Tiers 的选项将无法套用。
+    **Tiers** (只适用于 Money Off 的促销): 创建重叠的促销方案套用于不同金额的 order，您可以创建最多9个方案。注意如果您选择 **Applies to Qualifying Item**，Tiers 的选项将无法套用。
 
 **Exclude Items 排除项目**: 选择您想要排除在促销方案之外的产品，要选择不在下拉选单中的清单，**请选择 Select another**。
 
-### Step 2: Scheduling 時程表
+__Step 2: Scheduling 時程表__
 
 **1. Date Range**: 设定开始与结束的日期时间开始的时间必须要在未来四小时之后
-
 **2. Identifier**: 创建内部描述与 Tracking ID。Tracking ID 并不会显示给买家，仅供内部用途。
 
-### Step 3: Additional Options 附加选项
+__Step 3: Additional Options 附加选项__
 
-**1. Claim code**: 选择 **Claim code** 来限制买家使用以取得优惠。点击 **Claim code** 来展开设定
+1. Claim code: 选择 **Claim code** 来限制买家使用以取得优惠。点击 **Claim code** 来展开设定
+2. Customize messaging 客制化讯息: 创建或客制给客户的讯息，并设置展示的先后顺序。点击 Customize messaging 来展开设定
+3. 设定完以上资讯，预览没有问题之后，点击 **Submit**
 
-**2. Customize messaging** 客制化讯息: 创建或客制给客户的讯息，并设置展示的先后顺序。点击 **Customize messaging** 来展开设定
+## 一次性优惠码
 
-**3.** 设定完以上资讯，预览没有问题之后，点击 **Submit**
+1. 卖家後台点选 Promotion：[ Advertising ]  > [ Promotions ]
+
+    ![亚马逊一次性优惠码 设置亚马逊优惠代码](http://blog.bqool.cn/wp-content/uploads/image13-2.png "亚马逊一次性优惠码 设置亚马逊优惠代码")
+
+2. 点选 [ Percentage off ] → [Create]**
+
+    ![](http://blog.bqool.cn/wp-content/uploads/QQ%E6%88%AA%E5%9B%BE20180420131825.jpg "设置亚马逊优惠代码")
+
+3. 点击 [ Create a new product selection ]**
+
+    ![](http://blog.bqool.cn/wp-content/uploads/QQ%E6%88%AA%E5%9B%BE20180420132044.jpg "设置亚马逊优惠代码")
+
+4. Create a new product selection
+
+    - Product Selection Type： 点选 ASIN List
+    - 按下 [ Create Product Selection ]
+
+    ![](http://blog.bqool.cn/wp-content/uploads/QQ%E6%88%AA%E5%9B%BE20180420133946.jpg "设置亚马逊优惠代码")
+
+5. Setup product selection details
+
+    - Product Selection Name / Tracking ID： 输入 Product_Review_Year_Month_Asin# (这是 BQool 建议输入的格式，您也可以自己创造自己的格式！)
+    
+    - Internal Description： 输入 Product Review Year Month ASIN#
+
+    - ASIN List： 输入 ASIN
+
+    - Submit： 按下 [Submit]
+
+    ![设置亚马逊优惠代码](http://blog.bqool.cn/wp-content/uploads/image12-3.png "设置亚马逊优惠代码")
+
+6. 回到 [ Promotions ] >  [ Percentage Off ]  >  [ Create ]
+
+    ![](http://blog.bqool.cn/wp-content/uploads/QQ%E6%88%AA%E5%9B%BE20180420131825.jpg "设置亚马逊优惠代码")
+
+7. Step 1： Conditions
+
+    - Purchased Items： 选择刚建立的 product selection
+    - Buyer gets： 选择 [ Percentage off ]
+    - 输入想要折价百分比
+
+    **（举例：如果你想要打 7 折，请输入 30；想要打 2 折，请输入 80，****千万不要写反，以免下场凄惨。）**
+
+    ![](http://blog.bqool.cn/wp-content/uploads/QQ%E6%88%AA%E5%9B%BE20180420132414.jpg "设置亚马逊优惠代码")
+
+8. Step 2： Scheduling
+
+    - End Date： 至少输入六个月或一年後的日期 （看您需要的日期）
+    - Internal Description： 输入 Product Review year month ASIN
+
+    ![设置亚马逊优惠代码](http://blog.bqool.cn/wp-content/uploads/image02-17.png "设置亚马逊优惠代码")
+
+9. Step 3： Additional Options
+
+    - Internal Description：  自行输入
+    - Claim Code： 请选 Single -Use
+    - One redemption per customer： 请务必勾选
+    - Detail page display text： 更新之后，默认不会显示
+
+    ![](http://blog.bqool.cn/wp-content/uploads/QQ%E6%88%AA%E5%9B%BE20180420134529.jpg "设置亚马逊优惠代码")
+
+10. Review Promotion → [Submit]
+
+    ![](http://blog.bqool.cn/wp-content/uploads/QQ%E6%88%AA%E5%9B%BE20180420134805.jpg "设置亚马逊优惠代码")
+
+11. 按下 [Manage Your Promotions]
+
+    ![设置亚马逊优惠代码](http://blog.bqool.cn/wp-content/uploads/image14-1.png "设置亚马逊优惠代码")
+
+12. 点击 [ Manage Promotion ] > 选择 [ All ] > 看到刚刚设定的促销
+
+    ![QQ截图20180420135033](http://blog.bqool.cn/wp-content/uploads/QQ%E6%88%AA%E5%9B%BE20180420135033.jpg)
+
+13. 按下 [Manage claim codes]
+
+    ![QQ截图20180420135208](http://blog.bqool.cn/wp-content/uploads/QQ%E6%88%AA%E5%9B%BE20180420135208.jpg)
+
+14. Manage Claim Codes
+
+    - Group Name： 输入名称
+    - Quantity： 输入数量 Quantity (看您想要给几个人，这边举例 8 位)
+    - Create： 按下 [Create]
+    - 右下角下载 **[ Download ]** 即可！
+
+    ![](http://blog.bqool.cn/wp-content/uploads/QQ%E6%88%AA%E5%9B%BE20180420135344.jpg "设置亚马逊优惠代码")
+
+    ![设置亚马逊优惠代码](http://blog.bqool.cn/wp-content/uploads/image01-18.png "设置亚马逊优惠代码")
 
 ## Free Shipping
 
