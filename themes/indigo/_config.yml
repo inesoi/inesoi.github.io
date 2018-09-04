@@ -86,7 +86,7 @@ baidu_tongji: false
 tajs: false
 
 # google
-google_analytics: UA-103612072-1
+google_analytics: 
 google_site_verification: true
 
 # less
